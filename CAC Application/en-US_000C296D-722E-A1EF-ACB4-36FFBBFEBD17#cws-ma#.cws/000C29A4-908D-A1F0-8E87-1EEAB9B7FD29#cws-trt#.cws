@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8E87-1EEAB9B83D29">
+	<DocumentID>000C29A4-908D-A1F0-8E87-1EEAB9B7FD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8E87-1EEAB9B7FD29</Name>
+	<Description>UpdateOCR_DocumentsCheck CREDITAPPLICATION</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-26T10:33:03.044</CreationDate>
+	<Notes/>
+	<Text>UpdateOCR_DocumentsCheck CREDITAPPLICATION</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8E87-1EEAB9B77D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

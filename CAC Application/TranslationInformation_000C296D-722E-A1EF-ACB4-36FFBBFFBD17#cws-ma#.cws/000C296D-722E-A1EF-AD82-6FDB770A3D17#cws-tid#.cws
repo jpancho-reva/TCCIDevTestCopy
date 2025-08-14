@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD82-6FDB770A7D17">
+	<DocumentID>000C296D-722E-A1EF-AD82-6FDB770A3D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD82-6FDB770A3D17</Name>
+	<Description>Loan Balance Amount</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T08:45:22.933</CreationDate>
+	<Notes/>
+	<DefaultText>Loan Balance Amount</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-AD82-6FDB770ABD17"
+		/>
+	</Translations>
+</TextIdentifier>

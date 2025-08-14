@@ -1,0 +1,26 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BD6C-D4D7A440FD24">
+	<DocumentID>000C29A4-908D-A1EF-BD6C-D4D7A440BD24</DocumentID>
+	<Name>000C29A4-908D-A1EF-BD6C-D4D7A440BD24</Name>
+	<Description>Validate
+Credit Decision Date</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-28T09:52:50.597</CreationDate>
+	<Notes/>
+	<DefaultText>Validate
+Credit Decision Date</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BD6C-D4D7A4413D24"
+		/>
+	</Translations>
+</TextIdentifier>

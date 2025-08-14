@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5EB-1559CB5D3D1D">
+	<DocumentID>000C296D-722E-A1EF-B5EB-1559CB5CFD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5EB-1559CB5CFD1D</Name>
+	<Description>Disability Insurance Amount</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T04:03:51.939</CreationDate>
+	<Notes/>
+	<Text>Disability Insurance Amount</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5EB-1559CB5C7D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

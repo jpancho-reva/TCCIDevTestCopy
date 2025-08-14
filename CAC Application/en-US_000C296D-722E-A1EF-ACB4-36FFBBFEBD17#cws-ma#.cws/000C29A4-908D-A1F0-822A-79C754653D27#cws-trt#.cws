@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-822A-79C754657D27">
+	<DocumentID>000C29A4-908D-A1F0-822A-79C754653D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-822A-79C754653D27</Name>
+	<Description>UpdateContractApplicationForBookingRequest</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-24T12:22:51.622</CreationDate>
+	<Notes/>
+	<Text>UpdateContractApplicationForBookingRequest</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-822A-79C75464BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD82-6FDB77037D17">
+	<DocumentID>000C296D-722E-A1EF-AD82-6FDB77033D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD82-6FDB77033D17</Name>
+	<Description>Migration Status</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T08:47:02.222</CreationDate>
+	<Notes/>
+	<DefaultText>Migration Status</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-AD82-6FDB7703BD17"
+		/>
+	</Translations>
+</TextIdentifier>

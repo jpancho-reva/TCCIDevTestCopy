@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="000C29A4-908D-A1F0-89CD-40AFB0617D27">
+	<DocumentID>000C29A4-908D-A1F0-89CD-40AFB0613D27</DocumentID>
+	<Name>PurgeWorkflowTransientScheduler</Name>
+	<Description>PurgeTransientDataOCR_DocumentCheck, OCR_Coversheet, OCR_DocumentRequired, Workflow Transient</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-02T09:44:43.356</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="PurgeWorkflowTransientScheduler"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2025-05-02T09:08:30.079"
+			msgHolderLastModified="2025-08-12T08:47:59.834">
+			<datetime>
+				<daily>
+					<time>23:0</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="000C29A4-908D-A1F0-89CD-40AFB05F3D27">
+			<DocumentID>000C29A4-908D-A1F0-89CD-40AFB05EFD27</DocumentID>
+			<Name>000C29A4-908D-A1F0-89CD-40AFB05EFD27</Name>
+			<Description>000C29A4-908D-A1F0-89CD-40AFB05EFD27</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-05-02T09:44:43.355</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="000C29A4-908D-A1F0-8968-2D4FB8393D27"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

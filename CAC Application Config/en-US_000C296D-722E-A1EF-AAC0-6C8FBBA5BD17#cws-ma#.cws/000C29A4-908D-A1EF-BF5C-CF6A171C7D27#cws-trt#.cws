@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BF5C-CF6A171CBD27">
+	<DocumentID>000C29A4-908D-A1EF-BF5C-CF6A171C7D27</DocumentID>
+	<Name>000C29A4-908D-A1EF-BF5C-CF6A171C7D27</Name>
+	<Description>Province Territory Code</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-10T05:58:14.64</CreationDate>
+	<Notes/>
+	<Text>Province Territory Code</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BF5C-CF6A171BFD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-86A0-03D15CD3FD27">
+	<DocumentID>000C29A4-908D-A1F0-86A0-03D15CD3BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-86A0-03D15CD3BD27</Name>
+	<Description>RouteFromReadyToFund</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-16T05:03:37.669</CreationDate>
+	<Notes/>
+	<Text>RouteFromReadyToFund</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-86A0-03D15CD33D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

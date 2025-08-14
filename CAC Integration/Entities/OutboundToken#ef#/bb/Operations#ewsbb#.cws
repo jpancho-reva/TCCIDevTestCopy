@@ -1,0 +1,57 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C296D-722E-A1EF-B10D-260F08DFFD1A">
+	<DocumentID>000C296D-722E-A1EF-B10D-260F08DFBD1A</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2024-12-27T09:33:06.488</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-B10C-B04DF2617D1A"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B10D-260F08DEBD1A">
+			<DocumentID>000C296D-722E-A1EF-B10D-260F08DE7D1A</DocumentID>
+			<Name>ReadOutboundToken</Name>
+			<Description>Read OutboundToken</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2024-12-27T09:33:06.489</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B10C-B04DF2617D1A"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B10D-260F08DE3D1A">
+			<DocumentID>000C296D-722E-A1EF-B10D-260F08DDFD1A</DocumentID>
+			<Name>UpdateOutboundToken</Name>
+			<Description>Update OutboundToken</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2024-12-27T09:33:06.489</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B10C-B04DF2617D1A"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

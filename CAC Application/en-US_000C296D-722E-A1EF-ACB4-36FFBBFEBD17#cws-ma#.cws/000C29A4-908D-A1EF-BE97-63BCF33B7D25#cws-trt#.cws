@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE97-63BCF33BBD25">
+	<DocumentID>000C29A4-908D-A1EF-BE97-63BCF33B7D25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE97-63BCF33B7D25</Name>
+	<Description>Contract Review To Ready To Book</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-06T07:43:50.842</CreationDate>
+	<Notes/>
+	<Text>Contract Review To Ready To Book</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE97-63BCF33AFD25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

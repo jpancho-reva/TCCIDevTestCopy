@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD86-9F9B0761BD17">
+	<DocumentID>000C296D-722E-A1EF-AD86-9F9B07617D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD86-9F9B07617D17</Name>
+	<Description>Contract Channel Cd</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T10:49:40.369</CreationDate>
+	<Notes/>
+	<Text>Contract Channel Cd</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD86-9F9B0760FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

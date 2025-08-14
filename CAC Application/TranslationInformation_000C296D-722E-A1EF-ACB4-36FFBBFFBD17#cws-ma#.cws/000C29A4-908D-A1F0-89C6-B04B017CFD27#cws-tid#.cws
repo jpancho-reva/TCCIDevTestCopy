@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-89C6-B04B017D3D27">
+	<DocumentID>000C29A4-908D-A1F0-89C6-B04B017CFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-89C6-B04B017CFD27</Name>
+	<Description>FetchApplicationPurgeDuration</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-02T06:02:54.054</CreationDate>
+	<Notes/>
+	<DefaultText>FetchApplicationPurgeDuration</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-89C6-B04B017D7D27"
+		/>
+	</Translations>
+</TextIdentifier>

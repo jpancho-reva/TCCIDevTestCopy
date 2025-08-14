@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B950-3D83FAB83D21">
+	<DocumentID>000C29A4-908D-A1EF-B950-3D83FAB7FD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B950-3D83FAB7FD21</Name>
+	<Description>&quot;Dealer Organization Number must be at least 5 characters long&quot;</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-07T10:51:48.257</CreationDate>
+	<Notes/>
+	<DefaultText>&quot;Dealer Organization Number must be at least 5 characters long&quot;</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA43D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B950-3D83FAB87D21"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-857E-6D5856083D27">
+	<DocumentID>000C29A4-908D-A1F0-857E-6D585607FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-857E-6D585607FD27</Name>
+	<Description>Exception Workflow</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-10T11:00:23.985</CreationDate>
+	<Notes/>
+	<Text>Exception Workflow</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-857E-6D5856077D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

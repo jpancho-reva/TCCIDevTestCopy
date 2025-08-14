@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB1-9F15A2C43D17">
+	<DocumentID>000C296D-722E-A1EF-ADB1-9F15A2C3FD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB1-9F15A2C3FD17</Name>
+	<Description>In progress</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T07:15:42.319</CreationDate>
+	<Notes/>
+	<Text>In progress</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB1-9F15A2C37D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

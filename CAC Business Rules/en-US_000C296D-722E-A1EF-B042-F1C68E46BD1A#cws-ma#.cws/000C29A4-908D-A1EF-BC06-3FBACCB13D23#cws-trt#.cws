@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BC06-3FBACCB17D23">
+	<DocumentID>000C29A4-908D-A1EF-BC06-3FBACCB13D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BC06-3FBACCB13D23</Name>
+	<Description>ReadCoversheet</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-21T06:02:16.074</CreationDate>
+	<Notes/>
+	<Text>ReadCoversheet</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BC06-3FBACCB0BD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

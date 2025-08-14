@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8B34-5EF618347D27">
+	<DocumentID>000C29A4-908D-A1F0-8B34-5EF618343D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8B34-5EF618343D27</Name>
+	<Description>CreateNeedAttentionMessage</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-09T12:31:32.009</CreationDate>
+	<Notes/>
+	<Text>CreateNeedAttentionMessage</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8B34-5EF61833BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

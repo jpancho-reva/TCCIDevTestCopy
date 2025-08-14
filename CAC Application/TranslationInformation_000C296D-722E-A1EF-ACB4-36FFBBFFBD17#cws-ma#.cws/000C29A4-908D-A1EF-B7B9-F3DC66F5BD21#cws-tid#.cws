@@ -1,0 +1,36 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B9-F3DC66F5FD21">
+	<DocumentID>000C29A4-908D-A1EF-B7B9-F3DC66F5BD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B9-F3DC66F5BD21</Name>
+	<Description>000C29A4-908D-A1EF-B7B9-F3DC66F5BD21</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T09:18:34.981</CreationDate>
+	<Notes/>
+	<DefaultText>{
+  (item.Properties.OCRJobId == null ? &quot;OCRJobId is required parameter &quot; : &quot;&quot;) +
+  (item.Properties.IsEmployee == null ? &quot;IsEmployee is required parameter &quot; : &quot;&quot;) +
+  (item.Properties.Department == null ? &quot;Department is required parameter &quot; : &quot;&quot;) +
+  (item.Properties.DocumentTypeList == null ? &quot;DocumentTypeList is required parameter &quot; : &quot;&quot;) +
+  (item.Properties.Investigation == null ? &quot;Investigation is required parameter&quot; : &quot;&quot;) +
+  (item.Properties.KofaxCreationDatetime == null ? &quot;KofaxCreationDatetime is required parameter&quot; : &quot;&quot;) +
+  (item.Properties.Unindexed == null ? &quot;Unindexed is required parameter&quot; : &quot;&quot;) +
+  (item.Properties.ApplicationNum == null ? &quot;ApplicationNum is required parameter, &quot; : &quot;&quot;) +
+  (item.Properties.CorrelationID == null ? &quot;CorrelationID is required parameter &quot; : &quot;&quot;) +
+  (item.Properties.Mode == null ? &quot;Mode is required parameter&quot; : &quot;&quot;) +
+  (item.Properties.TenantIdentifier == null ? &quot;TenantIdentifier is required parameter&quot; : &quot;&quot;)
+}</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B7B9-F3DC66F63D21"
+		/>
+	</Translations>
+</TextIdentifier>

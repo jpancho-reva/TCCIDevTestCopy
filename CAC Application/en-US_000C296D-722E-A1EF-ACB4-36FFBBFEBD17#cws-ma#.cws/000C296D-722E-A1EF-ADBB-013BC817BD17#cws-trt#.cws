@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBB-013BC817FD17">
+	<DocumentID>000C296D-722E-A1EF-ADBB-013BC817BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBB-013BC817BD17</Name>
+	<Description>Supervisor Credit Requeue List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T11:45:51.906</CreationDate>
+	<Notes/>
+	<Text>Supervisor Credit Requeue List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADBB-013BC8173D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

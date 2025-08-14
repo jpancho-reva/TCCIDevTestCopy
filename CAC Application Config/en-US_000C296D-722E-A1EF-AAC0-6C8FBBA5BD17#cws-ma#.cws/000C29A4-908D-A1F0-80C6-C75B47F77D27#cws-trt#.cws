@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-80C6-C75B47F7BD27">
+	<DocumentID>000C29A4-908D-A1F0-80C6-C75B47F77D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-80C6-C75B47F77D27</Name>
+	<Description>Event Lookup List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-17T10:54:14.44</CreationDate>
+	<Notes/>
+	<Text>Event Lookup List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-80C6-C75B47F6FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

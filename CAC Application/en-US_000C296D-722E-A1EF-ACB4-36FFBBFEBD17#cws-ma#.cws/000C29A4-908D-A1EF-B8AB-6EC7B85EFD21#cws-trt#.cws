@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B8AB-6EC7B85F3D21">
+	<DocumentID>000C29A4-908D-A1EF-B8AB-6EC7B85EFD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B8AB-6EC7B85EFD21</Name>
+	<Description>ReIndexApplicationDocument</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-04T05:50:21.568</CreationDate>
+	<Notes/>
+	<Text>ReIndexApplicationDocument</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B8AB-6EC7B85E7D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

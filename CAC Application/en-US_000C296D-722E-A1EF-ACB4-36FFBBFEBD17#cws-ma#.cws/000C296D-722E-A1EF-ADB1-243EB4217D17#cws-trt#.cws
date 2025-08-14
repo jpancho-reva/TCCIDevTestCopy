@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB1-243EB421BD17">
+	<DocumentID>000C296D-722E-A1EF-ADB1-243EB4217D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB1-243EB4217D17</Name>
+	<Description>Need Attention Comments</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T07:03:19.883</CreationDate>
+	<Notes/>
+	<Text>Need Attention Comments</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB1-243EB420FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B728-3E202EFFFD1E">
+	<DocumentID>000C296D-722E-A1EF-B728-3E202EFFBD1E</DocumentID>
+	<Name>000C296D-722E-A1EF-B728-3E202EFFBD1E</Name>
+	<Description>MoveNode</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-27T11:29:10.197</CreationDate>
+	<Notes/>
+	<Text>MoveNode</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B728-3E202EFF3D1E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

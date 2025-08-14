@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE70-373CC86BBD25">
+	<DocumentID>000C29A4-908D-A1EF-BE70-373CC86B7D25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE70-373CC86B7D25</Name>
+	<Description>Kofax Sent Documents</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-05T12:54:05.608</CreationDate>
+	<Notes/>
+	<DefaultText>Kofax Sent Documents</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BE6F-676FCF22BD25"
+		/>
+	</Translations>
+</TextIdentifier>

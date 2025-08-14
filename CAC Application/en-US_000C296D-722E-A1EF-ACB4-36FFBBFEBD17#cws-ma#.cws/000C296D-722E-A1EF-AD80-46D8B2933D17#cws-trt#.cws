@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD80-46D8B2937D17">
+	<DocumentID>000C296D-722E-A1EF-AD80-46D8B2933D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD80-46D8B2933D17</Name>
+	<Description>Encore</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T07:42:31.689</CreationDate>
+	<Notes/>
+	<Text>Encore</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD80-46D8B292BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

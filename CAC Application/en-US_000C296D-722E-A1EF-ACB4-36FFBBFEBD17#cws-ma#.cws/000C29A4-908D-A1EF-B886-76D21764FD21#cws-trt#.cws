@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B886-76D217653D21">
+	<DocumentID>000C29A4-908D-A1EF-B886-76D21764FD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B886-76D21764FD21</Name>
+	<Description>ReadLifecycleTask</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-03T12:00:42.952</CreationDate>
+	<Notes/>
+	<Text>ReadLifecycleTask</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B886-76D217647D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

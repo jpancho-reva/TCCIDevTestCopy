@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83E8-40550AC23D27">
+	<DocumentID>000C29A4-908D-A1F0-83E8-40550AC1FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-83E8-40550AC1FD27</Name>
+	<Description>A new task '{item.Task.Subject}' added to the workflow '{workflowName()}' on {typeOf(item.ParentEntity.Identity.EntityType)}. {A item.Task.Subject task is escalated}</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-02T09:45:48.65</CreationDate>
+	<Notes/>
+	<Text>A new task '{item.Task.Subject}' added to the workflow '{workflowName()}' on {typeOf(item.ParentEntity.Identity.EntityType)}. {A item.Task.Subject task is escalated}</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-83E8-40550AC17D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

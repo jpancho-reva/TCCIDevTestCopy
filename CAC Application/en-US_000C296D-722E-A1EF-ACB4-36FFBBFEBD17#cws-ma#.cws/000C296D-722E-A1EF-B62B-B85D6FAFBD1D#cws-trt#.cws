@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62B-B85D6FAFFD1D">
+	<DocumentID>000C296D-722E-A1EF-B62B-B85D6FAFBD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62B-B85D6FAFBD1D</Name>
+	<Description>Direct Payment</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T11:05:12.395</CreationDate>
+	<Notes/>
+	<Text>Direct Payment</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B62C-266E1B0FBD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

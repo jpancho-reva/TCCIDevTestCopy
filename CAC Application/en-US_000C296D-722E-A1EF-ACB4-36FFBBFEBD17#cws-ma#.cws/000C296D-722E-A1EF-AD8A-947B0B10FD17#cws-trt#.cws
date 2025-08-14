@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD8A-947B0B113D17">
+	<DocumentID>000C296D-722E-A1EF-AD8A-947B0B10FD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD8A-947B0B10FD17</Name>
+	<Description>Trash</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T13:03:30.475</CreationDate>
+	<Notes/>
+	<Text>Trash</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD8A-947B0B107D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

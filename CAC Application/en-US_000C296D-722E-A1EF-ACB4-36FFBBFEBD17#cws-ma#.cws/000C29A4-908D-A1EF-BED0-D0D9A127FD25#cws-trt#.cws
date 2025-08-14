@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BED0-D0D9A1283D25">
+	<DocumentID>000C29A4-908D-A1EF-BED0-D0D9A127FD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BED0-D0D9A127FD25</Name>
+	<Description>UpdateApplicationNeedsAttention</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-07T11:02:47.388</CreationDate>
+	<Notes/>
+	<Text>UpdateApplicationNeedsAttention</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BED0-D0D9A1277D25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9207-3730B5A4FD29">
+	<DocumentID>000C29A4-908D-A1F0-9207-3730B5A4BD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-9207-3730B5A4BD29</Name>
+	<Description>General Manager</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-13T06:20:30.427</CreationDate>
+	<Notes/>
+	<Text>General Manager</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9207-3730B5A43D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

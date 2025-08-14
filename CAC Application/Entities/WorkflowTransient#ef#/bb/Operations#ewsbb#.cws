@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BC9A-FE4437AA3D23">
+	<DocumentID>000C29A4-908D-A1EF-BC9A-FE4437A9FD23</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-24T05:05:14.333</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BE37-C06B06217D25">
+			<DocumentID>000C29A4-908D-A1EF-BE37-C06B06213D25</DocumentID>
+			<Name>CreateWorkflowTransient</Name>
+			<Description>Create WorkflowTransient</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-03-04T10:32:14.789</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B5F0-E402C2B2FD1D"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8939-61632AC2BD27">
+			<DocumentID>000C29A4-908D-A1F0-8939-61632AC27D27</DocumentID>
+			<Name>DeleteWorkflowTransient</Name>
+			<Description>Delete WorkflowTransient</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-04-29T10:39:14.908</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B5F0-E402C2B2FD1D"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-B5F0-E402C2B2FD1D"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BC9A-FE4437A97D23">
+			<DocumentID>000C29A4-908D-A1EF-BC9A-FE4437A93D23</DocumentID>
+			<Name>ReadWorkflowTransient</Name>
+			<Description>Read WorkflowTransient</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T05:05:14.333</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B5F0-E402C2B2FD1D"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BE3A-131EDA95BD25">
+			<DocumentID>000C29A4-908D-A1EF-BE3A-131EDA957D25</DocumentID>
+			<Name>UpdateWorkflowTransient</Name>
+			<Description>Update WorkflowTransient</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-03-04T11:04:57.63</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B5F0-E402C2B2FD1D"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

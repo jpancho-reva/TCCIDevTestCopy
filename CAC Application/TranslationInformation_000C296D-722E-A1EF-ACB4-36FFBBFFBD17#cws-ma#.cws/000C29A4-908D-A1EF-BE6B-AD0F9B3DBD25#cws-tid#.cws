@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE6B-AD0F9B3DFD25">
+	<DocumentID>000C29A4-908D-A1EF-BE6B-AD0F9B3DBD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE6B-AD0F9B3DBD25</Name>
+	<Description>FetchDealerDetails</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-05T10:51:35.525</CreationDate>
+	<Notes/>
+	<DefaultText>FetchDealerDetails</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BE6B-AD0F9B3E3D25"
+		/>
+	</Translations>
+</TextIdentifier>

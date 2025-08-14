@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5F6-AB33741C7D1D">
+	<DocumentID>000C296D-722E-A1EF-B5F6-AB33741C3D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5F6-AB33741C3D1D</Name>
+	<Description>Generate Token for OTDS</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T09:33:27.02</CreationDate>
+	<Notes/>
+	<Text>Generate Token for OTDS</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5F6-AB33741BBD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

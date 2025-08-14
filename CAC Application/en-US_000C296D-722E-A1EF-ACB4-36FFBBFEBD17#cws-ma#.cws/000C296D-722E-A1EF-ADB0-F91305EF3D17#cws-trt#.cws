@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB0-F91305EF7D17">
+	<DocumentID>000C296D-722E-A1EF-ADB0-F91305EF3D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB0-F91305EF3D17</Name>
+	<Description>LEV Validated</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:57:51.108</CreationDate>
+	<Notes/>
+	<Text>LEV Validated</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB0-F91305EEBD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

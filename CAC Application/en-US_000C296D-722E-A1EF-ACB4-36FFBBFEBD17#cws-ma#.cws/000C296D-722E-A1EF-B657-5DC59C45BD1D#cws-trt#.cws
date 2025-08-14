@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B657-5DC59C45FD1D">
+	<DocumentID>000C296D-722E-A1EF-B657-5DC59C45BD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B657-5DC59C45BD1D</Name>
+	<Description>Financed Advance Amt</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-23T07:46:04.933</CreationDate>
+	<Notes/>
+	<Text>Financed Advance Amt</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B657-5DC59C453D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

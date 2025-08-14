@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B533-5BF5431DFD1D">
+	<DocumentID>000C296D-722E-A1EF-B533-5BF5431DBD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B533-5BF5431DBD1D</Name>
+	<Description>Verify Application Number In OCRJob</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-17T12:39:16.892</CreationDate>
+	<Notes/>
+	<DefaultText>Verify Application Number In OCRJob</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B533-5BF5431E3D1D"
+		/>
+	</Translations>
+</TextIdentifier>

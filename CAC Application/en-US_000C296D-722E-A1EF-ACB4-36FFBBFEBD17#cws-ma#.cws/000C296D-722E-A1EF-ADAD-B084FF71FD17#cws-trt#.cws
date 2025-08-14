@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADAD-B084FF723D17">
+	<DocumentID>000C296D-722E-A1EF-ADAD-B084FF71FD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADAD-B084FF71FD17</Name>
+	<Description>Approval Category Code</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T05:27:42.771</CreationDate>
+	<Notes/>
+	<Text>Approval Category Code</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADAD-B084FF717D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

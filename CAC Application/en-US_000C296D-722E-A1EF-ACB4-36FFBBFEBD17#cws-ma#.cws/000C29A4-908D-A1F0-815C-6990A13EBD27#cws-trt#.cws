@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-815C-6990A13EFD27">
+	<DocumentID>000C29A4-908D-A1F0-815C-6990A13EBD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-815C-6990A13EBD27</Name>
+	<Description>ReadContractApplication</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-20T10:01:20.944</CreationDate>
+	<Notes/>
+	<Text>ReadContractApplication</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-815C-6990A13E3D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

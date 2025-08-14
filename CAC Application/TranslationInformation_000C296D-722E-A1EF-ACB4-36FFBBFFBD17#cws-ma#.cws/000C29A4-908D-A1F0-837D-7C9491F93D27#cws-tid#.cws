@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-837D-7C9491F97D27">
+	<DocumentID>000C29A4-908D-A1F0-837D-7C9491F93D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-837D-7C9491F93D27</Name>
+	<Description>Rename file for cases when only application number is changed or when both application number and document type is changed</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-31T06:08:09.441</CreationDate>
+	<Notes/>
+	<DefaultText>Rename file for cases when only application number is changed or when both application number and document type is changed</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-837D-7C9491F9BD27"
+		/>
+	</Translations>
+</TextIdentifier>

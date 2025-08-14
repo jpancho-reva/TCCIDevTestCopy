@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB1-56BE518FBD17">
+	<DocumentID>000C296D-722E-A1EF-ADB1-56BE518F7D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB1-56BE518F7D17</Name>
+	<Description>Replacement Walkaway Amount</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T07:30:28.668</CreationDate>
+	<Notes/>
+	<Text>Replacement Walkaway Amount</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB1-56BE518EFD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

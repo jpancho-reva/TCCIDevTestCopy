@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC7-F9C5CD147D17">
+	<DocumentID>000C296D-722E-A1EF-AAC7-F9C5CD143D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC7-F9C5CD143D17</Name>
+	<Description>KOFAX Ref Organization List</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T11:28:29.334</CreationDate>
+	<Notes/>
+	<Text>KOFAX Ref Organization List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC7-F9C5CD13BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

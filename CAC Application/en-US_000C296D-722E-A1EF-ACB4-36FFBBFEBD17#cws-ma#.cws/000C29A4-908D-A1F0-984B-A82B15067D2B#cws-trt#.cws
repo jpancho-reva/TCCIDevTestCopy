@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-984B-A82B1506BD2B">
+	<DocumentID>000C29A4-908D-A1F0-984B-A82B15067D2B</DocumentID>
+	<Name>000C29A4-908D-A1F0-984B-A82B15067D2B</Name>
+	<Description>Compensate</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-15T04:24:28.562</CreationDate>
+	<Notes/>
+	<Text>Compensate</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-984B-A82B1505FD2B"
+		/>
+	</TextIdentifier>
+</TranslatedText>

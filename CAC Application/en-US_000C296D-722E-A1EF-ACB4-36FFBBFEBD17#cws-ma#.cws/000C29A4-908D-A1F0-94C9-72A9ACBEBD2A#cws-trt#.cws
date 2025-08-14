@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-94C9-72A9ACBEFD2A">
+	<DocumentID>000C29A4-908D-A1F0-94C9-72A9ACBEBD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-94C9-72A9ACBEBD2A</Name>
+	<Description>UnIndexedApplicationLog</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-27T07:14:26.661</CreationDate>
+	<Notes/>
+	<Text>UnIndexedApplicationLog</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-94C9-72A9ACBE3D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

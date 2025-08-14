@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-90B3-35D3D8883D29">
+	<DocumentID>000C29A4-908D-A1F0-90B3-35D3D887FD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-90B3-35D3D887FD29</Name>
+	<Description>Six VIN</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-06T12:25:10.907</CreationDate>
+	<Notes/>
+	<Text>Six VIN</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-90B3-35D3D8877D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-80C3-88D01317FD27">
+	<DocumentID>000C29A4-908D-A1F0-80C3-88D01317BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-80C3-88D01317BD27</Name>
+	<Description>Language Preference Code</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-17T09:22:53.251</CreationDate>
+	<Notes/>
+	<Text>Language Preference Code</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-80C3-88D013173D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

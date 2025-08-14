@@ -1,0 +1,344 @@
+
+<ArchivePolicy
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.opentext.entity.archive.ArchivePolicy"
+	typeVersion="5F966D67-6B80-468B-90AE-7A2E3B297484"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C8FD23">
+	<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C8BD23</DocumentID>
+	<Name>Data_deletion_and_archival_configuration</Name>
+	<Description>Data_deletion_and_archival_configuration</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-24T12:41:39.219</CreationDate>
+	<Notes/>
+	<ExposeForReuse>false</ExposeForReuse>
+	<isSingleton>false</isSingleton>
+	<PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C7BD23">
+			<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C77D23</DocumentID>
+			<Name>Untitled Policy Setting</Name>
+			<Description>Untitled Policy Setting</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:39.218</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-B61E-70339E6DBD1D</EntityDocumentID>
+			<EntityName>UnindexApplication</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-B61E-70339E6D7D1D"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C6FD23">
+			<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C6BD23</DocumentID>
+			<Name>Untitled Policy Setting (1)</Name>
+			<Description>Untitled Policy Setting (1)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:40.727</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-AD7D-34351DB0BD17</EntityDocumentID>
+			<EntityName>TransientApplication</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-AD7D-34351DB07D17"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C5FD23">
+			<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C5BD23</DocumentID>
+			<Name>Untitled Policy Setting (2)</Name>
+			<Description>Untitled Policy Setting (2)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:41.431</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-ACB5-42731221BD17</EntityDocumentID>
+			<EntityName>Application</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-ACB5-427312217D17"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C4FD23">
+			<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C4BD23</DocumentID>
+			<Name>Untitled Policy Setting (3)</Name>
+			<Description>Untitled Policy Setting (3)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:42.112</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-B5F0-E402C2B33D1D</EntityDocumentID>
+			<EntityName>WorkflowTransient</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-B5F0-E402C2B2FD1D"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C3FD23">
+			<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C3BD23</DocumentID>
+			<Name>Untitled Policy Setting (4)</Name>
+			<Description>Untitled Policy Setting (4)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:42.885</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-B5EC-0AF3700A7D1D</EntityDocumentID>
+			<EntityName>OCR_DocumentsCheck</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-B5EC-0AF3700A3D1D"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C2FD23">
+			<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C2BD23</DocumentID>
+			<Name>Untitled Policy Setting (5)</Name>
+			<Description>Untitled Policy Setting (5)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:43.561</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-B5EE-DE0A2180BD1D</EntityDocumentID>
+			<EntityName>OCR_DocumentsRequired</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-B5EE-DE0A21807D1D"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C1FD23">
+			<DocumentID>000C29A4-908D-A1EF-BCA9-D5F336C1BD23</DocumentID>
+			<Name>Untitled Policy Setting (6)</Name>
+			<Description>Untitled Policy Setting (6)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:44.215</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-ADAB-1655D25D3D17</EntityDocumentID>
+			<EntityName>ApplicationDocument</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-ADAB-1655D25CFD17"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCA9-D5F336C0FD23">
+			<DocumentID>000C29A4-908D-A1EF-BCAB-2CBD5DDB3D23</DocumentID>
+			<Name>Untitled Policy Setting (7)</Name>
+			<Description>Untitled Policy Setting (7)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:45.206</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-B620-C391C61D7D1D</EntityDocumentID>
+			<EntityName>ApplicationNote</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-B620-C391C61D3D1D"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCAB-2CBD5DDA7D23">
+			<DocumentID>000C29A4-908D-A1EF-BCAB-2CBD5DDA3D23</DocumentID>
+			<Name>Untitled Policy Setting (8)</Name>
+			<Description>Untitled Policy Setting (8)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:45.835</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-B5EA-CBFA49CC7D1D</EntityDocumentID>
+			<EntityName>OCR_Coversheet</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-B5EA-CBFA49CC3D1D"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCAB-2CBD5DD97D23">
+			<DocumentID>000C29A4-908D-A1EF-BCAB-2CBD5DD93D23</DocumentID>
+			<Name>Untitled Policy Setting (9)</Name>
+			<Description>Untitled Policy Setting (9)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:46.451</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-AD7F-F4DD65C5FD17</EntityDocumentID>
+			<EntityName>CreditApplication</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-AD7F-F4DD65C5BD17"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCAB-2CBD5DD87D23">
+			<DocumentID>000C29A4-908D-A1EF-BCAB-2CBD5DD83D23</DocumentID>
+			<Name>Untitled Policy Setting (10)</Name>
+			<Description>Untitled Policy Setting (10)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:47.108</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-ADAF-6B971B87BD17</EntityDocumentID>
+			<EntityName>ContractApplication</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-ADAF-6B971B877D17"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCAB-2CBD5DD77D23">
+			<DocumentID>000C29A4-908D-A1EF-BCAB-2CBD5DD73D23</DocumentID>
+			<Name>Untitled Policy Setting (11)</Name>
+			<Description>Untitled Policy Setting (11)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:47.766</CreationDate>
+			<Notes/>
+			<CheckEntity>true</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-ADAB-112359F7FD17</EntityDocumentID>
+			<EntityName>OCRJob</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-ADAB-112359F7BD17"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist>
+				<uri
+					id="000C296D-722E-A1EF-ADB7-148F983D7D17"
+				/>
+			</SelectedWorklist>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BCAB-2CBD5DD67D23">
+			<DocumentID>000C29A4-908D-A1EF-BCAB-2CBD5DD63D23</DocumentID>
+			<Name>Untitled Policy Setting (12)</Name>
+			<Description>Untitled Policy Setting (12)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-24T12:41:48.386</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C296D-722E-A1EF-ADB6-F4F2037BFD17</EntityDocumentID>
+			<EntityName>OCRDocument</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C296D-722E-A1EF-ADB6-F4F2037BBD17"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BD00-5CA1CD503D23">
+			<DocumentID>000C29A4-908D-A1EF-BD00-5CA1CD4FFD23</DocumentID>
+			<Name>Untitled Policy Setting (13)</Name>
+			<Description>Untitled Policy Setting (13)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-26T05:22:35.871</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C29A4-908D-A1EF-BCCC-5FEF356BFD23</EntityDocumentID>
+			<EntityName>ApplicationNeedsAttention</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C29A4-908D-A1EF-BCCC-5FEF356BBD23"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1F0-882F-72E0C48A3D27">
+			<DocumentID>000C29A4-908D-A1F0-882F-72E0C489FD27</DocumentID>
+			<Name>Untitled Policy Setting (14)</Name>
+			<Description>Untitled Policy Setting (14)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-04-24T05:51:53.641</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C29A4-908D-A1F0-83AD-E00955EBBD27</EntityDocumentID>
+			<EntityName>EventLog</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-E00955EB7D27"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1F0-882F-72E0C4893D27">
+			<DocumentID>000C29A4-908D-A1F0-882F-72E0C488FD27</DocumentID>
+			<Name>Untitled Policy Setting (15)</Name>
+			<Description>Untitled Policy Setting (15)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-04-24T05:51:54.863</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C29A4-908D-A1F0-83AD-82629764FD27</EntityDocumentID>
+			<EntityName>EventDimension</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-82629764BD27"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+		<PolicySetting
+			type="com.opentext.entity.archive.PolicySetting"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8C93-3AD24B2E7D29">
+			<DocumentID>000C29A4-908D-A1F0-8C93-3AD24B2E3D29</DocumentID>
+			<Name>Untitled Policy Setting (16)</Name>
+			<Description>Untitled Policy Setting (16)</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-05-16T12:36:54.136</CreationDate>
+			<Notes/>
+			<CheckEntity>false</CheckEntity>
+			<EntityDocumentID>000C29A4-908D-A1F0-8B27-B1284AB33D27</EntityDocumentID>
+			<EntityName>NeedAttentionMessage</EntityName>
+			<SelectedEntity>
+				<uri
+					id="000C29A4-908D-A1F0-8B27-B1284AB2FD27"
+				/>
+			</SelectedEntity>
+			<SelectedWorklist/>
+		</PolicySetting>
+	</PolicySetting>
+</ArchivePolicy>

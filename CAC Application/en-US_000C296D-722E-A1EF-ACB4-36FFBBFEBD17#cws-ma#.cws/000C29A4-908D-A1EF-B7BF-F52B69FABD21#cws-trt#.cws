@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7BF-F52B69FAFD21">
+	<DocumentID>000C29A4-908D-A1EF-B7BF-F52B69FABD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7BF-F52B69FABD21</Name>
+	<Description>My Credit Investigation Tasks</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T11:50:38.707</CreationDate>
+	<Notes/>
+	<Text>My Credit Investigation Tasks</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B7BF-F52B69FA3D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

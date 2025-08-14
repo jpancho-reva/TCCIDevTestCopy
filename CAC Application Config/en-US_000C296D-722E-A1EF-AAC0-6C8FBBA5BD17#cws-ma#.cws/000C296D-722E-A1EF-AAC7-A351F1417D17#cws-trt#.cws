@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC7-A351F141BD17">
+	<DocumentID>000C296D-722E-A1EF-AAC7-A351F1417D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC7-A351F1417D17</Name>
+	<Description>INSURANCE_COMPANY</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T11:16:09.469</CreationDate>
+	<Notes/>
+	<Text>INSURANCE_COMPANY</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC7-A351F140FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

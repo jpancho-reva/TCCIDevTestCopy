@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62B-86B21F7DFD1D">
+	<DocumentID>000C296D-722E-A1EF-B62B-86B21F7DBD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62B-86B21F7DBD1D</Name>
+	<Description>Deductible Override</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T10:49:58.103</CreationDate>
+	<Notes/>
+	<Text>Deductible Override</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B62B-86B21F7D3D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

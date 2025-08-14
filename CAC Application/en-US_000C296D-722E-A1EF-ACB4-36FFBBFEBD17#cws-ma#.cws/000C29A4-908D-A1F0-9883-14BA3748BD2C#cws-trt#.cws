@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9883-14BA3748FD2C">
+	<DocumentID>000C29A4-908D-A1F0-9883-14BA3748BD2C</DocumentID>
+	<Name>000C29A4-908D-A1F0-9883-14BA3748BD2C</Name>
+	<Description>Supervisor Manual Review Required Loan</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-16T06:22:47.188</CreationDate>
+	<Notes/>
+	<Text>Supervisor Manual Review Required Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9883-14BA37483D2C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

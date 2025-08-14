@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8EB5-B6DFA3FD7D29">
+	<DocumentID>000C29A4-908D-A1F0-8EB5-B6DFA3FD3D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8EB5-B6DFA3FD3D29</Name>
+	<Description>SetWorkflowTransientData</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-27T08:48:18.278</CreationDate>
+	<Notes/>
+	<Text>SetWorkflowTransientData</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8EB5-B6DFA3FCBD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

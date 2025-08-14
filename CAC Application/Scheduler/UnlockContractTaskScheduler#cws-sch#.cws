@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82E8-69AA28E6FD27">
+	<DocumentID>000C29A4-908D-A1F0-82E8-69AA28E6BD27</DocumentID>
+	<Name>UnlockContractTaskScheduler</Name>
+	<Description>Automatically unlocks all the  Contract Tasks which are assigned to the users at at 2AM Server Time</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T07:19:12.078</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="UnlockContractTaskScheduler"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2025-03-28T07:18:35.189"
+			msgHolderLastModified="2025-08-12T08:48:01.922">
+			<datetime>
+				<daily>
+					<time>2:0</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="000C29A4-908D-A1F0-82E8-69AA28E3FD27">
+			<DocumentID>000C29A4-908D-A1F0-82E8-69AA28E3BD27</DocumentID>
+			<Name>000C29A4-908D-A1F0-82E8-69AA28E3BD27</Name>
+			<Description>000C29A4-908D-A1F0-82E8-69AA28E3BD27</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2025-03-28T07:19:12.078</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="000C29A4-908D-A1F0-82E3-CF5DD521FD27"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

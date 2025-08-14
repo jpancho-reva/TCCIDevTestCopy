@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8FE4-B31E02083D29">
+	<DocumentID>000C29A4-908D-A1F0-8FE4-B31E0207FD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8FE4-B31E0207FD29</Name>
+	<Description>Ready to Fund Supervisor</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-02T11:33:35.703</CreationDate>
+	<Notes/>
+	<Text>Ready to Fund Supervisor</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8FE4-B31E02077D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

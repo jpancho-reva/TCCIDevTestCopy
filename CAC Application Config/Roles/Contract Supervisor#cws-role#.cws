@@ -1,0 +1,29 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="000C29A4-908D-A1F0-851A-EE33639FBD27">
+	<DocumentID>000C29A4-908D-A1F0-851A-EE33639F7D27</DocumentID>
+	<Name>Contract Supervisor</Name>
+	<Description>Contract Supervisor</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-08T11:23:01.621</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="000C29A4-908D-A1F0-8575-E1972D1A3D27"
+		/>
+		<uri
+			id="000C29A4-908D-A1F0-85B0-24A339B5FD27"
+		/>
+		<uri
+			id="000C29A4-908D-A1F0-913F-59E0BB073D29"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

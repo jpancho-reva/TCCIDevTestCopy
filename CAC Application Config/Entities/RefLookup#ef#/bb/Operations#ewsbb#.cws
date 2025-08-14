@@ -1,0 +1,57 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC5-E51EE5BEBD17">
+	<DocumentID>000C296D-722E-A1EF-AAC5-E51EE5BE7D17</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T10:27:49.509</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-B911-F4BC8999FD21">
+			<DocumentID>000C29A4-908D-A1EF-B911-F4BC8999BD21</DocumentID>
+			<Name>CreateRefLookup</Name>
+			<Description>Create RefLookup</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-02-06T05:06:02.348</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AAC3-C3AC4BE23D17"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-AAC3-C3AC4BE23D17"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-B911-F4BC8998FD21">
+			<DocumentID>000C29A4-908D-A1EF-B911-F4BC8998BD21</DocumentID>
+			<Name>ReadRefLookup</Name>
+			<Description>Read RefLookup</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-02-06T05:06:06.118</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AAC3-C3AC4BE23D17"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

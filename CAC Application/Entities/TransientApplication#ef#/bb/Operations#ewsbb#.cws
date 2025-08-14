@@ -1,0 +1,57 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD83-255E6B2A7D17">
+	<DocumentID>000C296D-722E-A1EF-AD83-255E6B2A3D17</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T09:14:09.851</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-AD7D-34351DB07D17"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B19C-B4FC030DFD1A">
+			<DocumentID>000C296D-722E-A1EF-B19C-B4FC030DBD1A</DocumentID>
+			<Name>ReadTransientApplication</Name>
+			<Description>Read TransientApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2024-12-30T06:53:53.829</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AD7D-34351DB07D17"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-AD83-255E6B29BD17">
+			<DocumentID>000C296D-722E-A1EF-AD83-255E6B297D17</DocumentID>
+			<Name>UpdateTransientApplication</Name>
+			<Description>Update TransientApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2024-12-09T09:14:09.851</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AD7D-34351DB07D17"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

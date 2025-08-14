@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B074-FD42A252BD1A">
+	<DocumentID>000C296D-722E-A1EF-B074-FD42A2527D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B074-FD42A2527D1A</Name>
+	<Description>TransientApplicationHistoryLog</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-24T08:53:41.31</CreationDate>
+	<Notes/>
+	<DefaultText>TransientApplicationHistoryLog</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B074-FD42A252FD1A"
+		/>
+	</Translations>
+</TextIdentifier>

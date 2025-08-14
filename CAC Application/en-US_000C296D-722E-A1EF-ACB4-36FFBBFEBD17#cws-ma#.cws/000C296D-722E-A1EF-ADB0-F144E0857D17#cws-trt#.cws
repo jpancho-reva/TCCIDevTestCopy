@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB0-F144E085BD17">
+	<DocumentID>000C296D-722E-A1EF-ADB0-F144E0857D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB0-F144E0857D17</Name>
+	<Description>Credit Requeue</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:59:01.852</CreationDate>
+	<Notes/>
+	<Text>Credit Requeue</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB0-F144E084FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

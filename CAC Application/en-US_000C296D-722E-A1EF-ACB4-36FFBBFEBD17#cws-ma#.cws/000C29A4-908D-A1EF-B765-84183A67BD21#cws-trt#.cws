@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B765-84183A67FD21">
+	<DocumentID>000C29A4-908D-A1EF-B765-84183A67BD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B765-84183A67BD21</Name>
+	<Description>UpdateApplicationWithCBWSPath</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-28T16:45:08.418</CreationDate>
+	<Notes/>
+	<Text>UpdateApplicationWithCBWSPath</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B765-84183A673D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-942F-FC7DAFAE3D2A">
+	<DocumentID>000C29A4-908D-A1F0-942F-FC7DAFADFD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-942F-FC7DAFADFD2A</Name>
+	<Description>Secondary Cust Mid Name</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-24T05:58:12.008</CreationDate>
+	<Notes/>
+	<Text>Secondary Cust Mid Name</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-942F-FC7DAFAD7D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

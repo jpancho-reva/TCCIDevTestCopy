@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8797-C5CB90287D27">
+	<DocumentID>000C29A4-908D-A1F0-8797-C5CB90283D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8797-C5CB90283D27</Name>
+	<Description>SyncExternalDocument</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-21T03:47:08.94</CreationDate>
+	<Notes/>
+	<Text>SyncExternalDocument</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8797-C5CB9027BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

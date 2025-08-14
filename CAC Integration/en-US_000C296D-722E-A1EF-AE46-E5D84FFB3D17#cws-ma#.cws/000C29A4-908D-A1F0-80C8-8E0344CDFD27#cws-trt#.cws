@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-80C8-8E0344CE3D27">
+	<DocumentID>000C29A4-908D-A1F0-80C8-8E0344CDFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-80C8-8E0344CDFD27</Name>
+	<Description>DocumentsRecvdAck</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-17T11:29:01.344</CreationDate>
+	<Notes/>
+	<Text>DocumentsRecvdAck</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-80C8-8E0344CD7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

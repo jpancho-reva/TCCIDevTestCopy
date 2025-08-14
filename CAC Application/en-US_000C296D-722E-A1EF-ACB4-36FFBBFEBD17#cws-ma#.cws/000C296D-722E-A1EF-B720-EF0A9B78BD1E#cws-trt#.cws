@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B720-EF0A9B78FD1E">
+	<DocumentID>000C296D-722E-A1EF-B720-EF0A9B78BD1E</DocumentID>
+	<Name>000C296D-722E-A1EF-B720-EF0A9B78BD1E</Name>
+	<Description>ReadCreditApplication</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-27T07:54:35.87</CreationDate>
+	<Notes/>
+	<Text>ReadCreditApplication</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B720-EF0A9B783D1E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

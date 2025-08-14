@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-893C-9E8A6A423D27">
+	<DocumentID>000C29A4-908D-A1F0-893C-9E8A6A41FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-893C-9E8A6A41FD27</Name>
+	<Description>DeleteNeedAttentionMessage</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-29T12:11:27.485</CreationDate>
+	<Notes/>
+	<Text>DeleteNeedAttentionMessage</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-893C-9E8A6A417D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

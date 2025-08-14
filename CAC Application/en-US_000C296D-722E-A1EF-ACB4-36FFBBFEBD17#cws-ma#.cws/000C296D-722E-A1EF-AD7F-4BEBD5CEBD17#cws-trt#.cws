@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD7F-4BEBD5CEFD17">
+	<DocumentID>000C296D-722E-A1EF-AD7F-4BEBD5CEBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD7F-4BEBD5CEBD17</Name>
+	<Description>Application Workflow State</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T07:21:00.973</CreationDate>
+	<Notes/>
+	<Text>Application Workflow State</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD7F-4BEBD5CE3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,57 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1D5-028FCEF17D1A">
+	<DocumentID>000C296D-722E-A1EF-B1D5-028FCEF13D1A</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-31T08:49:18.296</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-B09D-B3B6467BBD1A"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B1D5-028FCEF0BD1A">
+			<DocumentID>000C296D-722E-A1EF-B1D5-028FCEF07D1A</DocumentID>
+			<Name>ReadCACRuleConditions</Name>
+			<Description>Read CACRuleConditions</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2024-12-31T08:49:18.296</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B09D-B3B6467BBD1A"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B362-CCCBBE067D1B">
+			<DocumentID>000C296D-722E-A1EF-B362-CCCBBE063D1B</DocumentID>
+			<Name>UpdateCACRuleConditions</Name>
+			<Description>Update CACRuleConditions</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-01-08T06:39:06.959</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B09D-B3B6467BBD1A"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

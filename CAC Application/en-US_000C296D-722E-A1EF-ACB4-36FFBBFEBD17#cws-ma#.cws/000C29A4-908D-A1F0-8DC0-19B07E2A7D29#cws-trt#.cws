@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8DC0-19B07E2ABD29">
+	<DocumentID>000C29A4-908D-A1F0-8DC0-19B07E2A7D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8DC0-19B07E2A7D29</Name>
+	<Description>CATACTION</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-22T11:32:51.306</CreationDate>
+	<Notes/>
+	<Text>CATACTION</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8DC0-19B07E29FD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

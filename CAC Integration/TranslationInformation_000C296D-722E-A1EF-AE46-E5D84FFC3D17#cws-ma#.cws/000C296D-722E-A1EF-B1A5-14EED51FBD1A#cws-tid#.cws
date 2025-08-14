@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1A5-14EED51FFD1A">
+	<DocumentID>000C296D-722E-A1EF-B1A5-14EED51FBD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B1A5-14EED51FBD1A</Name>
+	<Description>Outbound List</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2024-12-30T10:24:51.738</CreationDate>
+	<Notes/>
+	<DefaultText>Outbound List</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFCBD17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B1A5-14EED5203D1A"
+		/>
+	</Translations>
+</TextIdentifier>

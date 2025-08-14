@@ -1,0 +1,25 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C296D-722E-A1EF-B628-031945003D1D">
+	<DocumentID>000C296D-722E-A1EF-B628-031944FFFD1D</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T09:11:13.388</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-B627-C991138BBD1D"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation/>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

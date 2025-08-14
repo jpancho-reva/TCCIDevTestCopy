@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD86-8C3EF40A3D17">
+	<DocumentID>000C296D-722E-A1EF-AD86-8C3EF409FD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD86-8C3EF409FD17</Name>
+	<Description>Delete Flag</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T11:03:14.356</CreationDate>
+	<Notes/>
+	<DefaultText>Delete Flag</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-AD86-8C3EF40A7D17"
+		/>
+	</Translations>
+</TextIdentifier>

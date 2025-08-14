@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5BA-A5F619BBFD1D">
+	<DocumentID>000C296D-722E-A1EF-B5BA-A5F619BBBD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5BA-A5F619BBBD1D</Name>
+	<Description>Investigation Flag?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-20T05:21:38.063</CreationDate>
+	<Notes/>
+	<DefaultText>Investigation Flag?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B5BA-A5F619BC3D1D"
+		/>
+	</Translations>
+</TextIdentifier>

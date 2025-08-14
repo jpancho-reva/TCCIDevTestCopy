@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB1-BE64E1D57D17">
+	<DocumentID>000C296D-722E-A1EF-ADB1-BE64E1D53D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB1-BE64E1D53D17</Name>
+	<Description>Route</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T07:22:01.188</CreationDate>
+	<Notes/>
+	<Text>Route</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB1-BE64E1D4BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

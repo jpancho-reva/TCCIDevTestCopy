@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-90A8-EB4616E73D29">
+	<DocumentID>000C29A4-908D-A1F0-90A8-EB4616E6FD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-90A8-EB4616E6FD29</Name>
+	<Description>Manual Review Required User</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-06T07:00:16.332</CreationDate>
+	<Notes/>
+	<DefaultText>Manual Review Required User</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-90A8-EB4616E77D29"
+		/>
+	</Translations>
+</TextIdentifier>

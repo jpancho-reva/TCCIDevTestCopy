@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C45-0E58879DBD2E">
+	<DocumentID>000C29A4-908D-A1F0-9C45-0E58879D7D2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C45-0E58879D7D2E</Name>
+	<Description>LEXUS - Lease</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T09:22:51.576</CreationDate>
+	<Notes/>
+	<Text>LEXUS - Lease</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9C45-0E58879CFD2E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

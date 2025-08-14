@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BFC1-8B4523167D27">
+	<DocumentID>000C29A4-908D-A1EF-BFC1-8B4523163D27</DocumentID>
+	<Name>000C29A4-908D-A1EF-BFC1-8B4523163D27</Name>
+	<Description>LDW Primary Customer Name Match Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-12T05:54:22.619</CreationDate>
+	<Notes/>
+	<Text>LDW Primary Customer Name Match Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BFC1-8B452315BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

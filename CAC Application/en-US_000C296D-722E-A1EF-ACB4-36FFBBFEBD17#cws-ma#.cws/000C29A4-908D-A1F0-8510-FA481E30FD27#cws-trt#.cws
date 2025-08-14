@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8510-FA481E313D27">
+	<DocumentID>000C29A4-908D-A1F0-8510-FA481E30FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8510-FA481E30FD27</Name>
+	<Description>OnContractSupervisorEscalationTaskEvent</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-08T06:38:49.049</CreationDate>
+	<Notes/>
+	<Text>OnContractSupervisorEscalationTaskEvent</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8510-FA481E307D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

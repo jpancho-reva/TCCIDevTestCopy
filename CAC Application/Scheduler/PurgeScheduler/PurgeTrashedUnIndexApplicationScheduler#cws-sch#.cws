@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="000C29A4-908D-A1F0-89D3-414EEF3E7D27">
+	<DocumentID>000C29A4-908D-A1F0-89D3-414EEF3E3D27</DocumentID>
+	<Name>PurgeTrashedUnIndexApplicationScheduler</Name>
+	<Description>PurgeTrashedUnIndexApplicationScheduler</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-02T12:10:13.83</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="PurgeTrashedUnIndexApplicationScheduler"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2025-05-02T06:36:21.778"
+			msgHolderLastModified="2025-08-12T08:47:59.871">
+			<datetime>
+				<daily>
+					<time>23:0</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="000C29A4-908D-A1F0-89D3-414EEF3C7D27">
+			<DocumentID>000C29A4-908D-A1F0-89D3-414EEF3C3D27</DocumentID>
+			<Name>000C29A4-908D-A1F0-89D3-414EEF3C3D27</Name>
+			<Description>000C29A4-908D-A1F0-89D3-414EEF3C3D27</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-05-02T12:10:13.83</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="000C29A4-908D-A1F0-89C3-3D58B20E7D27"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

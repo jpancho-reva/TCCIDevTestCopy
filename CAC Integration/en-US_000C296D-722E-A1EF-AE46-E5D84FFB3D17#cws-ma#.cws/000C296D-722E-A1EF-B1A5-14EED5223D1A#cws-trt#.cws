@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1A5-14EED5227D1A">
+	<DocumentID>000C296D-722E-A1EF-B1A5-14EED5223D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B1A5-14EED5223D1A</Name>
+	<Description>Outbound Token List</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2024-12-30T10:24:51.74</CreationDate>
+	<Notes/>
+	<Text>Outbound Token List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B1A5-14EED521BD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

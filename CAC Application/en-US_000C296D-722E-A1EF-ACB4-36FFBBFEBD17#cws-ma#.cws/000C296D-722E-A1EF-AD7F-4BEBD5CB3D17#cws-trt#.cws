@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD7F-4BEBD5CB7D17">
+	<DocumentID>000C296D-722E-A1EF-AD7F-4BEBD5CB3D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD7F-4BEBD5CB3D17</Name>
+	<Description>Bank Number</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T07:21:24.298</CreationDate>
+	<Notes/>
+	<Text>Bank Number</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD7F-8A48C3E9BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B2FC-D314C87BFD1A">
+	<DocumentID>000C296D-722E-A1EF-B2FC-D314C87BBD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B2FC-D314C87BBD1A</Name>
+	<Description>Read XML from the mentioned path</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-06T06:07:37.305</CreationDate>
+	<Notes/>
+	<Text>Read XML from the mentioned path</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B2FC-D314C87B3D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

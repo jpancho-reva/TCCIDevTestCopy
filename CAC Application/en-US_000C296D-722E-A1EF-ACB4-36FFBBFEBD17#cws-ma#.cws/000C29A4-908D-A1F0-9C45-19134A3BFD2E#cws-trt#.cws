@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C45-19134A3C3D2E">
+	<DocumentID>000C29A4-908D-A1F0-9C45-19134A3BFD2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C45-19134A3BFD2E</Name>
+	<Description>LEXUS - Loan</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T09:22:51.575</CreationDate>
+	<Notes/>
+	<Text>LEXUS - Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9C45-19134A3B7D2E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

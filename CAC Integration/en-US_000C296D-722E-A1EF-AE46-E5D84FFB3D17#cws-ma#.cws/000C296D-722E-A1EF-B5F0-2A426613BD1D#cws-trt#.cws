@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5F0-2A426613FD1D">
+	<DocumentID>000C296D-722E-A1EF-B5F0-2A426613BD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5F0-2A426613BD1D</Name>
+	<Description>OTCS services</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T06:40:46.014</CreationDate>
+	<Notes/>
+	<Text>OTCS services</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5F0-2A4266133D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

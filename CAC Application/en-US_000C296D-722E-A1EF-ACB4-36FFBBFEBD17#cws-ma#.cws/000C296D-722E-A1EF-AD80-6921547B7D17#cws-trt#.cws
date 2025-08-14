@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD80-6921547BBD17">
+	<DocumentID>000C296D-722E-A1EF-AD80-6921547B7D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD80-6921547B7D17</Name>
+	<Description>Insurance Agent Phone</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T07:46:22.87</CreationDate>
+	<Notes/>
+	<Text>Insurance Agent Phone</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD80-6921547AFD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

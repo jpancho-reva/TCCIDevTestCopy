@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ACB6-2DA5AB49BD17">
+	<DocumentID>000C296D-722E-A1EF-ACB6-2DA5AB497D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ACB6-2DA5AB497D17</Name>
+	<Description>Contract Number</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-05T10:54:31.688</CreationDate>
+	<Notes/>
+	<Text>Contract Number</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ACB6-2DA5AB48FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

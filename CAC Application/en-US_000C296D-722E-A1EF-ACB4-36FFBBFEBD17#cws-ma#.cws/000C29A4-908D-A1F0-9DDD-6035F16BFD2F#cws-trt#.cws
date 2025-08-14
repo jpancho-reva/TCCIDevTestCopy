@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9DDD-6035F16C3D2F">
+	<DocumentID>000C29A4-908D-A1F0-9DDD-6035F16BFD2F</DocumentID>
+	<Name>000C29A4-908D-A1F0-9DDD-6035F16BFD2F</Name>
+	<Description>Is MIC?</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-12T12:14:17.823</CreationDate>
+	<Notes/>
+	<Text>Is MIC?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9DDD-6035F16B7D2F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

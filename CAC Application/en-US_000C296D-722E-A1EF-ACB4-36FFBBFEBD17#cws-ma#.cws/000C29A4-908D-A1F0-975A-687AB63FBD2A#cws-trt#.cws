@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-975A-687AB63FFD2A">
+	<DocumentID>000C29A4-908D-A1F0-975A-687AB63FBD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-975A-687AB63FBD2A</Name>
+	<Description>Supervisor Subaru Lease</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-10T08:41:41.449</CreationDate>
+	<Notes/>
+	<Text>Supervisor Subaru Lease</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-975A-687AB63F3D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

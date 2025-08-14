@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B2FC-D314C881FD1A">
+	<DocumentID>000C296D-722E-A1EF-B2FC-D314C881BD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B2FC-D314C881BD1A</Name>
+	<Description>Fetching the ID of the instance which have source which we have passed as input</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-06T06:07:37.306</CreationDate>
+	<Notes/>
+	<DefaultText>Fetching the ID of the instance which have source which we have passed as input</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFCBD17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B2FC-D314C8823D1A"
+		/>
+	</Translations>
+</TextIdentifier>

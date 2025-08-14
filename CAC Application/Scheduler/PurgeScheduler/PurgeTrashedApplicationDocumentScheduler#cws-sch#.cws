@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="000C29A4-908D-A1F0-89D3-414EEF3AFD27">
+	<DocumentID>000C29A4-908D-A1F0-89D3-414EEF3ABD27</DocumentID>
+	<Name>PurgeTrashedApplicationDocumentScheduler</Name>
+	<Description>PurgeTrashedApplicationDocumentScheduler</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-02T12:11:23.656</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="PurgeTrashedApplicationDocumentScheduler"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2025-05-02T07:11:25.866"
+			msgHolderLastModified="2025-08-12T08:47:59.908">
+			<datetime>
+				<daily>
+					<time>23:0</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="000C29A4-908D-A1F0-89D3-414EEF393D27">
+			<DocumentID>000C29A4-908D-A1F0-89D3-414EEF38FD27</DocumentID>
+			<Name>000C29A4-908D-A1F0-89D3-414EEF38FD27</Name>
+			<Description>000C29A4-908D-A1F0-89D3-414EEF38FD27</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-05-02T12:11:23.656</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="000C29A4-908D-A1F0-89C7-5C5A026BBD27"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

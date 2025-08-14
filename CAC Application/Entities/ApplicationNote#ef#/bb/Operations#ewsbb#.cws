@@ -1,0 +1,57 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B74B-6BB22B69FD21">
+	<DocumentID>000C29A4-908D-A1EF-B74B-6BB22B69BD21</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-28T04:09:54.612</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-B74B-6BB22B693D21">
+			<DocumentID>000C29A4-908D-A1EF-B74B-6BB22B68FD21</DocumentID>
+			<Name>CreateApplicationNote</Name>
+			<Description>Create ApplicationNote</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-01-28T04:09:54.612</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B620-C391C61D3D1D"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-89C2-4AC6F037BD27">
+			<DocumentID>000C29A4-908D-A1F0-89C2-4AC6F0377D27</DocumentID>
+			<Name>DeleteApplicationNote</Name>
+			<Description>Delete ApplicationNote</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-05-02T03:54:54.181</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-B620-C391C61D3D1D"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-B620-C391C61D3D1D"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation/>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

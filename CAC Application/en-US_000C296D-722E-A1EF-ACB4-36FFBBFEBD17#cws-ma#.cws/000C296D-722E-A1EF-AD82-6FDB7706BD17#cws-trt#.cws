@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD82-6FDB7706FD17">
+	<DocumentID>000C296D-722E-A1EF-AD82-6FDB7706BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD82-6FDB7706BD17</Name>
+	<Description>Loan First Payment Date</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T08:47:02.223</CreationDate>
+	<Notes/>
+	<Text>Loan First Payment Date</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD82-6FDB77063D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

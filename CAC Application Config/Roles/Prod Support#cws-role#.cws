@@ -1,0 +1,23 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="000C29A4-908D-A1F0-942A-BDABE331BD2A">
+	<DocumentID>000C29A4-908D-A1F0-942A-BDABE3317D2A</DocumentID>
+	<Name>Prod Support</Name>
+	<Description>Prod Support</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-24T04:30:55.401</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="000C29A4-908D-A1F0-85B0-24A339B5FD27"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

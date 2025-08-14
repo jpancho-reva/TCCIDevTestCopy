@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BA4E-37E79E513D23">
+	<DocumentID>000C29A4-908D-A1EF-BA4E-37E79E50FD23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BA4E-37E79E50FD23</Name>
+	<Description>Set TargetState to Complete upon receiving decision and document. For brand Subaru and Mazda set to Complete upon receiving decision</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-12T12:03:39.49</CreationDate>
+	<Notes/>
+	<DefaultText>Set TargetState to Complete upon receiving decision and document. For brand Subaru and Mazda set to Complete upon receiving decision</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BA4E-37E79E517D23"
+		/>
+	</Translations>
+</TextIdentifier>

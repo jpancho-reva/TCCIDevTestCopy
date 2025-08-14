@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE6E-6FCE17583D25">
+	<DocumentID>000C29A4-908D-A1EF-BE6E-6FCE1757FD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE6E-6FCE1757FD25</Name>
+	<Description>Ready To Requeue Supervisor</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-05T12:24:17.722</CreationDate>
+	<Notes/>
+	<Text>Ready To Requeue Supervisor</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE6E-6FCE17577D25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82F3-BFE5DBA13D27">
+	<DocumentID>000C29A4-908D-A1F0-82F3-BFE5DBA0FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82F3-BFE5DBA0FD27</Name>
+	<Description>Supervisor Credit Requeue</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T12:22:08.465</CreationDate>
+	<Notes/>
+	<Text>Supervisor Credit Requeue</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82F3-BFE5DBA07D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

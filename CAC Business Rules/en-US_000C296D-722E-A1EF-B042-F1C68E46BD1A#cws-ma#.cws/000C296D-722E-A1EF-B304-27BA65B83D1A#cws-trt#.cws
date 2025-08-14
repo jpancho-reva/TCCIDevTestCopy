@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B304-27BA65B87D1A">
+	<DocumentID>000C296D-722E-A1EF-B304-27BA65B83D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B304-27BA65B83D1A</Name>
+	<Description>Create Condition Form</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-06T09:41:00.026</CreationDate>
+	<Notes/>
+	<Text>Create Condition Form</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B304-27BA65B7BD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

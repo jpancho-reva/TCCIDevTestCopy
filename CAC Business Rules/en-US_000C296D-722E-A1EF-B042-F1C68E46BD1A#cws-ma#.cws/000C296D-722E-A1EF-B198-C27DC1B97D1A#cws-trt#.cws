@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B198-C27DC1B9BD1A">
+	<DocumentID>000C296D-722E-A1EF-B198-C27DC1B97D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B198-C27DC1B97D1A</Name>
+	<Description>Set Values</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-30T04:10:36.789</CreationDate>
+	<Notes/>
+	<Text>Set Values</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B198-C27DC1B8FD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

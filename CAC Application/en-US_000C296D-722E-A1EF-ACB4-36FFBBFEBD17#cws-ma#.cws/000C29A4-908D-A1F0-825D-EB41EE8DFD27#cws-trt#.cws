@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-825D-EB41EE8E3D27">
+	<DocumentID>000C29A4-908D-A1F0-825D-EB41EE8DFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-825D-EB41EE8DFD27</Name>
+	<Description>SetNeedAttnResendDuration</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-25T12:50:11.055</CreationDate>
+	<Notes/>
+	<Text>SetNeedAttnResendDuration</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-825D-EB41EE8D7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

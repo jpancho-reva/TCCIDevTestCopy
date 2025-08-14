@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADAF-2690B4CEFD17">
+	<DocumentID>000C296D-722E-A1EF-ADAF-2690B4CEBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADAF-2690B4CEBD17</Name>
+	<Description>Direct Payment Plan Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:09:56.665</CreationDate>
+	<Notes/>
+	<Text>Direct Payment Plan Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADAF-2690B4CE3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ACB6-2DA5AB473D17">
+	<DocumentID>000C296D-722E-A1EF-ACB6-648E4BF7BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ACB6-648E4BF7BD17</Name>
+	<Description>Credit Channel Code</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-05T10:54:31.672</CreationDate>
+	<Notes/>
+	<Text>Credit Channel Code</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ACB6-648E4BF73D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

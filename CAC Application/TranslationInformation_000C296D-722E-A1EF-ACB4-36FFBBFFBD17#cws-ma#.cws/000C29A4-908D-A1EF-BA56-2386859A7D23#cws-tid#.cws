@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BA56-2386859ABD23">
+	<DocumentID>000C29A4-908D-A1EF-BA56-2386859A7D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BA56-2386859A7D23</Name>
+	<Description>Search Application Number</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-12T18:41:00.331</CreationDate>
+	<Notes/>
+	<DefaultText>Search Application Number</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BA56-2386859AFD23"
+		/>
+	</Translations>
+</TextIdentifier>

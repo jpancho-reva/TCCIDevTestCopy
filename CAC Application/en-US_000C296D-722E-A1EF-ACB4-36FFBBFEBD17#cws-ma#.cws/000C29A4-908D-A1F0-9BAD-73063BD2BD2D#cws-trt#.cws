@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9BAD-73063BD2FD2D">
+	<DocumentID>000C29A4-908D-A1F0-9BAD-73063BD2BD2D</DocumentID>
+	<Name>000C29A4-908D-A1F0-9BAD-73063BD2BD2D</Name>
+	<Description>Contracts by Match Date</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-01T09:11:55.224</CreationDate>
+	<Notes/>
+	<Text>Contracts by Match Date</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9BAD-73063BD23D2D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADAF-0848C2803D17">
+	<DocumentID>000C296D-722E-A1EF-ADAF-0848C27FFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADAF-0848C27FFD17</Name>
+	<Description>Contract Secondary Customer Name Match Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:01:25.234</CreationDate>
+	<Notes/>
+	<Text>Contract Secondary Customer Name Match Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADAF-0848C27F7D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

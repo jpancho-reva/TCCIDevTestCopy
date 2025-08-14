@@ -1,0 +1,29 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="000C29A4-908D-A1F0-85A6-4EF606E2FD27">
+	<DocumentID>000C29A4-908D-A1F0-85A6-4EF606E2BD27</DocumentID>
+	<Name>Integrator</Name>
+	<Description>Integrator</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-11T05:59:12.59</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Internal</type>
+	<Subroles>
+		<uri
+			id="000C29A4-908D-A1F0-8575-E1972D1A3D27"
+		/>
+		<uri
+			id="000C29A4-908D-A1F0-85A1-FF74EDD1FD27"
+		/>
+		<uri
+			id="000C29A4-908D-A1F0-85A1-FF74EDCF3D27"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

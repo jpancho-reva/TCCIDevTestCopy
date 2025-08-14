@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC5-E51EE5BF7D17">
+	<DocumentID>000C296D-722E-A1EF-AAC5-E51EE5BF3D17</DocumentID>
+	<Name>ParentRefLookupCat</Name>
+	<Description>ParentRefLookupCat</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T10:27:07.601</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-AAC3-C3AC4BDCBD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

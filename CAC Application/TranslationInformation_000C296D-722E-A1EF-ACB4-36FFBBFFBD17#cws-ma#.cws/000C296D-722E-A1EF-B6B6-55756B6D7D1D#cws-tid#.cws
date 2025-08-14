@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B6B6-55756B6DBD1D">
+	<DocumentID>000C296D-722E-A1EF-B6B6-55756B6D7D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B6B6-55756B6D7D1D</Name>
+	<Description>CreateUnindexedApplication</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-25T05:19:20.471</CreationDate>
+	<Notes/>
+	<DefaultText>CreateUnindexedApplication</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B6B6-55756B6DFD1D"
+		/>
+	</Translations>
+</TextIdentifier>

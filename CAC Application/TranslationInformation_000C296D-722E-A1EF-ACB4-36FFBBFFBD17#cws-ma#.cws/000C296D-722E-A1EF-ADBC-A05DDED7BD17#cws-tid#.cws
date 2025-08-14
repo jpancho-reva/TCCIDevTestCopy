@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBC-A05DDED7FD17">
+	<DocumentID>000C296D-722E-A1EF-ADBC-A05DDED7BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBC-A05DDED7BD17</Name>
+	<Description>Review To Pending</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T12:37:49.406</CreationDate>
+	<Notes/>
+	<DefaultText>Review To Pending</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-ADBC-A05DDED83D17"
+		/>
+	</Translations>
+</TextIdentifier>

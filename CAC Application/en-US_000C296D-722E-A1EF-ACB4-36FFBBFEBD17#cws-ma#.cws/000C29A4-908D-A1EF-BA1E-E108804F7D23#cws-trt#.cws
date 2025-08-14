@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BA1E-E108804FBD23">
+	<DocumentID>000C29A4-908D-A1EF-BA1E-E108804F7D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BA1E-E108804F7D23</Name>
+	<Description>Credit And Contract Administrator Rules Layout</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-11T13:32:52.928</CreationDate>
+	<Notes/>
+	<Text>Credit And Contract Administrator Rules Layout</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BA1E-E108804EFD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-80BC-61AD5E11FD27">
+	<DocumentID>000C29A4-908D-A1F0-80BC-61AD5E11BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-80BC-61AD5E11BD27</Name>
+	<Description>UpdateVoidInfo</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-17T06:06:17.687</CreationDate>
+	<Notes/>
+	<Text>UpdateVoidInfo</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-80BC-61AD5E113D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

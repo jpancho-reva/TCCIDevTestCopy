@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9202-889B90DAFD29">
+	<DocumentID>000C29A4-908D-A1F0-9202-889B90DABD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-9202-889B90DABD29</Name>
+	<Description>Local Add Note</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-13T04:19:05.891</CreationDate>
+	<Notes/>
+	<DefaultText>Local Add Note</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-9202-889B90DB3D29"
+		/>
+	</Translations>
+</TextIdentifier>

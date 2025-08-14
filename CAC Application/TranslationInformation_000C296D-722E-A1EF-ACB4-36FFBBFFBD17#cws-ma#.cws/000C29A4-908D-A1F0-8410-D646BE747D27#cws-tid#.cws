@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8410-D646BE74BD27">
+	<DocumentID>000C29A4-908D-A1F0-8410-D646BE747D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8410-D646BE747D27</Name>
+	<Description>A new task '{item.Task.Subject}' is escalated.</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-03T05:32:38.58</CreationDate>
+	<Notes/>
+	<DefaultText>A new task '{item.Task.Subject}' is escalated.</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-8410-D646BE74FD27"
+		/>
+	</Translations>
+</TextIdentifier>

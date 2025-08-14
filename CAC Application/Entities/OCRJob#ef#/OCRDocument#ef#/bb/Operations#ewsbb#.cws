@@ -1,0 +1,79 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB9-C91EC8557D17">
+	<DocumentID>000C296D-722E-A1EF-ADB9-C91EC8553D17</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T11:10:40.468</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-ADB6-F4F2037BBD17"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B6B8-662949C2FD1D">
+			<DocumentID>000C296D-722E-A1EF-B6B8-662949C2BD1D</DocumentID>
+			<Name>ReadOCRDocument</Name>
+			<Description>Read OCRDocument</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-01-25T06:11:23.32</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-ADB6-F4F2037BBD17"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B52F-621FFE6D7D1D">
+			<DocumentID>000C296D-722E-A1EF-B52F-621FFE6D3D1D</DocumentID>
+			<Name>GetParentOCRJob</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-01-17T10:32:32.886</CreationDate>
+			<Notes/>
+			<OperationType>GetParent</OperationType>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-ADB6-F4F2037BBD17"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="000C296D-722E-A1EF-ADB9-A81E63EABD17"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B6B8-662949C27D1D">
+			<DocumentID>000C296D-722E-A1EF-B6B8-662949C23D1D</DocumentID>
+			<Name>UpdateOCRDocument</Name>
+			<Description>Update OCRDocument</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-01-25T06:11:23.319</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-ADB6-F4F2037BBD17"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

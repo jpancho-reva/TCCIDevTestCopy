@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB9-874EFC40FD17">
+	<DocumentID>000C296D-722E-A1EF-ADB9-874EFC40BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB9-874EFC40BD17</Name>
+	<Description>Retry</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T11:02:43.186</CreationDate>
+	<Notes/>
+	<Text>Retry</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB9-874EFC403D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

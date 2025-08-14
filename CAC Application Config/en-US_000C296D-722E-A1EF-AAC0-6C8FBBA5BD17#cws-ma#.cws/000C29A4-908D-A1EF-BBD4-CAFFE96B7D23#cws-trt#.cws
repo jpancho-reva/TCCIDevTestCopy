@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BBD4-CAFFE96BBD23">
+	<DocumentID>000C29A4-908D-A1EF-BBD4-CAFFE96B7D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BBD4-CAFFE96B7D23</Name>
+	<Description>GetRetryCountAndInterval</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-20T06:23:26.996</CreationDate>
+	<Notes/>
+	<Text>GetRetryCountAndInterval</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BBD4-CAFFE96AFD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

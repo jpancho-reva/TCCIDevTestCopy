@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-822A-ABB2F1A43D27">
+	<DocumentID>000C29A4-908D-A1F0-822A-ABB2F1A3FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-822A-ABB2F1A3FD27</Name>
+	<Description>UpdateContractApplicationForNameChange</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-24T12:24:44.303</CreationDate>
+	<Notes/>
+	<Text>UpdateContractApplicationForNameChange</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-822A-ABB2F1A37D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

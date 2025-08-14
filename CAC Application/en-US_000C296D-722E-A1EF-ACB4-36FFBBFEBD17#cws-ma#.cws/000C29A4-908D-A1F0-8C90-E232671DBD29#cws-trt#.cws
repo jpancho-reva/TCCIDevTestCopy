@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8C90-E232671DFD29">
+	<DocumentID>000C29A4-908D-A1F0-8C90-E232671DBD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8C90-E232671DBD29</Name>
+	<Description>Pending - Lease All</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-16T10:55:11.664</CreationDate>
+	<Notes/>
+	<Text>Pending - Lease All</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8C90-E232671D3D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

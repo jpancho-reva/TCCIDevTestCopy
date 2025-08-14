@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BD0F-A677BE5C3D23">
+	<DocumentID>000C29A4-908D-A1EF-BD0F-A677BE5BFD23</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-26T12:50:51.78</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BD0F-A677BE5B7D23">
+			<DocumentID>000C29A4-908D-A1EF-BD0F-A677BE5B3D23</DocumentID>
+			<Name>CreateContractApplication</Name>
+			<Description>Create ContractApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-26T12:50:51.78</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-ADAF-6B971B877D17"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-89C2-556DBDC77D27">
+			<DocumentID>000C29A4-908D-A1F0-89C2-556DBDC73D27</DocumentID>
+			<Name>DeleteContractApplication</Name>
+			<Description>Delete ContractApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-05-02T03:56:20.835</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-ADAF-6B971B877D17"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-ADAF-6B971B877D17"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BD0F-A677BE5A7D23">
+			<DocumentID>000C29A4-908D-A1EF-BD0F-A677BE5A3D23</DocumentID>
+			<Name>ReadContractApplication</Name>
+			<Description>Read ContractApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-26T12:50:51.78</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-ADAF-6B971B877D17"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BD0F-A677BE5AFD23">
+			<DocumentID>000C29A4-908D-A1EF-BD0F-A677BE5ABD23</DocumentID>
+			<Name>UpdateContractApplication</Name>
+			<Description>Update ContractApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-02-26T12:50:51.781</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-ADAF-6B971B877D17"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

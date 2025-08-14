@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8227-73679702FD27">
+	<DocumentID>000C29A4-908D-A1F0-8227-73679702BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8227-73679702BD27</Name>
+	<Description>Ready To Fund List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-24T10:50:41.397</CreationDate>
+	<Notes/>
+	<DefaultText>Ready To Fund List</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-8226-2B891126BD27"
+		/>
+	</Translations>
+</TextIdentifier>

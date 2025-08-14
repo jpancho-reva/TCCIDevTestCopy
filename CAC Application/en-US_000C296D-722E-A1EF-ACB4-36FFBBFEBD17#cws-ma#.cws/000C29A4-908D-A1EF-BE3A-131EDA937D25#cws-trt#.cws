@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE3A-131EDA93BD25">
+	<DocumentID>000C29A4-908D-A1EF-BE3A-131EDA937D25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE3A-131EDA937D25</Name>
+	<Description>UpdateWorkflowTransient</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-04T11:12:37.653</CreationDate>
+	<Notes/>
+	<Text>UpdateWorkflowTransient</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE3A-131EDA92FD25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

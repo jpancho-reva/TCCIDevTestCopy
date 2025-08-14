@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC7-F9C5CD19BD17">
+	<DocumentID>000C296D-722E-A1EF-AAC7-F9C5CD197D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC7-F9C5CD197D17</Name>
+	<Description>OrgProvince</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T11:26:16.736</CreationDate>
+	<Notes/>
+	<Text>OrgProvince</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC7-F9C5CD18FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82F3-BFE5DB97BD27">
+	<DocumentID>000C29A4-908D-A1F0-82F3-BFE5DB977D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82F3-BFE5DB977D27</Name>
+	<Description>Supervisor Investigation Task</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T12:24:04.024</CreationDate>
+	<Notes/>
+	<Text>Supervisor Investigation Task</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82F3-BFE5DB96FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

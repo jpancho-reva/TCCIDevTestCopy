@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62A-82658710BD1D">
+	<DocumentID>000C296D-722E-A1EF-B62A-826587107D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62A-826587107D1D</Name>
+	<Description>Total Payments</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T10:40:50.029</CreationDate>
+	<Notes/>
+	<Text>Total Payments</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B62A-8265870FFD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

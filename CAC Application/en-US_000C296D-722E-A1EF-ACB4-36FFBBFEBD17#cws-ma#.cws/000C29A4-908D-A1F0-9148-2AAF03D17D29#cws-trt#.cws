@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9148-2AAF03D1BD29">
+	<DocumentID>000C29A4-908D-A1F0-9148-2AAF03D17D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-9148-2AAF03D17D29</Name>
+	<Description>SearchApplicationEmp</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-09T10:59:32.325</CreationDate>
+	<Notes/>
+	<Text>SearchApplicationEmp</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9148-2AAF03D0FD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

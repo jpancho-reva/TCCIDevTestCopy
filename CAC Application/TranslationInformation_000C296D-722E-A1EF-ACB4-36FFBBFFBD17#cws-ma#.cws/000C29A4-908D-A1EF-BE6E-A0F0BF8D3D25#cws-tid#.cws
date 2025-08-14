@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE6E-A0F0BF8D7D25">
+	<DocumentID>000C29A4-908D-A1EF-BE6E-A0F0BF8D3D25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE6E-A0F0BF8D3D25</Name>
+	<Description>Wait for Confirmation</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-05T12:08:34.791</CreationDate>
+	<Notes/>
+	<DefaultText>Wait for Confirmation</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BE6E-A0F0BF8DBD25"
+		/>
+	</Translations>
+</TextIdentifier>

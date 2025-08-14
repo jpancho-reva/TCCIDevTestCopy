@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-AE4D-7965E2303D17">
+	<DocumentID>000C296D-722E-A1EF-AE4D-7965E22FFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AE4D-7965E22FFD17</Name>
+	<Description>DiscussionOrganizer</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-13T09:37:51.243</CreationDate>
+	<Notes/>
+	<DefaultText>DiscussionOrganizer</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-AE4D-7965E2307D17"
+		/>
+	</Translations>
+</TextIdentifier>

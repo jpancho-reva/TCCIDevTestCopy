@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62B-86B21F8AFD1D">
+	<DocumentID>000C296D-722E-A1EF-B62B-86B21F8ABD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62B-86B21F8ABD1D</Name>
+	<Description>Liability</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T10:49:58.099</CreationDate>
+	<Notes/>
+	<DefaultText>Liability</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B62A-826586FC7D1D"
+		/>
+	</Translations>
+</TextIdentifier>

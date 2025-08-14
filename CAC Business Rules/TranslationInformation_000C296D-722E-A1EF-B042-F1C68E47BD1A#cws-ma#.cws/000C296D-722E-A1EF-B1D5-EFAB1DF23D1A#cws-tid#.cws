@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1D5-EFAB1DF27D1A">
+	<DocumentID>000C296D-722E-A1EF-B1D5-EFAB1DF23D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B1D5-EFAB1DF23D1A</Name>
+	<Description>ReadCACRuleConditions</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-31T09:16:50.444</CreationDate>
+	<Notes/>
+	<DefaultText>ReadCACRuleConditions</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E483D1A"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B1D5-EFAB1DF2BD1A"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD80-46D8B28FFD17">
+	<DocumentID>000C296D-722E-A1EF-AD80-46D8B28FBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD80-46D8B28FBD17</Name>
+	<Description>Esign Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T07:43:41.063</CreationDate>
+	<Notes/>
+	<Text>Esign Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD80-46D8B28F3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

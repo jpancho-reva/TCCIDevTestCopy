@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B628-031945043D1D">
+	<DocumentID>000C296D-722E-A1EF-B628-03194503FD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B628-03194503FD1D</Name>
+	<Description>Lexus</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T09:10:50.057</CreationDate>
+	<Notes/>
+	<Text>Lexus</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B628-031945037D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

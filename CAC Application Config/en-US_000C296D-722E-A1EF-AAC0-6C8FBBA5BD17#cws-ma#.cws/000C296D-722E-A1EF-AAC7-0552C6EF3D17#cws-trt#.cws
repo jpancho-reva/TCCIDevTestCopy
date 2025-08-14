@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC7-0552C6EF7D17">
+	<DocumentID>000C296D-722E-A1EF-AAC7-0552C6EF3D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC7-0552C6EF3D17</Name>
+	<Description>&quot;Look up Id {item.Properties.LookupID} already exists.&quot;</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T10:58:03.762</CreationDate>
+	<Notes/>
+	<Text>&quot;Look up Id {item.Properties.LookupID} already exists.&quot;</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC7-0552C6EEBD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82E6-9B6A9D8AFD27">
+	<DocumentID>000C29A4-908D-A1F0-82E6-9B6A9D8ABD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82E6-9B6A9D8ABD27</Name>
+	<Description>FindMessageForDealer</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T06:36:37.195</CreationDate>
+	<Notes/>
+	<DefaultText>FindMessageForDealer</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-82E6-9B6A9D8B3D27"
+		/>
+	</Translations>
+</TextIdentifier>

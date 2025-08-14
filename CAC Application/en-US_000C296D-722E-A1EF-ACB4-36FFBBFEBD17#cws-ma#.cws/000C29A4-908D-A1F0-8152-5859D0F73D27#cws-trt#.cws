@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8152-5859D0F77D27">
+	<DocumentID>000C29A4-908D-A1F0-8152-5859D0F73D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8152-5859D0F73D27</Name>
+	<Description>ReadApplicationNeedsAttention</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-20T05:19:29.664</CreationDate>
+	<Notes/>
+	<Text>ReadApplicationNeedsAttention</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8152-5859D0F6BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5F5-93E90163BD1D">
+	<DocumentID>000C296D-722E-A1EF-B5F5-93E901637D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5F5-93E901637D1D</Name>
+	<Description>Generate Token for Okta</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T09:33:27.02</CreationDate>
+	<Notes/>
+	<Text>Generate Token for Okta</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5F5-93E90162FD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

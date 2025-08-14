@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8A65-6599130CFD27">
+	<DocumentID>000C29A4-908D-A1F0-8A65-6599130CBD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8A65-6599130CBD27</Name>
+	<Description>GetAccountHoldStatus</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-05T09:49:38.346</CreationDate>
+	<Notes/>
+	<Text>GetAccountHoldStatus</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8A65-6599130C3D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

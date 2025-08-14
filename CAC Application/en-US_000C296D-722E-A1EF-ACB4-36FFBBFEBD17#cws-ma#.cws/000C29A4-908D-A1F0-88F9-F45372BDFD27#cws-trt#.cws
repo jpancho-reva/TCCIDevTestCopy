@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-88F9-F45372BE3D27">
+	<DocumentID>000C29A4-908D-A1F0-88F9-F45372BDFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-88F9-F45372BDFD27</Name>
+	<Description>&quot;Task Started&quot;</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-28T04:53:41.948</CreationDate>
+	<Notes/>
+	<Text>&quot;Task Started&quot;</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-88F9-F45372BD7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

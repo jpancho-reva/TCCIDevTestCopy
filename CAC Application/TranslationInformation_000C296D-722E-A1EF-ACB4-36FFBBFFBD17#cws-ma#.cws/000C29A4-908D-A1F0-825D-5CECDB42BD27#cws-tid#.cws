@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-825D-5CECDB42FD27">
+	<DocumentID>000C29A4-908D-A1F0-825D-5CECDB42BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-825D-5CECDB42BD27</Name>
+	<Description>Need Attention Resend Duration</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-25T12:46:41.333</CreationDate>
+	<Notes/>
+	<DefaultText>Need Attention Resend Duration</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-825D-5CECDB433D27"
+		/>
+	</Translations>
+</TextIdentifier>

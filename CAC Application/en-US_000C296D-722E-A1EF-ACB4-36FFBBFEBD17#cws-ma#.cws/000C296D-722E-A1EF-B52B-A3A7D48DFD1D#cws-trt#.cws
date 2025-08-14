@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B52B-A3A7D48E3D1D">
+	<DocumentID>000C296D-722E-A1EF-B52B-A3A7D48DFD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B52B-A3A7D48DFD1D</Name>
+	<Description>Count Received Document</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-17T08:49:49.503</CreationDate>
+	<Notes/>
+	<Text>Count Received Document</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B52B-A3A7D48D7D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

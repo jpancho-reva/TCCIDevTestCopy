@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC5-E51EE5AAFD17">
+	<DocumentID>000C296D-722E-A1EF-AAC5-E51EE5AABD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC5-E51EE5AABD17</Name>
+	<Description>Ref Lookup List</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T10:38:13.572</CreationDate>
+	<Notes/>
+	<Text>Ref Lookup List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC5-E51EE5AA3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

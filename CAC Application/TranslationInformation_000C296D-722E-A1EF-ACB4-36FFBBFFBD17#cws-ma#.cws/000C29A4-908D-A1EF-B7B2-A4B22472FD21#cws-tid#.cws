@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B2-A4B224733D21">
+	<DocumentID>000C29A4-908D-A1EF-B7B2-A4B22472FD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B2-A4B22472FD21</Name>
+	<Description>000C29A4-908D-A1EF-B7B2-A4B22472FD21</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T06:16:50.188</CreationDate>
+	<Notes/>
+	<DefaultText>concat( &quot;The following fields are required: &quot;, if(item.Properties.OCRJobId is null, &quot;OCRJobId, &quot;, &quot;&quot;), if(item.Properties.IsEmployee is null, &quot;IsEmployee, &quot;, &quot;&quot;), if(item.Properties.Department is null, &quot;Department, &quot;, &quot;&quot;), if(item.Properties.DocumentTypeList is null, &quot;DocumentTypeList, &quot;, &quot;&quot;), if(item.Properties.Investigation is null, &quot;Investigation, &quot;, &quot;&quot;), if(item.Properties.KofaxClassificationDatetime is null, &quot;KofaxClassificationDatetime, &quot;, &quot;&quot;), if(item.Properties.Unindexed is null, &quot;Unindexed, &quot;, &quot;&quot;), if(item.Properties.ApplicationNum is nullL, &quot;ApplicationNum, &quot;, &quot;&quot;), if(item.Properties.CorrelationID is null, &quot;CorrelationID, &quot;, &quot;&quot;), if(item.Properties.Mode is null, &quot;Mode, &quot;, &quot;&quot;), if(item.Properties.TenantIdentifier is null, &quot;TenantIdentifier, &quot;, &quot;&quot;) )</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B7B2-A4B224737D21"
+		/>
+	</Translations>
+</TextIdentifier>

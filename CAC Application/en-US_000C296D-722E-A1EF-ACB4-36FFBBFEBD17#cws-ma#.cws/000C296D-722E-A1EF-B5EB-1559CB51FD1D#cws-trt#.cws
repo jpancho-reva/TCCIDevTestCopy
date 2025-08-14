@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5EB-1559CB523D1D">
+	<DocumentID>000C296D-722E-A1EF-B5EB-1559CB51FD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5EB-1559CB51FD1D</Name>
+	<Description>E-Sign Flag</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T04:03:51.943</CreationDate>
+	<Notes/>
+	<Text>E-Sign Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5EB-1559CB517D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

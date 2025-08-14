@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-96EF-4B0C8C75BD2A">
+	<DocumentID>000C29A4-908D-A1F0-96EF-4B0C8C757D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-96EF-4B0C8C757D2A</Name>
+	<Description>UserSearchDocumentListLayout</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-07-08T05:43:14.427</CreationDate>
+	<Notes/>
+	<Text>UserSearchDocumentListLayout</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-96EF-4B0C8C74FD2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

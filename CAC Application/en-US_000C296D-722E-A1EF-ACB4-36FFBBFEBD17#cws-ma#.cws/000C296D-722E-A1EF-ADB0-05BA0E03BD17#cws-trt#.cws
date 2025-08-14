@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB0-05BA0E03FD17">
+	<DocumentID>000C296D-722E-A1EF-ADB0-05BA0E03BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB0-05BA0E03BD17</Name>
+	<Description>Fax Received Message Date</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:30:18.347</CreationDate>
+	<Notes/>
+	<Text>Fax Received Message Date</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB0-05BA0E033D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

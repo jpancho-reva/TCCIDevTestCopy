@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD86-8C3EF3F1BD17">
+	<DocumentID>000C296D-722E-A1EF-AD86-8C3EF3F17D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD86-8C3EF3F17D17</Name>
+	<Description>Email Model Id</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T11:03:14.341</CreationDate>
+	<Notes/>
+	<Text>Email Model Id</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD86-8C3EF3F0FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

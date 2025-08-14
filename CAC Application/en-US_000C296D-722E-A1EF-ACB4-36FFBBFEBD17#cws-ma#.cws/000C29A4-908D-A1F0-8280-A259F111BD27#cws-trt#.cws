@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8280-A259F111FD27">
+	<DocumentID>000C29A4-908D-A1F0-8280-A259F111BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8280-A259F111BD27</Name>
+	<Description>Skip rules execution when contract assembly flag = true and when for brand subaru and mazda</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-26T05:25:15.061</CreationDate>
+	<Notes/>
+	<Text>Skip rules execution when contract assembly flag = true and when for brand subaru and mazda</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8280-A259F1113D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

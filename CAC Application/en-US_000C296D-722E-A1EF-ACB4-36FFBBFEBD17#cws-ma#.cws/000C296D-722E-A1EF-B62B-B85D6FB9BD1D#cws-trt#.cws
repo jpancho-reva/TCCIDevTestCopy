@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62B-B85D6FB9FD1D">
+	<DocumentID>000C296D-722E-A1EF-B62B-B85D6FB9BD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62B-B85D6FB9BD1D</Name>
+	<Description>Salesperson</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T11:05:12.398</CreationDate>
+	<Notes/>
+	<Text>Salesperson</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B62B-B85D6FB93D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

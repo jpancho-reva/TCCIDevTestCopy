@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9BB1-54F885C6BD2D">
+	<DocumentID>000C29A4-908D-A1F0-9BB1-54F885C67D2D</DocumentID>
+	<Name>000C29A4-908D-A1F0-9BB1-54F885C67D2D</Name>
+	<Description>Loan</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-01T10:58:25.286</CreationDate>
+	<Notes/>
+	<Text>Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9BB1-54F885C5FD2D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

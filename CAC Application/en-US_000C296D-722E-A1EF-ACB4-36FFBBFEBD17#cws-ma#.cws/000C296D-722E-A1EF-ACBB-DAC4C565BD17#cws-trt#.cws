@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ACBB-DAC4C565FD17">
+	<DocumentID>000C296D-722E-A1EF-ACBB-DAC4C565BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ACBB-DAC4C565BD17</Name>
+	<Description>To Province</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-05T10:54:31.641</CreationDate>
+	<Notes/>
+	<Text>To Province</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ACBB-DAC4C5653D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

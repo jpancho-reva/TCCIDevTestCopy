@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC9-99ECDE4C3D17">
+	<DocumentID>000C296D-722E-A1EF-AAC9-99ECDE4BFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC9-99ECDE4BFD17</Name>
+	<Description>Credit And Contract Administrator</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T12:21:17.597</CreationDate>
+	<Notes/>
+	<Text>Credit And Contract Administrator</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC9-99ECDE4B7D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

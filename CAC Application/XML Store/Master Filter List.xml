@@ -1,0 +1,142 @@
+<Filters xmlns="http://schemas.cordys.com/1.0/xmlstore">
+  <Filter>
+    <ListId>000C29A4908DA1F0955A73193CD57D2A</ListId>
+    <ListName>ToyotaLexusLease</ListName>
+    <Brand />
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>BL</ApplicationType1>
+    <ApplicationType2>CL</ApplicationType2>
+    <ApplicationType3>WL</ApplicationType3>
+    <ApplicationType4>WM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F097576096062A7D2A</ListId>
+    <ListName>SupervisorToyotaLexusLease</ListName>
+    <Brand />
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>BL</ApplicationType1>
+    <ApplicationType2>CL</ApplicationType2>
+    <ApplicationType3>WL</ApplicationType3>
+    <ApplicationType4>WM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0955D59E3995F7D2A</ListId>
+    <ListName>ToyotaLexusLoan</ListName>
+    <Brand />
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>IL</ApplicationType1>
+    <ApplicationType2>IM</ApplicationType2>
+    <ApplicationType3>UI</ApplicationType3>
+    <ApplicationType4>UM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0975A5A01B99D7D2A</ListId>
+    <ListName>SupervisorToyotaLexusLoan</ListName>
+    <Brand />
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>IL</ApplicationType1>
+    <ApplicationType2>IM</ApplicationType2>
+    <ApplicationType3>UI</ApplicationType3>
+    <ApplicationType4>UM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0955D67BAC0E43D2A</ListId>
+    <ListName>SubaruLease</ListName>
+    <Brand>SUBARU</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>BL</ApplicationType1>
+    <ApplicationType2>CL</ApplicationType2>
+    <ApplicationType3>WL</ApplicationType3>
+    <ApplicationType4>WM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0975A61274A843D2A</ListId>
+    <ListName>SupervisorSubaruLease</ListName>
+    <Brand>SUBARU</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>BL</ApplicationType1>
+    <ApplicationType2>CL</ApplicationType2>
+    <ApplicationType3>WL</ApplicationType3>
+    <ApplicationType4>WM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0955DABD7E3B87D2A</ListId>
+    <ListName>MazdaLease</ListName>
+    <Brand>MAZDA</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>BL</ApplicationType1>
+    <ApplicationType2>CL</ApplicationType2>
+    <ApplicationType3>WL</ApplicationType3>
+    <ApplicationType4>WM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0975A6D83FD86FD2A</ListId>
+    <ListName>SupervisorMazdaLease</ListName>
+    <Brand>MAZDA</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>BL</ApplicationType1>
+    <ApplicationType2>CL</ApplicationType2>
+    <ApplicationType3>WL</ApplicationType3>
+    <ApplicationType4>WM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0955D9642C8103D2A</ListId>
+    <ListName>SubaruLoan</ListName>
+    <Brand>SUBARU</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>IL</ApplicationType1>
+    <ApplicationType2>IM</ApplicationType2>
+    <ApplicationType3>UI</ApplicationType3>
+    <ApplicationType4>UM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0975A687AB63DBD2A</ListId>
+    <ListName>SupervisorSubaruLoan</ListName>
+    <Brand>SUBARU</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>IL</ApplicationType1>
+    <ApplicationType2>IM</ApplicationType2>
+    <ApplicationType3>UI</ApplicationType3>
+    <ApplicationType4>UM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0955DCF0FC6DBBD2A</ListId>
+    <ListName>MazdaLoan</ListName>
+    <Brand>MAZDA</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>IL</ApplicationType1>
+    <ApplicationType2>IM</ApplicationType2>
+    <ApplicationType3>UI</ApplicationType3>
+    <ApplicationType4>UM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F0975A71DB5BCCFD2A</ListId>
+    <ListName>SupervisorMazdaLoan</ListName>
+    <Brand>MAZDA</Brand>
+    <Subject>Ready To Fund</Subject>
+    <ApplicationType1>IL</ApplicationType1>
+    <ApplicationType2>IM</ApplicationType2>
+    <ApplicationType3>UI</ApplicationType3>
+    <ApplicationType4>UM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F09566BA5CC0AEBD2A</ListId>
+    <ListName>SupervisorLease</ListName>
+    <Brand>All</Brand>
+    <Subject>Ready To Fund Supervisor</Subject>
+    <ApplicationType1>BL</ApplicationType1>
+    <ApplicationType2>CL</ApplicationType2>
+    <ApplicationType3>WL</ApplicationType3>
+    <ApplicationType4>WM</ApplicationType4>
+  </Filter>
+  <Filter>
+    <ListId>000C29A4908DA1F095678075DA8D3D2A</ListId>
+    <ListName>SupervisorLoan</ListName>
+    <Brand>All</Brand>
+    <Subject>Ready To Fund Supervisor</Subject>
+    <ApplicationType1>IL</ApplicationType1>
+    <ApplicationType2>IM</ApplicationType2>
+    <ApplicationType3>UI</ApplicationType3>
+    <ApplicationType4>UM</ApplicationType4>
+  </Filter>
+</Filters>

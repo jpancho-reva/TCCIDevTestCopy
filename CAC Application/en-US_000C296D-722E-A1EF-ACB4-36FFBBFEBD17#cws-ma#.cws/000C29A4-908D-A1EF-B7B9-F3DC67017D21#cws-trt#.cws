@@ -1,0 +1,35 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B9-F3DC6701BD21">
+	<DocumentID>000C29A4-908D-A1EF-B7B9-F3DC67017D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B9-F3DC67017D21</Name>
+	<Description>000C29A4-908D-A1EF-B7B9-F3DC67017D21</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T09:06:58.891</CreationDate>
+	<Notes/>
+	<Text>{
+  (item.Properties.OCRJobId == null ? &quot;OCRJobId is null, &quot; : &quot;&quot;) +
+  (item.Properties.IsEmployee == null ? &quot;IsEmployee is null, &quot; : &quot;&quot;) +
+  (item.Properties.Department == null ? &quot;Department is null, &quot; : &quot;&quot;) +
+  (item.Properties.DocumentTypeList == null ? &quot;DocumentTypeList is null, &quot; : &quot;&quot;) +
+  (item.Properties.Investigation == null ? &quot;Investigation is null, &quot; : &quot;&quot;) +
+  (item.Properties.KofaxClassificationDatetime == null ? &quot;KofaxClassificationDatetime is null, &quot; : &quot;&quot;) +
+  (item.Properties.Unindexed == null ? &quot;Unindexed is null, &quot; : &quot;&quot;) +
+  (item.Properties.ApplicationNum == null ? &quot;ApplicationNum is null, &quot; : &quot;&quot;) +
+  (item.Properties.CorrelationID == null ? &quot;CorrelationID is null, &quot; : &quot;&quot;) +
+  (item.Properties.Mode == null ? &quot;Mode is null, &quot; : &quot;&quot;) +
+  (item.Properties.TenantIdentifier == null ? &quot;TenantIdentifier is null, &quot; : &quot;&quot;)
+}</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B7B9-F3DC6700FD21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

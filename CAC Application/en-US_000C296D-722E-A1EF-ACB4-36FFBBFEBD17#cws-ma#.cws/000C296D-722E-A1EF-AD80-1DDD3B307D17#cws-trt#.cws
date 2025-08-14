@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD80-1DDD3B30BD17">
+	<DocumentID>000C296D-722E-A1EF-AD80-1DDD3B307D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD80-1DDD3B307D17</Name>
+	<Description>Direct Payment Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T07:41:29.537</CreationDate>
+	<Notes/>
+	<Text>Direct Payment Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD80-1DDD3B2FFD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

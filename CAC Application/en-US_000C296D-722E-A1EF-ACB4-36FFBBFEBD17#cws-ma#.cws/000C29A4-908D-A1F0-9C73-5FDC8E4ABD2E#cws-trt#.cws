@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C73-5FDC8E4AFD2E">
+	<DocumentID>000C29A4-908D-A1F0-9C73-5FDC8E4ABD2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C73-5FDC8E4ABD2E</Name>
+	<Description>Booked</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-05T08:48:15.675</CreationDate>
+	<Notes/>
+	<Text>Booked</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9C73-5FDC8E4A3D2E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

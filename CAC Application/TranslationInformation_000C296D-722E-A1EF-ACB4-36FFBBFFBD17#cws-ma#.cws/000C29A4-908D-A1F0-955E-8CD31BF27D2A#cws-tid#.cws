@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-955E-8CD31BF2BD2A">
+	<DocumentID>000C29A4-908D-A1F0-955E-8CD31BF27D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-955E-8CD31BF27D2A</Name>
+	<Description>Subaru Lease - Requeue</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-30T06:21:43.911</CreationDate>
+	<Notes/>
+	<DefaultText>Subaru Lease - Requeue</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-955E-8CD31BF2FD2A"
+		/>
+	</Translations>
+</TextIdentifier>

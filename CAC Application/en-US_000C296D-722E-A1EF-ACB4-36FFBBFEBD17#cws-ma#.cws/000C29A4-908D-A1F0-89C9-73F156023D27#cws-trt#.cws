@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-89C9-73F156027D27">
+	<DocumentID>000C29A4-908D-A1F0-89C9-73F156023D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-89C9-73F156023D27</Name>
+	<Description>LogResponseFromDealerEvent</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-02T07:25:42.527</CreationDate>
+	<Notes/>
+	<Text>LogResponseFromDealerEvent</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-89C9-73F15601BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B9B1-7F0FCD373D21">
+	<DocumentID>000C29A4-908D-A1EF-B9B1-7F0FCD36FD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B9B1-7F0FCD36FD21</Name>
+	<Description>CheckCurrentCreditState</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-09T09:16:10.046</CreationDate>
+	<Notes/>
+	<Text>CheckCurrentCreditState</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B9B1-7F0FCD367D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

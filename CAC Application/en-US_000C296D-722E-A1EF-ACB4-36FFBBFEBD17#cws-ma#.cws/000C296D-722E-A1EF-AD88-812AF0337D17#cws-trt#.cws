@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD88-812AF033BD17">
+	<DocumentID>000C296D-722E-A1EF-AD88-812AF0337D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD88-812AF0337D17</Name>
+	<Description>Unlock</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T11:42:44.611</CreationDate>
+	<Notes/>
+	<Text>Unlock</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD88-812AF032FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

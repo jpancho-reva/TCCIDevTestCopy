@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AFAE-E8C4BF00FD1A">
+	<DocumentID>000C296D-722E-A1EF-AFAE-E8C4BF00BD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-AFAE-E8C4BF00BD1A</Name>
+	<Description>Tungsten Transaction List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-20T10:24:06.707</CreationDate>
+	<Notes/>
+	<Text>Tungsten Transaction List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AFAE-E8C4BF003D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BA18-15BD64AA7D23">
+	<DocumentID>000C29A4-908D-A1EF-BA18-15BD64AA3D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BA18-15BD64AA3D23</Name>
+	<Description>Process Credit Data</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-11T11:52:40.253</CreationDate>
+	<Notes/>
+	<Text>Process Credit Data</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BA18-15BD64A9BD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

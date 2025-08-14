@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ACBA-877C2E3B3D17">
+	<DocumentID>000C296D-722E-A1EF-ACBA-877C2E3AFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ACBA-877C2E3AFD17</Name>
+	<Description>Subaru</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-05T10:54:31.688</CreationDate>
+	<Notes/>
+	<Text>Subaru</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ACBA-877C2E3A7D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B8B2-592C500EFD21">
+	<DocumentID>000C29A4-908D-A1EF-B8B2-592C500EBD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B8B2-592C500EBD21</Name>
+	<Description>SetDurationOnCompleted</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-04T07:28:30.216</CreationDate>
+	<Notes/>
+	<Text>SetDurationOnCompleted</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B8B2-592C500E3D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

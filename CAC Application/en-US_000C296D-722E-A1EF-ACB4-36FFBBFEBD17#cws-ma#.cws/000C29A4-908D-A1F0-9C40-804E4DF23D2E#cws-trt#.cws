@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C40-804E4DF27D2E">
+	<DocumentID>000C29A4-908D-A1F0-9C40-804E4DF23D2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C40-804E4DF23D2E</Name>
+	<Description>TOYOTA - Loan</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T07:14:16.174</CreationDate>
+	<Notes/>
+	<Text>TOYOTA - Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9C40-804E4DF1BD2E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

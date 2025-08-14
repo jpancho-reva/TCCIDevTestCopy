@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BF90-ACE98CFABD27">
+	<DocumentID>000C29A4-908D-A1EF-BF90-ACE98CFA7D27</DocumentID>
+	<Name>000C29A4-908D-A1EF-BF90-ACE98CFA7D27</Name>
+	<Description>Set Is  Received</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-11T06:35:18.716</CreationDate>
+	<Notes/>
+	<DefaultText>Set Is  Received</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BF90-ACE98CFAFD27"
+		/>
+	</Translations>
+</TextIdentifier>

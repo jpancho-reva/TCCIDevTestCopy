@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC7-A351F12C7D17">
+	<DocumentID>000C296D-722E-A1EF-AAC7-A351F12C3D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC7-A351F12C3D17</Name>
+	<Description>Fax Num</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T11:24:31.492</CreationDate>
+	<Notes/>
+	<Text>Fax Num</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC7-A351F12BBD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

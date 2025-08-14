@@ -1,0 +1,35 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B2-A4B224703D21">
+	<DocumentID>000C29A4-908D-A1EF-B7B2-A4B2246FFD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B2-A4B2246FFD21</Name>
+	<Description>000C29A4-908D-A1EF-B7B2-A4B2246FFD21</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T06:20:16.996</CreationDate>
+	<Notes/>
+	<DefaultText>&quot;Error: Invalid &quot; + 
+IF(item.Properties.OCRJobId IS NULL, &quot;OCRJobId, &quot;, &quot;&quot;) + 
+IF(item.Properties.IsEmployee IS NULL, &quot;IsEmployee, &quot;, &quot;&quot;) + 
+IF(item.Properties.Department IS NULL, &quot;Department, &quot;, &quot;&quot;) + 
+IF(item.Properties.DocumentTypeList IS NULL, &quot;DocumentTypeList, &quot;, &quot;&quot;) + 
+IF(item.Properties.Investigation IS NULL, &quot;Investigation, &quot;, &quot;&quot;) + 
+IF(item.Properties.KofaxClassificationDatetime IS NULL, &quot;KofaxClassificationDatetime, &quot;, &quot;&quot;) + 
+IF(item.Properties.Unindexed IS NULL, &quot;Unindexed, &quot;, &quot;&quot;) + 
+IF(item.Properties.ApplicationNum IS NULL, &quot;ApplicationNum, &quot;, &quot;&quot;) + 
+IF(item.Properties.CorrelationID IS NULL, &quot;CorrelationID, &quot;, &quot;&quot;) + 
+IF(item.Properties.Mode IS NULL, &quot;Mode, &quot;, &quot;&quot;) + 
+IF(item.Properties.TenantIdentifier IS NULL, &quot;TenantIdentifier, &quot;, &quot;&quot;)</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B7B2-A4B224707D21"
+		/>
+	</Translations>
+</TextIdentifier>

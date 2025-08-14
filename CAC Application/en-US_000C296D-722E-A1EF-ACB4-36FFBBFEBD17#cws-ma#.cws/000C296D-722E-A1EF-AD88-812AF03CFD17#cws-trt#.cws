@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD88-812AF03D3D17">
+	<DocumentID>000C296D-722E-A1EF-AD88-812AF03CFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD88-812AF03CFD17</Name>
+	<Description>Lock</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T11:42:44.61</CreationDate>
+	<Notes/>
+	<Text>Lock</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD88-812AF03C7D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

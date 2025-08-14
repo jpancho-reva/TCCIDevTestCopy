@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8255-7612FC0C3D27">
+	<DocumentID>000C29A4-908D-A1F0-8255-7612FC0BFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8255-7612FC0BFD27</Name>
+	<Description>Send To Dealer Task Layout</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-25T09:43:37.586</CreationDate>
+	<Notes/>
+	<Text>Send To Dealer Task Layout</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8255-7612FC0B7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

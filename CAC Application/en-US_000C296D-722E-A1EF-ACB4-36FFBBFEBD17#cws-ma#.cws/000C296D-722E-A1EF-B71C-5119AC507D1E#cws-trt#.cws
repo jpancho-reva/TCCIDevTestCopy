@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B71C-5119AC50BD1E">
+	<DocumentID>000C296D-722E-A1EF-B71C-5119AC507D1E</DocumentID>
+	<Name>000C296D-722E-A1EF-B71C-5119AC507D1E</Name>
+	<Description>SetBWSLocationPath</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-27T05:56:57.074</CreationDate>
+	<Notes/>
+	<Text>SetBWSLocationPath</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B71C-5119AC4FFD1E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

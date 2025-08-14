@@ -1,0 +1,28 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B71D-F3E95D2B7D1E">
+	<DocumentID>000C296D-722E-A1EF-B71D-F3E95D2B3D1E</DocumentID>
+	<Name>000C296D-722E-A1EF-B71D-F3E95D2B3D1E</Name>
+	<Description>Is 
+OCR_Coversheet
+Exist?</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-27T06:56:17.57</CreationDate>
+	<Notes/>
+	<DefaultText>Is 
+OCR_Coversheet
+Exist?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B71D-F3E95D2BBD1E"
+		/>
+	</Translations>
+</TextIdentifier>

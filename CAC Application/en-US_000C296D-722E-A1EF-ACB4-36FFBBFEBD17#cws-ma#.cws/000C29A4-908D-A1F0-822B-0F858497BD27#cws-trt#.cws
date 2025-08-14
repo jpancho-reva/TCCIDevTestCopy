@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-822B-0F858497FD27">
+	<DocumentID>000C29A4-908D-A1F0-822B-0F858497BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-822B-0F858497BD27</Name>
+	<Description>SetTargetStateToDataUpdate?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-24T12:38:38.085</CreationDate>
+	<Notes/>
+	<Text>SetTargetStateToDataUpdate?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-822B-0F8584973D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

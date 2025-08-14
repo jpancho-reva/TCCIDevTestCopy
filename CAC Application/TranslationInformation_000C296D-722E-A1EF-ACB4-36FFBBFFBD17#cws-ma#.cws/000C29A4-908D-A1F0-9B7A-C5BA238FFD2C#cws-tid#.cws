@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9B7A-C5BA23903D2C">
+	<DocumentID>000C29A4-908D-A1F0-9B7A-C5BA238FFD2C</DocumentID>
+	<Name>000C29A4-908D-A1F0-9B7A-C5BA238FFD2C</Name>
+	<Description>Redirects to homepage if no new task available</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-31T09:08:47.342</CreationDate>
+	<Notes/>
+	<DefaultText>Redirects to homepage if no new task available</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-9B7A-C5BA23907D2C"
+		/>
+	</Translations>
+</TextIdentifier>

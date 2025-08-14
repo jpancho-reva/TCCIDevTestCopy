@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB1-56BE519C3D17">
+	<DocumentID>000C296D-722E-A1EF-ADB1-56BE519BFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB1-56BE519BFD17</Name>
+	<Description>Pre Auto Approval</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T07:27:19.207</CreationDate>
+	<Notes/>
+	<Text>Pre Auto Approval</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB1-56BE519B7D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

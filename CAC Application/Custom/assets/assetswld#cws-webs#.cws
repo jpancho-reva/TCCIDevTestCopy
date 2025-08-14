@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83E1-C5CE03F9FD27">
+	<DocumentID>000C29A4-908D-A1F0-83E1-C5CE03F9BD27</DocumentID>
+	<Name>assetswld</Name>
+	<Description>assetswld</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-02T06:03:34.424</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="000C29A4-908D-A1F0-83AF-B3A7FB5B3D27"
+			path="CAC Application/Custom/assets"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

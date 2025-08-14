@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82CD-0FAF40747D27">
+	<DocumentID>000C29A4-908D-A1F0-82CD-0FAF40743D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82CD-0FAF40743D27</Name>
+	<Description>LDW VIN Match Flag</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-27T17:54:50.891</CreationDate>
+	<Notes/>
+	<Text>LDW VIN Match Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82CD-0FAF4073BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

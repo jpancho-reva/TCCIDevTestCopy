@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="000C296D-722E-A1EF-AE46-E5D84FFEBD17">
+	<DocumentID>000C296D-722E-A1EF-AE46-E5D84FFE7D17</DocumentID>
+	<Name>CAC Integration</Name>
+	<Description>CAC Integration</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-13T06:33:28.74</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="000C296D-722E-A1EF-AE46-E5D84FFD7D17">
+			<DocumentID>000C296D-722E-A1EF-AE46-E5D84FFD3D17</DocumentID>
+			<Name>TCCI CAC Integration</Name>
+			<Description>TCCI CAC Integration</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2024-12-13T06:33:28.741</CreationDate>
+			<Notes/>
+			<BuildNumber>17</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>TCCI CAC Integration 1.0.17</ISVPackageFileName>
+			<ISVPackageOwner>TCCI</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>CAC Integration</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFDFD17"
+			path="CAC Integration"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="000C296D-722E-A1EF-AE46-E5D84FFCFD17">
+			<DocumentID>000C296D-722E-A1EF-AE46-E5D84FFCBD17</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2024-12-13T06:33:28.741</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="000C296D-722E-A1EF-AE46-E5D84FFBFD17">
+					<DocumentID>000C296D-722E-A1EF-AE46-E5D84FFBBD17</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>apawar@Appworks</CreatedBy>
+					<CreationDate>2024-12-13T06:33:28.741</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="000C296D-722E-A1EF-AE46-E5D84FFB3D17"
+							path="CAC Integration/en-US_000C296D-722E-A1EF-AE46-E5D84FFB3D17"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="000C296D-722E-A1EF-AE46-E5D84FFCBD17"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="000C296D-722E-A1EF-AE46-E5D84FFC3D17"
+					path="CAC Integration/TranslationInformation_000C296D-722E-A1EF-AE46-E5D84FFC3D17"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

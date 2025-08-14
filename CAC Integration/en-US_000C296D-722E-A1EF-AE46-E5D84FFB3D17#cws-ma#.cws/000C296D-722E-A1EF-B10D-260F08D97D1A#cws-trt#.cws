@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B10D-260F08D9BD1A">
+	<DocumentID>000C296D-722E-A1EF-B10D-260F08D97D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B10D-260F08D97D1A</Name>
+	<Description>OutboundToken_History</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2024-12-27T09:34:19.033</CreationDate>
+	<Notes/>
+	<Text>OutboundToken_History</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B10D-260F08D8FD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

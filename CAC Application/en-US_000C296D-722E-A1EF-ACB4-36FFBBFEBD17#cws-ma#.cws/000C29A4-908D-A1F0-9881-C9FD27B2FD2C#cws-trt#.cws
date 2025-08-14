@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9881-C9FD27B33D2C">
+	<DocumentID>000C29A4-908D-A1F0-9881-C9FD27B2FD2C</DocumentID>
+	<Name>000C29A4-908D-A1F0-9881-C9FD27B2FD2C</Name>
+	<Description>UserManualReviewRequiredLease</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-16T05:43:12.658</CreationDate>
+	<Notes/>
+	<Text>UserManualReviewRequiredLease</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9881-C9FD27B27D2C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-81B9-E9372A2A3D27">
+	<DocumentID>000C29A4-908D-A1F0-81B9-E9372A29FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-81B9-E9372A29FD27</Name>
+	<Description>Ready To Fund</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-22T10:39:10.629</CreationDate>
+	<Notes/>
+	<Text>Ready To Fund</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-81B9-E9372A297D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

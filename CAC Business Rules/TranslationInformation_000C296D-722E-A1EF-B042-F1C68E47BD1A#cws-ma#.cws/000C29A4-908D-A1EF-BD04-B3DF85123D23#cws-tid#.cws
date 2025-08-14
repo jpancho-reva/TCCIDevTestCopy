@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BD04-B3DF85127D23">
+	<DocumentID>000C29A4-908D-A1EF-BD04-B3DF85123D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BD04-B3DF85123D23</Name>
+	<Description>000C29A4-908D-A1EF-BD04-B3DF85123D23</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-26T09:14:53.053</CreationDate>
+	<Notes/>
+	<DefaultText>&lt;p fr-original-style=&quot;&quot; style=&quot;box-sizing: border-box; margin: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px; box-sizing: border-box; color: rgb(102, 102, 102);&quot; fr-original-style=&quot;font-size:14px;&quot;&gt;❌ &lt;span style=&quot;color: rgb(231, 76, 60); box-sizing: border-box;&quot; fr-original-style=&quot;color:#e74c3c;&quot;&gt;&lt;strong fr-original-style=&quot;&quot; style=&quot;box-sizing: border-box; font-weight: 700;&quot;&gt;Invalid expression&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E483D1A"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BD04-B3DF8512BD23"
+		/>
+	</Translations>
+</TextIdentifier>

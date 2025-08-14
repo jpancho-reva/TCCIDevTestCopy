@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBC-F338A5BF3D17">
+	<DocumentID>000C296D-722E-A1EF-ADBC-F338A5BEFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBC-F338A5BEFD17</Name>
+	<Description>Archive To Complete</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T12:48:08.604</CreationDate>
+	<Notes/>
+	<DefaultText>Archive To Complete</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-ADBC-F338A5BF7D17"
+		/>
+	</Translations>
+</TextIdentifier>

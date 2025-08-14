@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82E3-5C3B91B9BD27">
+	<DocumentID>000C29A4-908D-A1F0-82E3-5C3B91B97D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82E3-5C3B91B97D27</Name>
+	<Description>DealerNACount</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T05:26:57.207</CreationDate>
+	<Notes/>
+	<Text>DealerNACount</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82E3-5C3B91B8FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

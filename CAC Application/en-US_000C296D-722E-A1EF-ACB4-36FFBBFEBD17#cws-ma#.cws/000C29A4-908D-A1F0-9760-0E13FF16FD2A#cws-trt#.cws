@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9760-0E13FF173D2A">
+	<DocumentID>000C29A4-908D-A1F0-9760-0E13FF16FD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9760-0E13FF16FD2A</Name>
+	<Description>My Credit Investigation Supervisor List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-10T11:29:47.107</CreationDate>
+	<Notes/>
+	<Text>My Credit Investigation Supervisor List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9760-0E13FF167D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

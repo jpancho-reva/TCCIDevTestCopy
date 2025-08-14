@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62C-266E1B0D7D1D">
+	<DocumentID>000C296D-722E-A1EF-B62C-266E1B0D3D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62C-266E1B0D3D1D</Name>
+	<Description>Direct Payment Secondary</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T11:05:12.394</CreationDate>
+	<Notes/>
+	<DefaultText>Direct Payment Secondary</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B62C-266E1B0DBD1D"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5BA-9463C6D03D1D">
+	<DocumentID>000C296D-722E-A1EF-B5BA-9463C6CFFD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5BA-9463C6CFFD1D</Name>
+	<Description>Application Number Empty?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-20T05:21:38.055</CreationDate>
+	<Notes/>
+	<Text>Application Number Empty?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5BA-9463C6CF7D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82F3-FFFDF0B37D27">
+	<DocumentID>000C29A4-908D-A1F0-82F3-FFFDF0B33D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82F3-FFFDF0B33D27</Name>
+	<Description>LockCreditTask</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T12:27:26.15</CreationDate>
+	<Notes/>
+	<Text>LockCreditTask</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82F3-FFFDF0B2BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

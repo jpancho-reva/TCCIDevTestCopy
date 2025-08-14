@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8672-7BEE60A8BD27">
+	<DocumentID>000C29A4-908D-A1F0-8672-7BEE60A87D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8672-7BEE60A87D27</Name>
+	<Description>Completed Contract Application List</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-15T07:29:42.328</CreationDate>
+	<Notes/>
+	<Text>Completed Contract Application List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8672-7BEE60A7FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

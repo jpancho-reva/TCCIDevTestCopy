@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9B43-69015368FD2C">
+	<DocumentID>000C29A4-908D-A1F0-9B43-69015368BD2C</DocumentID>
+	<Name>000C29A4-908D-A1F0-9B43-69015368BD2C</Name>
+	<Description>Report Lists</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-07-30T06:26:24.022</CreationDate>
+	<Notes/>
+	<Text>Report Lists</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9B43-690153683D2C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

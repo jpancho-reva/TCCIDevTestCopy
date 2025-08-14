@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BCD9-1CBC1808BD23">
+	<DocumentID>000C29A4-908D-A1EF-BCD9-1CBC18087D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BCD9-1CBC18087D23</Name>
+	<Description>Document Missing Rule List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-25T10:38:54.423</CreationDate>
+	<Notes/>
+	<Text>Document Missing Rule List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BCD9-1CBC1807FD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

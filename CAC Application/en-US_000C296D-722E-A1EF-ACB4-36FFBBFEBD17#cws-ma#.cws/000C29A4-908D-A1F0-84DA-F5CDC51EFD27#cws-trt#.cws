@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-84DA-F5CDC51F3D27">
+	<DocumentID>000C29A4-908D-A1F0-84DA-F5CDC51EFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-84DA-F5CDC51EFD27</Name>
+	<Description>CreateContractApplicationEvent</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-04-07T04:59:37.987</CreationDate>
+	<Notes/>
+	<Text>CreateContractApplicationEvent</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-84DA-F5CDC51E7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83B6-EBD7250D7D27">
+	<DocumentID>000C29A4-908D-A1F0-83B6-EBD7250D3D27</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-04-01T09:41:45.91</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-83B7-5D26F6C6FD27">
+			<DocumentID>000C29A4-908D-A1F0-83B7-5D26F6C6BD27</DocumentID>
+			<Name>CreateEventLog</Name>
+			<Description>Create EventLog</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2025-04-01T09:43:45.916</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-E00955EB7D27"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C29A4-908D-A1F0-83AD-E00955EB7D27"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-83B7-5D26F6C67D27">
+			<DocumentID>000C29A4-908D-A1F0-83B7-5D26F6C63D27</DocumentID>
+			<Name>ReadEventLog</Name>
+			<Description>Read EventLog</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2025-04-01T09:43:45.916</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-E00955EB7D27"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-83B7-5D26F6C5FD27">
+			<DocumentID>000C29A4-908D-A1F0-83B7-5D26F6C5BD27</DocumentID>
+			<Name>UpdateEventLog</Name>
+			<Description>Update EventLog</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2025-04-01T09:43:45.916</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-E00955EB7D27"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

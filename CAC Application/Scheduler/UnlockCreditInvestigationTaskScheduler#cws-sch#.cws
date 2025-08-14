@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BB78-50D3DF4CBD23">
+	<DocumentID>000C29A4-908D-A1EF-BB78-50D3DF4C7D23</DocumentID>
+	<Name>UnlockCreditInvestigationTaskScheduler</Name>
+	<Description>Automatically unlocks all the Credit Investigation Tasks which are assigned to the users at at 2AM Server Time</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-18T11:38:28.503</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="UnlockCreditInvestigationTaskScheduler"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2025-02-18T11:36:09.747"
+			msgHolderLastModified="2025-08-12T08:48:01.624">
+			<datetime>
+				<daily>
+					<time>2:0</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="000C29A4-908D-A1EF-BB78-50D3DF4AFD23">
+			<DocumentID>000C29A4-908D-A1EF-BB78-50D3DF4ABD23</DocumentID>
+			<Name>000C29A4-908D-A1EF-BB78-50D3DF4ABD23</Name>
+			<Description>000C29A4-908D-A1EF-BB78-50D3DF4ABD23</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-02-18T11:38:28.503</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="000C29A4-908D-A1EF-BB6F-6697590AFD23"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

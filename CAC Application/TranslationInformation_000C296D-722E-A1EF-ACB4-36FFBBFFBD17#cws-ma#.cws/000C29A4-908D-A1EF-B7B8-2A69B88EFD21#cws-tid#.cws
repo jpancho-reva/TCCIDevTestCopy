@@ -1,0 +1,41 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B8-2A69B88F3D21">
+	<DocumentID>000C29A4-908D-A1EF-B7B8-2A69B88EFD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B8-2A69B88EFD21</Name>
+	<Description>000C29A4-908D-A1EF-B7B8-2A69B88EFD21</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T08:22:19.481</CreationDate>
+	<Notes/>
+	<DefaultText>{(item.Properties.OCRJobId == null &amp;&amp; item.Properties.IsEmployee == null &amp;&amp; item.Properties.Department == null &amp;&amp;
+  item.Properties.DocumentTypeList == null &amp;&amp; item.Properties.Investigation == null &amp;&amp;
+  item.Properties.KofaxClassificationDatetime == null &amp;&amp; item.Properties.Unindexed == null &amp;&amp;
+  item.Properties.ApplicationNum == null &amp;&amp; item.Properties.CorrelationID == null &amp;&amp;
+  item.Properties.Mode == null &amp;&amp; item.Properties.TenantIdentifier == null) 
+  ? &quot;Enter OCRJobId, IsEmployee, Department, DocumentTypeList, Investigation, KofaxClassificationDatetime, Unindexed, ApplicationNum, CorrelationID, Mode, TenantIdentifier&quot;
+  
+  : (item.Properties.OCRJobId == null ? &quot;Enter OCRJobId&quot; : 
+    (item.Properties.IsEmployee == null ? &quot;Enter IsEmployee&quot; : 
+      (item.Properties.Department == null ? &quot;Enter Department&quot; : 
+        (item.Properties.DocumentTypeList == null ? &quot;Enter DocumentTypeList&quot; : 
+          (item.Properties.Investigation == null ? &quot;Enter Investigation&quot; : 
+            (item.Properties.KofaxClassificationDatetime == null ? &quot;Enter KofaxClassificationDatetime&quot; : 
+              (item.Properties.Unindexed == null ? &quot;Enter Unindexed&quot; : 
+                (item.Properties.ApplicationNum == null ? &quot;Enter ApplicationNum&quot; : 
+                  (item.Properties.CorrelationID == null ? &quot;Enter CorrelationID&quot; : 
+                    (item.Properties.Mode == null ? &quot;Enter Mode&quot; : 
+                      &quot;Enter TenantIdentifier&quot;)))))))))))}</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B7B8-2A69B88F7D21"
+		/>
+	</Translations>
+</TextIdentifier>

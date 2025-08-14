@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83BB-F36417B73D27">
+	<DocumentID>000C29A4-908D-A1F0-83BB-F36417B6FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-83BB-F36417B6FD27</Name>
+	<Description>Rules by</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-01T12:23:45.844</CreationDate>
+	<Notes/>
+	<Text>Rules by</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-83BB-F36417B67D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

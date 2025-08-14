@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADAF-0848C2763D17">
+	<DocumentID>000C296D-722E-A1EF-ADAF-0848C275FD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADAF-0848C275FD17</Name>
+	<Description>Contract Secondary Dealer Sign Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:02:44.282</CreationDate>
+	<Notes/>
+	<Text>Contract Secondary Dealer Sign Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADAF-0848C2757D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

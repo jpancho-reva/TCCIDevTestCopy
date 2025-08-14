@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B363-15797DC33D1B">
+	<DocumentID>000C296D-722E-A1EF-B363-15797DC2FD1B</DocumentID>
+	<Name>000C296D-722E-A1EF-B363-15797DC2FD1B</Name>
+	<Description>Expression is valid</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-08T08:42:49.117</CreationDate>
+	<Notes/>
+	<Text>Expression is valid</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B367-164216B27D1B"
+		/>
+	</TextIdentifier>
+</TranslatedText>

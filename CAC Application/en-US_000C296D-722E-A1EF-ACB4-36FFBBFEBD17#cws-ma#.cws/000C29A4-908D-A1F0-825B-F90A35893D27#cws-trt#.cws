@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-825B-F90A35897D27">
+	<DocumentID>000C29A4-908D-A1F0-825B-F90A35893D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-825B-F90A35893D27</Name>
+	<Description>Enable Need Attention Resend</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-25T12:26:58.679</CreationDate>
+	<Notes/>
+	<Text>Enable Need Attention Resend</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-825B-F90A3588BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

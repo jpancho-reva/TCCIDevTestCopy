@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B32D-14DF07BDBD1A">
+	<DocumentID>000C296D-722E-A1EF-B32D-14DF07BD7D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B32D-14DF07BD7D1A</Name>
+	<Description>Edit Outbound Token</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-07T05:34:29.377</CreationDate>
+	<Notes/>
+	<Text>Edit Outbound Token</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B32D-14DF07BCFD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

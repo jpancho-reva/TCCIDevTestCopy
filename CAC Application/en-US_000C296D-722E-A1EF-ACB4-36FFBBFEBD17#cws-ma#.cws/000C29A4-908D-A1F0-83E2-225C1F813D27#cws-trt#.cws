@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83E2-225C1F817D27">
+	<DocumentID>000C29A4-908D-A1F0-83E2-225C1F813D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-83E2-225C1F813D27</Name>
+	<Description>The {item.Task.Subject} of Credit workflow for Application #{item.ParentEntity.Properties.ContractApplicationNumber} has been resumed</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-02T06:08:42.475</CreationDate>
+	<Notes/>
+	<Text>The {item.Task.Subject} of Credit workflow for Application #{item.ParentEntity.Properties.ContractApplicationNumber} has been resumed</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-83E2-225C1F80BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

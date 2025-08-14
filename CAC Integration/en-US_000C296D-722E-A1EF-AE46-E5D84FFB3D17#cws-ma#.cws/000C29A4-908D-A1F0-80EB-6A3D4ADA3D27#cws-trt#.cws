@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-80EB-6A3D4ADA7D27">
+	<DocumentID>000C29A4-908D-A1F0-80EB-6A3D4ADA3D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-80EB-6A3D4ADA3D27</Name>
+	<Description>UpdateInsuranceInfo</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-18T04:34:17.204</CreationDate>
+	<Notes/>
+	<Text>UpdateInsuranceInfo</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-80EB-6A3D4AD9BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

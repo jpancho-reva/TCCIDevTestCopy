@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8B34-990438933D27">
+	<DocumentID>000C29A4-908D-A1F0-8B34-99043892FD27</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-09T12:40:07.699</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8B34-990438927D27">
+			<DocumentID>000C29A4-908D-A1F0-8B34-990438923D27</DocumentID>
+			<Name>CreateNeedAttentionMessage</Name>
+			<Description>Create NeedAttentionMessage</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-05-09T12:40:07.699</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-8B27-B1284AB2FD27"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8E80-4834D556BD29">
+			<DocumentID>000C29A4-908D-A1F0-8E80-4834D5567D29</DocumentID>
+			<Name>DeleteNeedAttentionMessage</Name>
+			<Description>Delete NeedAttentionMessage</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-05-26T07:17:04.089</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-8B27-B1284AB2FD27"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="000C29A4-908D-A1F0-8B27-B1284AB2FD27"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8EAF-4BADB72BBD29">
+			<DocumentID>000C29A4-908D-A1F0-8EAF-4BADB72B7D29</DocumentID>
+			<Name>ReadNeedAttentionMessage</Name>
+			<Description>Read NeedAttentionMessage</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-05-27T06:06:00.995</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-8B27-B1284AB2FD27"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9432-85933FAF7D2A">
+	<DocumentID>000C29A4-908D-A1F0-9432-85933FAF3D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9432-85933FAF3D2A</Name>
+	<Description>User NA Count</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-24T07:21:37.855</CreationDate>
+	<Notes/>
+	<Text>User NA Count</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9432-85933FAEBD2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

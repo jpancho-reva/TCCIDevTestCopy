@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-90AC-D4FF3A9F7D29">
+	<DocumentID>000C29A4-908D-A1F0-90AC-D4FF3A9F3D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-90AC-D4FF3A9F3D29</Name>
+	<Description>Ready to Book</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-06T08:50:58.196</CreationDate>
+	<Notes/>
+	<Text>Ready to Book</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-90AC-D4FF3A9EBD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

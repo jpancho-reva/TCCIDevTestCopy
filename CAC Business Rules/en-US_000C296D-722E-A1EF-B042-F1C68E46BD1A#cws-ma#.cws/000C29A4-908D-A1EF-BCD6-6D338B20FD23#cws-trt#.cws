@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BCD6-6D338B213D23">
+	<DocumentID>000C29A4-908D-A1EF-BCD6-6D338B20FD23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BCD6-6D338B20FD23</Name>
+	<Description>ConcatMessages</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-25T09:23:39.254</CreationDate>
+	<Notes/>
+	<Text>ConcatMessages</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BCD6-6D338B207D23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

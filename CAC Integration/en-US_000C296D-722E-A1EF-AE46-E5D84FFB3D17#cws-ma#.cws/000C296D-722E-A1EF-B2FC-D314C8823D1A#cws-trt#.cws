@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B2FC-D314C8827D1A">
+	<DocumentID>000C296D-722E-A1EF-B2FC-D314C8823D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B2FC-D314C8823D1A</Name>
+	<Description>Fetching the ID of the instance which have source which we have passed as input</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-06T06:07:37.307</CreationDate>
+	<Notes/>
+	<Text>Fetching the ID of the instance which have source which we have passed as input</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B2FC-D314C881BD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

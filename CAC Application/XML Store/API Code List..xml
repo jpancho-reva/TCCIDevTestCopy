@@ -1,0 +1,30 @@
+<apicodes>
+	<apicode>
+		<label>Credit Receipt</label>
+		<name>AW-EI-CREDITRECEIPT</name>
+	</apicode>
+	<apicode>
+		<label>Credit Data</label>
+		<name>AW-EI-CREDITDATA</name>
+	</apicode>
+	<apicode>
+		<label>Credit Decision</label>
+		<name>AW-EI-CREDITDECISION</name>
+	</apicode>
+	<apicode>
+		<label>Booking Request</label>
+		<name>AW-EI-BOOKINGREQUEST</name>
+	</apicode>
+	<apicode>
+		<label>Booking Status</label>
+		<name>AW-EI-BOOKINGSTATUS</name>
+	</apicode>
+	<apicode>
+		<label>Account Close</label>
+		<name>AW-EI-ACCOUNTCLOSE</name>
+	</apicode>
+	<apicode>
+		<label>Name Change</label>
+		<name>AW-EI-NAMECHANGE</name>
+	</apicode>
+</apicodes>

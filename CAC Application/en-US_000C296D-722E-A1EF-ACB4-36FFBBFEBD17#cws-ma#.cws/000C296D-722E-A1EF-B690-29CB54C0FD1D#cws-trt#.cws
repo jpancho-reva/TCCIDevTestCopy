@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B690-29CB54C13D1D">
+	<DocumentID>000C296D-722E-A1EF-B690-29CB54C0FD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B690-29CB54C0FD1D</Name>
+	<Description>Document Transfer Workflow Transient</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-24T10:54:46.75</CreationDate>
+	<Notes/>
+	<Text>Document Transfer Workflow Transient</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B690-29CB54C07D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

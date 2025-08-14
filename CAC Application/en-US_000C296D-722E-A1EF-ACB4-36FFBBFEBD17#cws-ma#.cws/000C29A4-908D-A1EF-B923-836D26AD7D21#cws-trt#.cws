@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B923-836D26ADBD21">
+	<DocumentID>000C29A4-908D-A1EF-B923-836D26AD7D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B923-836D26AD7D21</Name>
+	<Description>A new {item.Task.Subject} added to Credit workflow for Application #{item.ParentEntity.Properties.CreditApplicationNumber}</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-06T13:27:15.005</CreationDate>
+	<Notes/>
+	<Text>A new {item.Task.Subject} added to Credit workflow for Application #{item.ParentEntity.Properties.CreditApplicationNumber}</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B923-836D26ACFD21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

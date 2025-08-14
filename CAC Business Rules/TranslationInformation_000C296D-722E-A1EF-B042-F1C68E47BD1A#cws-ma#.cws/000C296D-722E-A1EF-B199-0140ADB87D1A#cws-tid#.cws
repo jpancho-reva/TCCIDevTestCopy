@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B199-0140ADB8BD1A">
+	<DocumentID>000C296D-722E-A1EF-B199-0140ADB87D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B199-0140ADB87D1A</Name>
+	<Description>Set Display and Value</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-30T04:21:18.909</CreationDate>
+	<Notes/>
+	<DefaultText>Set Display and Value</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E483D1A"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B199-0140ADB8FD1A"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8E7D-53A03E03FD29">
+	<DocumentID>000C29A4-908D-A1F0-8E7D-53A03E03BD29</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-26T06:01:47.031</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8E7D-53A03E033D29">
+			<DocumentID>000C29A4-908D-A1F0-8E7D-53A03E02FD29</DocumentID>
+			<Name>CreateNAMessages</Name>
+			<Description>Create NAMessages</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-05-26T06:01:47.028</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-8DED-6BBBA525FD29"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8E7F-AC1DC3BCBD29">
+			<DocumentID>000C29A4-908D-A1F0-8E7F-AC1DC3BC7D29</DocumentID>
+			<Name>DeleteNAMessages</Name>
+			<Description>Delete NAMessages</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-05-26T06:59:53.711</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-8DED-6BBBA525FD29"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="000C29A4-908D-A1F0-8DED-6BBBA525FD29"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation/>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8EDF-A1EA9D2B3D29">
+			<DocumentID>000C29A4-908D-A1F0-8EDF-A1EA9D2AFD29</DocumentID>
+			<Name>UpdateNAMessages</Name>
+			<Description>Update NAMessages</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-05-28T04:45:41.873</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-8DED-6BBBA525FD29"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

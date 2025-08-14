@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8992-847FD8AF3D27">
+	<DocumentID>000C29A4-908D-A1F0-8992-847FD8AEFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8992-847FD8AEFD27</Name>
+	<Description>UnindexDocumentIndexingEvent</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-01T05:11:10.113</CreationDate>
+	<Notes/>
+	<Text>UnindexDocumentIndexingEvent</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8992-847FD8AE7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBA-FCC2C3C4BD17">
+	<DocumentID>000C296D-722E-A1EF-ADBA-FCC2C3C47D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBA-FCC2C3C47D17</Name>
+	<Description>Supervisor Contract Ready To Book List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T11:45:51.917</CreationDate>
+	<Notes/>
+	<Text>Supervisor Contract Ready To Book List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADBA-FCC2C3C3FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

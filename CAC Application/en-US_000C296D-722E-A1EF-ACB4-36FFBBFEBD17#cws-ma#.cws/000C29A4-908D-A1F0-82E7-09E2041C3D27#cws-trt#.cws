@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82E7-09E2041C7D27">
+	<DocumentID>000C29A4-908D-A1F0-82E7-09E2041C3D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82E7-09E2041C3D27</Name>
+	<Description>ResetThresholdForUserMessage</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T06:36:37.209</CreationDate>
+	<Notes/>
+	<Text>ResetThresholdForUserMessage</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82E7-09E2041BBD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

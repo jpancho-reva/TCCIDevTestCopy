@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD80-46D8B287FD17">
+	<DocumentID>000C296D-722E-A1EF-AD80-46D8B287BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD80-46D8B287BD17</Name>
+	<Description>Hash Code</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T07:43:59.662</CreationDate>
+	<Notes/>
+	<Text>Hash Code</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD80-46D8B2873D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

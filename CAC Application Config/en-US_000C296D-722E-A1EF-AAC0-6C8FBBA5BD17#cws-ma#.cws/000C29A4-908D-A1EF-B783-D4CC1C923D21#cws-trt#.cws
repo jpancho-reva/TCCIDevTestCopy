@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B783-D4CC1C927D21">
+	<DocumentID>000C29A4-908D-A1EF-B783-D4CC1C923D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B783-D4CC1C923D21</Name>
+	<Description>BrandCodeRefLookup</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-29T07:12:17.74</CreationDate>
+	<Notes/>
+	<Text>BrandCodeRefLookup</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B783-D4CC1C91BD21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

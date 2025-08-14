@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BA6F-AF7A85337D23">
+	<DocumentID>000C29A4-908D-A1EF-BA6F-AF7A85333D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BA6F-AF7A85333D23</Name>
+	<Description>Task has been suspended</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-13T06:17:44.99</CreationDate>
+	<Notes/>
+	<DefaultText>Task has been suspended</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BA6F-AF7A8533BD23"
+		/>
+	</Translations>
+</TextIdentifier>

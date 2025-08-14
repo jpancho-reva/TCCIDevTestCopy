@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE6E-43EC0C20FD25">
+	<DocumentID>000C29A4-908D-A1EF-BE6E-43EC0C20BD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE6E-43EC0C20BD25</Name>
+	<Description>Rules Passed</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-05T12:04:46.92</CreationDate>
+	<Notes/>
+	<Text>Rules Passed</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE6E-43EC0C203D25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

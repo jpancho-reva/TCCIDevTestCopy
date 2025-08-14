@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B0A1-8FBE76ABFD1A">
+	<DocumentID>000C296D-722E-A1EF-B0A1-8FBE76ABBD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B0A1-8FBE76ABBD1A</Name>
+	<Description>CAC Business Rules List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-25T06:12:24.925</CreationDate>
+	<Notes/>
+	<Text>CAC Business Rules List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B0A1-8FBE76AB3D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

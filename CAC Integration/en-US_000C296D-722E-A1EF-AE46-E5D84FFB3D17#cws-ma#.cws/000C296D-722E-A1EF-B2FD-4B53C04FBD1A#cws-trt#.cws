@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B2FC-D314C86FBD1A">
+	<DocumentID>000C296D-722E-A1EF-B2FD-4B53C04FBD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B2FD-4B53C04FBD1A</Name>
+	<Description>Genrate Token</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-06T06:13:00.464</CreationDate>
+	<Notes/>
+	<Text>Genrate Token</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B2FD-4B53C04F3D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB6-1CBCAC8FFD17">
+	<DocumentID>000C296D-722E-A1EF-ADB6-1CBCAC8FBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB6-1CBCAC8FBD17</Name>
+	<Description>Walkaway VIN Match Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T09:24:16.537</CreationDate>
+	<Notes/>
+	<Text>Walkaway VIN Match Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB6-1CBCAC8F3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

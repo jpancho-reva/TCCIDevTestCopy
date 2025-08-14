@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-811E-FA8CE8687D27">
+	<DocumentID>000C29A4-908D-A1F0-811E-FA8CE8683D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-811E-FA8CE8683D27</Name>
+	<Description>Endorsement Type</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-19T05:11:08.03</CreationDate>
+	<Notes/>
+	<Text>Endorsement Type</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-811E-FA8CE867BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

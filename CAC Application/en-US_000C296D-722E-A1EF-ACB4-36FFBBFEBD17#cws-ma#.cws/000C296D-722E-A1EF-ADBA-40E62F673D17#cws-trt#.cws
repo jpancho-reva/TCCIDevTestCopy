@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBA-40E62F677D17">
+	<DocumentID>000C296D-722E-A1EF-ADBA-40E62F673D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBA-40E62F673D17</Name>
+	<Description>eSign</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T11:27:24.22</CreationDate>
+	<Notes/>
+	<Text>eSign</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADBA-40E62F66BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

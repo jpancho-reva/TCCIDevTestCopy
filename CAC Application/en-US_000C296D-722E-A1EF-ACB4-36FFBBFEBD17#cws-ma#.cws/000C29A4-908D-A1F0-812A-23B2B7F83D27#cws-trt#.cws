@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-812A-23B2B7F87D27">
+	<DocumentID>000C29A4-908D-A1F0-812A-23B2B7F83D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-812A-23B2B7F83D27</Name>
+	<Description>EvaluateXPath</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-19T11:05:11.114</CreationDate>
+	<Notes/>
+	<Text>EvaluateXPath</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-812A-23B2B7F7BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

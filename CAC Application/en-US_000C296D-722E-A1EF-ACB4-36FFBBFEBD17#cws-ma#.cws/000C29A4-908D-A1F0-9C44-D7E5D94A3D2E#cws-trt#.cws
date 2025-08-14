@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C44-D7E5D94A7D2E">
+	<DocumentID>000C29A4-908D-A1F0-9C44-D7E5D94A3D2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C44-D7E5D94A3D2E</Name>
+	<Description>MAZDA - Loan</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T09:16:07.923</CreationDate>
+	<Notes/>
+	<Text>MAZDA - Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9C44-D7E5D949BD2E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

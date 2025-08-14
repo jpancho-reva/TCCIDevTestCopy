@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADAD-2D870863FD17">
+	<DocumentID>000C296D-722E-A1EF-ADAD-2D870863BD17</DocumentID>
+	<Name>ReadOnly_Cat_Disable</Name>
+	<Description>ReadOnly_Cat_Disable</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T05:11:47.905</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ADAB-1655D2577D17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

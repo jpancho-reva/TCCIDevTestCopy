@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB0-87A882807D17">
+	<DocumentID>000C296D-722E-A1EF-ADB0-87A882803D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB0-87A882803D17</Name>
+	<Description>Insurance VIN Match Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:53:09.396</CreationDate>
+	<Notes/>
+	<Text>Insurance VIN Match Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB0-87A8827FBD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

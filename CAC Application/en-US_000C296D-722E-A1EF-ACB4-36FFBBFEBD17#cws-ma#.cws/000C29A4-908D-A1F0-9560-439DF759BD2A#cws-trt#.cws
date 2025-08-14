@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9560-439DF759FD2A">
+	<DocumentID>000C29A4-908D-A1F0-9560-439DF759BD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9560-439DF759BD2A</Name>
+	<Description>Mazda Loan - Requeue</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-30T07:14:19.434</CreationDate>
+	<Notes/>
+	<Text>Mazda Loan - Requeue</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9560-439DF7593D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

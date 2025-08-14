@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9494-E36F226EFD2A">
+	<DocumentID>000C29A4-908D-A1F0-9494-E36F226EBD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9494-E36F226EBD2A</Name>
+	<Description>Credit Superviso rList</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-26T06:07:36.007</CreationDate>
+	<Notes/>
+	<Text>Credit Superviso rList</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9494-E36F226E3D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

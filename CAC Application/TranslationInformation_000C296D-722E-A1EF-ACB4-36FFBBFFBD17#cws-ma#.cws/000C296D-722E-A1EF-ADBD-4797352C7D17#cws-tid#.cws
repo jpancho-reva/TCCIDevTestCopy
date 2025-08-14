@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBD-4797352CBD17">
+	<DocumentID>000C296D-722E-A1EF-ADBD-4797352C7D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBD-4797352C7D17</Name>
+	<Description>Last synchronization status</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T13:14:26.739</CreationDate>
+	<Notes/>
+	<DefaultText>Last synchronization status</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-ADBD-4797352CFD17"
+		/>
+	</Translations>
+</TextIdentifier>

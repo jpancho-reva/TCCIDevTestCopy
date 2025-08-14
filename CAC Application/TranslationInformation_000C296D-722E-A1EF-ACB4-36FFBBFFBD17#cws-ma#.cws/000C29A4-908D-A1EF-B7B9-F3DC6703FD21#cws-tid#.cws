@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B9-F3DC67043D21">
+	<DocumentID>000C29A4-908D-A1EF-B7B9-F3DC6703FD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B9-F3DC6703FD21</Name>
+	<Description>{(item.Properties.OCRJobId == null ? &quot;OCRJobId  is null&quot; : &quot;&quot;)}</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T09:04:24.555</CreationDate>
+	<Notes/>
+	<DefaultText>{(item.Properties.OCRJobId == null ? &quot;OCRJobId  is null&quot; : &quot;&quot;)}</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B7B9-F3DC67047D21"
+		/>
+	</Translations>
+</TextIdentifier>

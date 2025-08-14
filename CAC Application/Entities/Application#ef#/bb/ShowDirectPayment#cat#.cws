@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9330-145CF18EBD29">
+	<DocumentID>000C29A4-908D-A1F0-9330-145CF18E7D29</DocumentID>
+	<Name>ShowDirectPayment</Name>
+	<Description>ShowDirectPayment</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-19T05:16:22.902</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ACB5-4273121BFD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

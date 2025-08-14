@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD83-255E6B307D17">
+	<DocumentID>000C296D-722E-A1EF-AD83-255E6B303D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD83-255E6B303D17</Name>
+	<Description>Total Lease Payment Amount</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T09:06:27.832</CreationDate>
+	<Notes/>
+	<Text>Total Lease Payment Amount</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD83-255E6B2FBD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

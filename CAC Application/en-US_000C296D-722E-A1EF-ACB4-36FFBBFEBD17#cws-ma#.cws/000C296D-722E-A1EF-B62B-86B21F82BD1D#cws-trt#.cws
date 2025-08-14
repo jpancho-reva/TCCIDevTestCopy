@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62B-86B21F82FD1D">
+	<DocumentID>000C296D-722E-A1EF-B62B-86B21F82BD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62B-86B21F82BD1D</Name>
+	<Description>Comprehensive Deductible</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T10:49:58.1</CreationDate>
+	<Notes/>
+	<Text>Comprehensive Deductible</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B62B-86B21F823D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

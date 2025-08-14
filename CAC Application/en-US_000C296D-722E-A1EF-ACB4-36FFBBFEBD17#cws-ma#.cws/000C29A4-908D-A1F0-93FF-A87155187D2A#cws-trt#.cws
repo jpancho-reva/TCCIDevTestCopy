@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-93FF-A8715518BD2A">
+	<DocumentID>000C29A4-908D-A1F0-93FF-A87155187D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-93FF-A87155187D2A</Name>
+	<Description>MyReadyToFundMocLayout</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-23T08:58:44.08</CreationDate>
+	<Notes/>
+	<Text>MyReadyToFundMocLayout</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-93FF-A8715517FD2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

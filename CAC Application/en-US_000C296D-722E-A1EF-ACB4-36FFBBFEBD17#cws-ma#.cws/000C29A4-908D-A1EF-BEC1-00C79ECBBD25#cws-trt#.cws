@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BEC1-00C79ECBFD25">
+	<DocumentID>000C29A4-908D-A1EF-BEC1-00C79ECBBD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BEC1-00C79ECBBD25</Name>
+	<Description>Check Is Received</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-07T03:42:37.855</CreationDate>
+	<Notes/>
+	<Text>Check Is Received</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BEC1-00C79ECB3D25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

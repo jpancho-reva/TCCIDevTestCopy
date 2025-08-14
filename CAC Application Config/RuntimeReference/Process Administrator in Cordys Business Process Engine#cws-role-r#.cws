@@ -1,0 +1,37 @@
+
+<RoleRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8575-E1972D1A7D27">
+	<DocumentID>000C29A4-908D-A1F0-8575-E1972D1A3D27</DocumentID>
+	<Name>Process Administrator in Cordys Business Process Engine</Name>
+	<Description>Process Administrator</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-10T07:13:55.996</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<CommonName>Process Administrator</CommonName>
+	<DistinguishedName>cn=Process Administrator,cn=Cordys Business Process Engine,cn=cordys,cn=revaInstance,o=vancouver.revasolutions.com</DistinguishedName>
+	<ISVPName></ISVPName>
+	<type>Internal</type>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="000C29A4-908D-A1F0-8575-E1972D19FD27">
+			<DocumentID>000C29A4-908D-A1F0-8575-E1972D19BD27</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-04-10T07:13:55.996</CreationDate>
+			<Notes/>
+			<ArtifactID>005056C0-0008-11DF-F7FF-C520D8FAD6E4</ArtifactID>
+			<CAPID>005056c0-0008-71df-984b-63db9b039007</CAPID>
+			<CAPName>Cordys Business Process Engine</CAPName>
+			<CAPVersion>ver24.4build10</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleRuntime>

@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-866D-1BC95FBCBD27">
+	<DocumentID>000C29A4-908D-A1F0-866D-1BC95FBC7D27</DocumentID>
+	<Name>DisableContractDetailsOnRedyToFund</Name>
+	<Description>DisableContractDetailsOnRedyToFund</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-15T05:01:51.164</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ADB1-9F15A2E9BD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B6B8-EE4323F3BD1D">
+	<DocumentID>000C296D-722E-A1EF-B6B8-EE4323F37D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B6B8-EE4323F37D1D</Name>
+	<Description>Count Completetd Documents</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-25T06:37:06.714</CreationDate>
+	<Notes/>
+	<Text>Count Completetd Documents</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B6B8-EE4323F2FD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B61F-E27DAEEAFD1D">
+	<DocumentID>000C296D-722E-A1EF-B61F-E27DAEEABD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B61F-E27DAEEABD1D</Name>
+	<Description>Unindexed - Exception workflow</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T05:14:05.132</CreationDate>
+	<Notes/>
+	<Text>Unindexed - Exception workflow</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B61F-E27DAEEA3D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

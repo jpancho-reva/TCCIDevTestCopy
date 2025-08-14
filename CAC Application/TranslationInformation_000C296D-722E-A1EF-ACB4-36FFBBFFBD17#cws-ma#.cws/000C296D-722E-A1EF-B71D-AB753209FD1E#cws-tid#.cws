@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B71D-AB75320A3D1E">
+	<DocumentID>000C296D-722E-A1EF-B71D-AB753209FD1E</DocumentID>
+	<Name>000C296D-722E-A1EF-B71D-AB753209FD1E</Name>
+	<Description>Create Update All Coversheet Entities</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-27T06:26:05.228</CreationDate>
+	<Notes/>
+	<DefaultText>Create Update All Coversheet Entities</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B71D-AB75320A7D1E"
+		/>
+	</Translations>
+</TextIdentifier>

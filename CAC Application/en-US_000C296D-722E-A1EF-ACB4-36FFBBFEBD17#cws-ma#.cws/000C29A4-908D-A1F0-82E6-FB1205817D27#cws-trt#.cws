@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82E6-FB120581BD27">
+	<DocumentID>000C29A4-908D-A1F0-82E6-FB1205817D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82E6-FB1205817D27</Name>
+	<Description>Check NeedAttention and set as true</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T06:18:03.082</CreationDate>
+	<Notes/>
+	<Text>Check NeedAttention and set as true</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82E6-FB120580FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

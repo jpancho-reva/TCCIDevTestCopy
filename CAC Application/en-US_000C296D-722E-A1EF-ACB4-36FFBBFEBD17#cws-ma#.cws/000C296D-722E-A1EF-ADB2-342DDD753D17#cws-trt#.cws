@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB2-342DDD757D17">
+	<DocumentID>000C296D-722E-A1EF-ADB2-342DDD753D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB2-342DDD753D17</Name>
+	<Description>Upload Channel Code</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T09:21:27.455</CreationDate>
+	<Notes/>
+	<Text>Upload Channel Code</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB2-342DDD74BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-850E-57611CD7BD27">
+	<DocumentID>000C29A4-908D-A1F0-850E-57611CD77D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-850E-57611CD77D27</Name>
+	<Description>UserTrashContractApplicationEvent</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-08T05:40:24.333</CreationDate>
+	<Notes/>
+	<Text>UserTrashContractApplicationEvent</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-850E-57611CD6FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

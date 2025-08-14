@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BF5D-277CF59A7D27">
+	<DocumentID>000C29A4-908D-A1EF-BF5D-277CF59A3D27</DocumentID>
+	<Name>000C29A4-908D-A1EF-BF5D-277CF59A3D27</Name>
+	<Description>Is WorkflowTransient Exist ?</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-10T05:59:17.149</CreationDate>
+	<Notes/>
+	<Text>Is WorkflowTransient Exist ?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BF5D-277CF599BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

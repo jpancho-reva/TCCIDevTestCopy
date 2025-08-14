@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8DBB-79FE28837D29">
+	<DocumentID>000C29A4-908D-A1F0-8DBB-79FE28833D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8DBB-79FE28833D29</Name>
+	<Description>KOFAX Documents Received?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-22T09:21:01.558</CreationDate>
+	<Notes/>
+	<Text>KOFAX Documents Received?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8DBB-79FE2882BD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

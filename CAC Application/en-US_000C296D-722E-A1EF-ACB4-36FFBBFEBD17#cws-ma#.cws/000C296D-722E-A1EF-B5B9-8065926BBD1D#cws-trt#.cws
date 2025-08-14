@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5B9-8065926BFD1D">
+	<DocumentID>000C296D-722E-A1EF-B5B9-8065926BBD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5B9-8065926BBD1D</Name>
+	<Description>OCRJob Status Received?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-20T05:21:38.057</CreationDate>
+	<Notes/>
+	<Text>OCRJob Status Received?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5B9-8065926B3D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

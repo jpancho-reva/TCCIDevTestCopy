@@ -1,0 +1,34 @@
+
+<HistoryLog
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.historylog.HistoryLog"
+	RuntimeDocumentID="000C296D-722E-A1EF-ACE3-801968757D17">
+	<DocumentID>000C296D-722E-A1EF-ACE4-24083B327D17</DocumentID>
+	<Name>ApplicationHistoryLog</Name>
+	<Description>Application History Log</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-06T05:12:47.389</CreationDate>
+	<Notes/>
+	<CompressType>1</CompressType>
+	<RetentionInterval>0</RetentionInterval>
+	<RetentionUnit></RetentionUnit>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="000C296D-722E-A1EF-ACE4-24083B303D17">
+			<DocumentID>000C296D-722E-A1EF-ACE4-24083B2FFD17</DocumentID>
+			<Name>000C296D-722E-A1EF-ACE4-24083B2FFD17</Name>
+			<Description>000C296D-722E-A1EF-ACE4-24083B2FFD17</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2024-12-06T05:12:47.388</CreationDate>
+			<Notes/>
+			<DeveloperText>Application History Log</DeveloperText>
+			<Identifier>
+				<uri
+					id="000C296D-722E-A1EF-ACE4-24083B307D17"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+</HistoryLog>

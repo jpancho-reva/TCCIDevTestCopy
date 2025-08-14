@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADAF-56A8421DFD17">
+	<DocumentID>000C296D-722E-A1EF-ADAF-56A8421DBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADAF-56A8421DBD17</Name>
+	<Description>Disability Insurance Amt</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:26:20.154</CreationDate>
+	<Notes/>
+	<Text>Disability Insurance Amt</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADAF-56A8421D3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

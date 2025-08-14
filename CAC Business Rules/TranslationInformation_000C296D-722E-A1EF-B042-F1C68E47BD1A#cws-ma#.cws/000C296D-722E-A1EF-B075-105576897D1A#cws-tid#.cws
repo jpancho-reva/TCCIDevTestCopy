@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B075-10557689BD1A">
+	<DocumentID>000C296D-722E-A1EF-B075-105576897D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B075-105576897D1A</Name>
+	<Description>BusinessEntity</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-24T08:58:06.932</CreationDate>
+	<Notes/>
+	<DefaultText>BusinessEntity</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E483D1A"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B075-10557689FD1A"
+		/>
+	</Translations>
+</TextIdentifier>

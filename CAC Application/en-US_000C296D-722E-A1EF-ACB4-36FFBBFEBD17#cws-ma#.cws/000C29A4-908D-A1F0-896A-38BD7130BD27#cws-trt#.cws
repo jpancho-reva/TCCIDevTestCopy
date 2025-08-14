@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-896A-38BD7130FD27">
+	<DocumentID>000C29A4-908D-A1F0-896A-38BD7130BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-896A-38BD7130BD27</Name>
+	<Description>ContractAssemblyEvent</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-30T09:54:20.167</CreationDate>
+	<Notes/>
+	<Text>ContractAssemblyEvent</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-896A-38BD71303D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

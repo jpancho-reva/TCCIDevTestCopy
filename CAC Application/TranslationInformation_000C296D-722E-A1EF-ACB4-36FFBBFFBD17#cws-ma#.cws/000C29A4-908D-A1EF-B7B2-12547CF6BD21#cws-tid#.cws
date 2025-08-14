@@ -1,0 +1,62 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B2-12547CF6FD21">
+	<DocumentID>000C29A4-908D-A1EF-B7B2-12547CF6BD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B2-12547CF6BD21</Name>
+	<Description>000C29A4-908D-A1EF-B7B2-12547CF6BD21</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T05:10:47.672</CreationDate>
+	<Notes/>
+	<DefaultText>String missingFields = &quot;&quot;;
+
+if (item.Properties.OCRJobId == null) {
+    missingFields += &quot;OCRJobId, &quot;;
+}
+if (item.Properties.IsEmployee == null) {
+    missingFields += &quot;IsEmployee, &quot;;
+}
+if (item.Properties.Department == null) {
+    missingFields += &quot;Department, &quot;;
+}
+if (item.Properties.DocumentTypeList == null) {
+    missingFields += &quot;DocumentTypeList, &quot;;
+}
+if (item.Properties.Investigation == null) {
+    missingFields += &quot;Investigation, &quot;;
+}
+if (item.Properties.KofaxClassificationDatetime == null) {
+    missingFields += &quot;KofaxClassificationDatetime, &quot;;
+}
+if (item.Properties.Unindexed == null) {
+    missingFields += &quot;Unindexed, &quot;;
+}
+if (item.Properties.ApplicationNum == null) {
+    missingFields += &quot;ApplicationNum, &quot;;
+}
+if (item.Properties.CorrelationID == null) {
+    missingFields += &quot;CorrelationID, &quot;;
+}
+if (item.Properties.Mode == null) {
+    missingFields += &quot;Mode, &quot;;
+}
+if (item.Properties.TenantIdentifier == null) {
+    missingFields += &quot;TenantIdentifier, &quot;;
+}
+
+if (!missingFields.isEmpty()) {
+    throw new RuntimeException(&quot;The following fields are required: &quot; + missingFields.substring(0, missingFields.length() - 2));
+}</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B7B2-12547CF73D21"
+		/>
+	</Translations>
+</TextIdentifier>

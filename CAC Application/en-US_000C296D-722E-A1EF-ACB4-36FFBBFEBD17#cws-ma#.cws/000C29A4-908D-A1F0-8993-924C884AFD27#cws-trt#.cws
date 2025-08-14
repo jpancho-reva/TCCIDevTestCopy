@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8993-924C884B3D27">
+	<DocumentID>000C29A4-908D-A1F0-8993-924C884AFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8993-924C884AFD27</Name>
+	<Description>FindApplicationByClosedDate</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-01T06:20:14.732</CreationDate>
+	<Notes/>
+	<Text>FindApplicationByClosedDate</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8993-924C884A7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

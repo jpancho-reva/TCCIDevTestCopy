@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8799-596C3AC7FD27">
+	<DocumentID>000C29A4-908D-A1F0-8799-596C3AC7BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8799-596C3AC7BD27</Name>
+	<Description>DeleteApplicationDocument</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-21T04:24:50.888</CreationDate>
+	<Notes/>
+	<Text>DeleteApplicationDocument</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8799-596C3AC73D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

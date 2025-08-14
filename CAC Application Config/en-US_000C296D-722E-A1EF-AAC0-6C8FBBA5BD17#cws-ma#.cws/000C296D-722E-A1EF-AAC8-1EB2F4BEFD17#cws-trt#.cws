@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC8-1EB2F4BF3D17">
+	<DocumentID>000C296D-722E-A1EF-AAC8-1EB2F4BEFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC8-1EB2F4BEFD17</Name>
+	<Description>Ref Organization List</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T11:33:25.698</CreationDate>
+	<Notes/>
+	<Text>Ref Organization List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC8-1EB2F4BE7D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

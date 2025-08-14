@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9432-85933FAEFD2A">
+	<DocumentID>000C29A4-908D-A1F0-9432-85933FAEBD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9432-85933FAEBD2A</Name>
+	<Description>User NA Count_1</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-24T07:21:37.857</CreationDate>
+	<Notes/>
+	<DefaultText>User NA Count_1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-9432-85933FAF3D2A"
+		/>
+	</Translations>
+</TextIdentifier>

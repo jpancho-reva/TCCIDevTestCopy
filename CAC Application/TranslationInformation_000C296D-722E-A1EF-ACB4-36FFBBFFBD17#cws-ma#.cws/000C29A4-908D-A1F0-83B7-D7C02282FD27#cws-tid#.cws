@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83B7-D7C022833D27">
+	<DocumentID>000C29A4-908D-A1F0-83B7-D7C02282FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-83B7-D7C02282FD27</Name>
+	<Description>Is Application Number Found?_2</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-04-01T09:59:04.114</CreationDate>
+	<Notes/>
+	<DefaultText>Is Application Number Found?_2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-83B7-D7C022837D27"
+		/>
+	</Translations>
+</TextIdentifier>

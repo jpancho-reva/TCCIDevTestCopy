@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BC9B-6E7B5810FD23">
+	<DocumentID>000C29A4-908D-A1EF-BC9B-6E7B5810BD23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BC9B-6E7B5810BD23</Name>
+	<Description>Do Nothing</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-24T05:22:18.257</CreationDate>
+	<Notes/>
+	<Text>Do Nothing</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BC9B-C9E42A2F7D23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-81C3-892BBF707D27">
+	<DocumentID>000C29A4-908D-A1F0-81C3-892BBF703D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-81C3-892BBF703D27</Name>
+	<Description>UpdateContractApplication Send To Dealer</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-22T11:18:40.805</CreationDate>
+	<Notes/>
+	<Text>UpdateContractApplication Send To Dealer</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-81C3-892BBF6FBD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

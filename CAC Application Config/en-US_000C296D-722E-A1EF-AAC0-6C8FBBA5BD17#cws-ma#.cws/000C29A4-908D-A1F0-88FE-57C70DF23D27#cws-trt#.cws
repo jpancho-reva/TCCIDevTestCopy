@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-88FE-57C70DF27D27">
+	<DocumentID>000C29A4-908D-A1F0-88FE-57C70DF23D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-88FE-57C70DF23D27</Name>
+	<Description>Ref Lookup Active List</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-28T06:29:46.374</CreationDate>
+	<Notes/>
+	<Text>Ref Lookup Active List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-88FE-57C70DF1BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

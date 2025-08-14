@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5EC-9414D98DBD1D">
+	<DocumentID>000C296D-722E-A1EF-B5EC-9414D98D7D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5EC-9414D98D7D1D</Name>
+	<Description>OCRJobId</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T04:54:01.362</CreationDate>
+	<Notes/>
+	<DefaultText>OCRJobId</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B5EC-9414D98DFD1D"
+		/>
+	</Translations>
+</TextIdentifier>

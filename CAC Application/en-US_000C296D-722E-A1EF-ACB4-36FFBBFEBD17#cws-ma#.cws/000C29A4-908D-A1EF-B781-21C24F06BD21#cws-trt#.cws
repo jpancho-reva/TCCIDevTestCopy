@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B781-21C24F06FD21">
+	<DocumentID>000C29A4-908D-A1EF-B781-21C24F06BD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B781-21C24F06BD21</Name>
+	<Description>Move each document in business workspace and create ApplicationDocument  also update the file status to complete</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-29T05:54:32.371</CreationDate>
+	<Notes/>
+	<Text>Move each document in business workspace and create ApplicationDocument  also update the file status to complete</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B781-21C24F063D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

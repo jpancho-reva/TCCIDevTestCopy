@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B769-8A16133CBD21">
+	<DocumentID>000C29A4-908D-A1EF-B769-8A16133C7D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B769-8A16133C7D21</Name>
+	<Description>Send Message</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-28T18:38:09.85</CreationDate>
+	<Notes/>
+	<DefaultText>Send Message</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B769-8A16133CFD21"
+		/>
+	</Translations>
+</TextIdentifier>

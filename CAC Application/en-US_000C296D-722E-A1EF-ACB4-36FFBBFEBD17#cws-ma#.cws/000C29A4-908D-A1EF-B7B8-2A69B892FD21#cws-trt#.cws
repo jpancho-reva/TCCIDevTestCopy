@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B8-2A69B8933D21">
+	<DocumentID>000C29A4-908D-A1EF-B7B8-2A69B892FD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B8-2A69B892FD21</Name>
+	<Description>{(item.Properties.IsEmployee == null &amp;&amp; item.Properties.Unindexed== null) ? &quot;Enter IsEmployee  and Unindexed&quot; : (item.Properties.IsEmployee == null ? &quot;Enter IsEmployee &quot; : &quot;Enter Unindexed &quot;)}</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T08:19:36.397</CreationDate>
+	<Notes/>
+	<Text>{(item.Properties.IsEmployee == null &amp;&amp; item.Properties.Unindexed== null) ? &quot;Enter IsEmployee  and Unindexed&quot; : (item.Properties.IsEmployee == null ? &quot;Enter IsEmployee &quot; : &quot;Enter Unindexed &quot;)}</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B7B8-2A69B8927D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B302-0FF1DBB3FD1A">
+	<DocumentID>000C296D-722E-A1EF-B302-0FF1DBB3BD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B302-0FF1DBB3BD1A</Name>
+	<Description>RuleConditionsLog</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-06T11:22:08.784</CreationDate>
+	<Notes/>
+	<DefaultText>RuleConditionsLog</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E483D1A"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B302-0FF1DBB43D1A"
+		/>
+	</Translations>
+</TextIdentifier>

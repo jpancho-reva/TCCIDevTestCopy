@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8F14-C9E24D8CBD29">
+	<DocumentID>000C29A4-908D-A1F0-8F14-C9E24D8C7D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8F14-C9E24D8C7D29</Name>
+	<Description>RouteFromManualReviewRequired</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-29T06:13:57.284</CreationDate>
+	<Notes/>
+	<Text>RouteFromManualReviewRequired</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8F14-C9E24D8BFD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

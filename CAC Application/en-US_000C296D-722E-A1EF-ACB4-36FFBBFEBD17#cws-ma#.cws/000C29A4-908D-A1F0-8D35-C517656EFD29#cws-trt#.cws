@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8D35-C517656F3D29">
+	<DocumentID>000C29A4-908D-A1F0-8D35-C517656EFD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8D35-C517656EFD29</Name>
+	<Description>Return to Dealer</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-19T17:32:47.864</CreationDate>
+	<Notes/>
+	<Text>Return to Dealer</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8D35-C517656E7D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

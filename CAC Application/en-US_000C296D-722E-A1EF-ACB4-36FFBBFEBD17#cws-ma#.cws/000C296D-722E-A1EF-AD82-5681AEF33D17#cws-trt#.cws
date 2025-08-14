@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD82-5681AEF37D17">
+	<DocumentID>000C296D-722E-A1EF-AD82-5681AEF33D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD82-5681AEF33D17</Name>
+	<Description>Insurance Policy Source</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T08:42:49.856</CreationDate>
+	<Notes/>
+	<Text>Insurance Policy Source</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD82-5681AEF2BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

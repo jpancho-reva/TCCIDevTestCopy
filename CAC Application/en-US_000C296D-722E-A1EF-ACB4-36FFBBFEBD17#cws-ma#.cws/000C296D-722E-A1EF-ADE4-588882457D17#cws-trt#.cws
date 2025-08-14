@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADE4-58888245BD17">
+	<DocumentID>000C296D-722E-A1EF-ADE4-588882457D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADE4-588882457D17</Name>
+	<Description>Ready to Book - Lease All</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-11T07:30:51.912</CreationDate>
+	<Notes/>
+	<Text>Ready to Book - Lease All</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADE4-58888244FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

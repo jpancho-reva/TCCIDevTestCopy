@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Button</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="./../../JS/CompleteAutoGetNext.js" type="text/javascript"></script>
+
+    <style>
+        #complete{
+            background-color: white;
+            color: #0c2c74;
+            border: 2px solid #0c2c74;
+            border-radius: 20px;
+            padding: 8px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            outline: none;
+        }
+
+        #complete:hover {
+            background-color: #0c2c74;
+            color: white;
+        }
+
+        #complete:active {
+            transform: scale(0.95);
+            background-color: #092054; 
+        }
+        
+        #taskMessage {
+            margin-left: 15px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-8px); }
+  40%, 80% { transform: translateX(8px); }
+}
+
+.shake {
+  animation: shake 0.4s ease;
+}
+#complete:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    background-color: #e0e0e0;
+    color: #888;
+    border-color: #ccc;
+}
+    </style>
+</head>
+<body>
+    <button id="complete"
+            onclick="handleButtonClick(this)"
+            data-itemid=""
+            data-isassigned=""
+            data-msg1=""
+            data-msg2=""
+           data-layoutid=""
+           data-id = "Complete"
+           data-taskqueue="Credit Requeue Supervisor"
+           data-containerid="c0fc23cfa61f3df29e5b8f7b3c99d70e"
+           data-homepageid="000C29A4908DA1EFB7BFF52B69EFFD21"
+           data-listid="000C296D722EA1EFADE4AFEF7F03BD17"
+      >
+        Complete
+    </button>
+    <span id="taskMessage"></span>
+</body>
+</html>

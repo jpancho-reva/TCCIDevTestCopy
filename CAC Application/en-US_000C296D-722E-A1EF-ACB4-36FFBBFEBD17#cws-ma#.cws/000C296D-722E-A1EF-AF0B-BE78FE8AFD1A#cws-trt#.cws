@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AF0B-BE78FE8B3D1A">
+	<DocumentID>000C296D-722E-A1EF-AF0B-BE78FE8AFD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-AF0B-BE78FE8AFD1A</Name>
+	<Description>CreateOCRDocument</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-17T05:01:45.747</CreationDate>
+	<Notes/>
+	<Text>CreateOCRDocument</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AF0B-BE78FE8A7D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

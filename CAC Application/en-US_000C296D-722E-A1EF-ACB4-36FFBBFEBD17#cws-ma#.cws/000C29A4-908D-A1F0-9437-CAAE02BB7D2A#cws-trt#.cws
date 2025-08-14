@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9437-CAAE02BBBD2A">
+	<DocumentID>000C29A4-908D-A1F0-9437-CAAE02BB7D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9437-CAAE02BB7D2A</Name>
+	<Description>Prod Support Home</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-24T09:47:14.016</CreationDate>
+	<Notes/>
+	<Text>Prod Support Home</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9437-CAAE02BAFD2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

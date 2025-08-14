@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8E7F-E0289D5AFD29">
+	<DocumentID>000C29A4-908D-A1F0-8E7F-E0289D5ABD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8E7F-E0289D5ABD29</Name>
+	<Description>DeleteNAMessages</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-26T07:06:29.292</CreationDate>
+	<Notes/>
+	<Text>DeleteNAMessages</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8E7F-E0289D5A3D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

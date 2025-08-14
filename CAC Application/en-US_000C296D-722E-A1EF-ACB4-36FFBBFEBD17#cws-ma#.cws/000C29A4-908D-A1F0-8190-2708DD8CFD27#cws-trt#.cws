@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8190-2708DD8D3D27">
+	<DocumentID>000C29A4-908D-A1F0-8190-2708DD8CFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8190-2708DD8CFD27</Name>
+	<Description>Check Tolerance / Pending Needs Attention</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-21T10:40:18.407</CreationDate>
+	<Notes/>
+	<Text>Check Tolerance / Pending Needs Attention</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8190-2708DD8C7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

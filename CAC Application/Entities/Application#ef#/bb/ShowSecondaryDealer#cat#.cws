@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-825A-A362379C7D27">
+	<DocumentID>000C29A4-908D-A1F0-825A-A362379C3D27</DocumentID>
+	<Name>ShowSecondaryDealer</Name>
+	<Description>ShowSecondaryDealer</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-25T11:45:10.585</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ACB5-4273121BFD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

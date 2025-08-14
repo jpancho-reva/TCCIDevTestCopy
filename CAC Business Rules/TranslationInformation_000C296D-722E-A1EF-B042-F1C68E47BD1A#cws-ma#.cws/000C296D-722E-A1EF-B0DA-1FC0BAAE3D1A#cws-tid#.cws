@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B0DA-1FC0BAAE7D1A">
+	<DocumentID>000C296D-722E-A1EF-B0DA-1FC0BAAE3D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B0DA-1FC0BAAE3D1A</Name>
+	<Description>Untitled Business Process Model</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-26T09:06:24.298</CreationDate>
+	<Notes/>
+	<DefaultText>Untitled Business Process Model</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E483D1A"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B0DA-1FC0BAAEBD1A"
+		/>
+	</Translations>
+</TextIdentifier>

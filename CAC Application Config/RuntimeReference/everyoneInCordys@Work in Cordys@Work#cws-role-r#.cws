@@ -1,0 +1,37 @@
+
+<RoleRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="000C29A4-908D-A1F0-85A1-FF74EDD23D27">
+	<DocumentID>000C29A4-908D-A1F0-85A1-FF74EDD1FD27</DocumentID>
+	<Name>everyoneInCordys@Work in Cordys@Work</Name>
+	<Description>Everyone in Cordys@Work</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-11T05:32:22.692</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<CommonName>everyoneInCordys@Work</CommonName>
+	<DistinguishedName>cn=everyoneInCordys@Work,cn=Cordys@Work,cn=cordys,cn=revaInstance,o=vancouver.revasolutions.com</DistinguishedName>
+	<ISVPName></ISVPName>
+	<type>Internal</type>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="000C29A4-908D-A1F0-85A1-FF74EDD1BD27">
+			<DocumentID>000C29A4-908D-A1F0-85A1-FF74EDD17D27</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-04-11T05:32:22.693</CreationDate>
+			<Notes/>
+			<ArtifactID>005056C0-0008-11DF-FDC7-C53DA049B2CC</ArtifactID>
+			<CAPID>005056c0-0008-11df-fdc7-c53da04872cc</CAPID>
+			<CAPName>Cordys@Work</CAPName>
+			<CAPVersion>ver24.4build10</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleRuntime>

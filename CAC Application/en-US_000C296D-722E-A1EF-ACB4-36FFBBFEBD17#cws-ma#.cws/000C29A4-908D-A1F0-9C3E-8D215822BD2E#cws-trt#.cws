@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C3E-8D215822FD2E">
+	<DocumentID>000C29A4-908D-A1F0-9C3E-8D215822BD2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C3E-8D215822BD2E</Name>
+	<Description>IndexUnIndexApplicationDocument</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T11:28:10.779</CreationDate>
+	<Notes/>
+	<Text>IndexUnIndexApplicationDocument</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9C3E-8D2158223D2E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B628-0319450EFD1D">
+	<DocumentID>000C296D-722E-A1EF-B628-0319450EBD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B628-0319450EBD1D</Name>
+	<Description>CSBW Template List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T09:08:34.638</CreationDate>
+	<Notes/>
+	<Text>CSBW Template List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B628-0319450E3D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

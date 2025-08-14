@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C3A-D5E9DDB33D2E">
+	<DocumentID>000C29A4-908D-A1F0-9C3A-D5E9DDB2FD2E</DocumentID>
+	<Name>HideNotes</Name>
+	<Description>HideNotes</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T06:00:47.4</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ADAB-1655D2577D17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

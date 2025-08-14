@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-94D8-FB5BF61A3D2A">
+	<DocumentID>000C29A4-908D-A1F0-94D8-FB5BF619FD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-94D8-FB5BF619FD2A</Name>
+	<Description>Contract Application Supervisor List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-27T14:35:39.162</CreationDate>
+	<Notes/>
+	<Text>Contract Application Supervisor List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-94D8-FB5BF6197D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

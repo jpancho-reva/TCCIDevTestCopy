@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8939-61632ABF3D27">
+	<DocumentID>000C29A4-908D-A1F0-8939-61632ABEFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8939-61632ABEFD27</Name>
+	<Description>DeleteWorkflowTransient</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-29T10:41:29.889</CreationDate>
+	<Notes/>
+	<Text>DeleteWorkflowTransient</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8939-61632ABE7D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

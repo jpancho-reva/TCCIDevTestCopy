@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8289-BF191AEC7D27">
+	<DocumentID>000C29A4-908D-A1F0-8289-BF191AEC3D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8289-BF191AEC3D27</Name>
+	<Description>If the count of eventlog =1?</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-03-26T10:07:00.094</CreationDate>
+	<Notes/>
+	<Text>If the count of eventlog =1?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8289-BF191AEBBD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

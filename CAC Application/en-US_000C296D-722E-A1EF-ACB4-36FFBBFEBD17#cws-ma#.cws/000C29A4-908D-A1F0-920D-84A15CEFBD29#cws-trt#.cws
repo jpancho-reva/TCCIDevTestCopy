@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-920D-84A15CEFFD29">
+	<DocumentID>000C29A4-908D-A1F0-920D-84A15CEFBD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-920D-84A15CEFBD29</Name>
+	<Description>SetCreditTaskLayoutIdProcess</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-13T09:12:49.575</CreationDate>
+	<Notes/>
+	<Text>SetCreditTaskLayoutIdProcess</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-920D-84A15CEF3D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

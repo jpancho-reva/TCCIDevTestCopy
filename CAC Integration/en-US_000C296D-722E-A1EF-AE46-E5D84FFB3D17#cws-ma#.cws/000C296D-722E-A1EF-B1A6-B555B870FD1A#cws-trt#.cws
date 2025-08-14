@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1A6-B555B8713D1A">
+	<DocumentID>000C296D-722E-A1EF-B1A6-B555B870FD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B1A6-B555B870FD1A</Name>
+	<Description>Expiry Date</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2024-12-30T11:14:42.954</CreationDate>
+	<Notes/>
+	<Text>Expiry Date</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B1A6-B555B8707D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B655-2D71212EFD1D">
+	<DocumentID>000C296D-722E-A1EF-B655-2D71212EBD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B655-2D71212EBD1D</Name>
+	<Description>GetOPAOTDSToken</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-23T06:50:54.121</CreationDate>
+	<Notes/>
+	<Text>GetOPAOTDSToken</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B655-2D71212E3D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations xmlns="http://httpconnector.opentext.com/1.0/configuration"
+                xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+    <connections>
+        <connection id="documentRepository">
+            <url>https://documentrepository-xapi-qa.us-e1.cloudhub.io/api/v1</url>
+        </connection>
+        <connection id="oktaToken">
+            <url>https://tcci.oktapreview.com/oauth2/austviy8bxmaBLD9d0h7/v1</url>
+        </connection>
+        <connection id="otcsToken">
+            <url>https://reva81-otds.ngrok.io/otdsws/oauth2</url>
+        </connection>
+       <connection id="opaToken">
+            <url>https://reva81-otds.ngrok.io/otdsws/oauth2</url>
+        </connection>
+       <connection id="opaREST">
+            <url>http://vancouver.revasolutions.com:8080/home/reva-dev/app/entityRestService/api</url>
+        </connection>
+       <connection id="otcsMoveNodeAPI">
+            <url>https://reva81-otcs.ngrok.io/OTCS/cs.exe/api/v1/nodes/437098</url>
+        </connection>
+       <connection id="otcsRenameNodeAPI">
+            <url>https://reva81-otcs.ngrok.io/OTCS/cs.exe/api/v1/nodes/411194</url>
+        </connection>
+       <connection id="otcsRenameNodeDocTypeAPI">
+            <url>https://reva81-otcs.ngrok.io/OTCS/cs.exe/api/v1/nodes/490651</url>
+        </connection>
+       <connection id="otcsAccountHoldAPI">
+            <url>https://reva81-otcs.ngrok.io/OTCS/cs.exe/api/v1/nodes/446602</url>
+        </connection>
+     </connections>
+</configurations>

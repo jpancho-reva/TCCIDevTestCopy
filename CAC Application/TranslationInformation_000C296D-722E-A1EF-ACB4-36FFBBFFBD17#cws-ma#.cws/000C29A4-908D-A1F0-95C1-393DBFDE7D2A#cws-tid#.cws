@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-95C1-393DBFDEBD2A">
+	<DocumentID>000C29A4-908D-A1F0-95C1-393DBFDE7D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-95C1-393DBFDE7D2A</Name>
+	<Description>Set Error Message</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-07-02T05:41:31.305</CreationDate>
+	<Notes/>
+	<DefaultText>Set Error Message</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-95C1-393DBFDEFD2A"
+		/>
+	</Translations>
+</TextIdentifier>

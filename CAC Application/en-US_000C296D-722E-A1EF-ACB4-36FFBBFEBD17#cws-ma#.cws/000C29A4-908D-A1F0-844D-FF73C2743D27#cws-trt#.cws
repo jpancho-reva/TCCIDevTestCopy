@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-844D-FF73C2747D27">
+	<DocumentID>000C29A4-908D-A1F0-844D-FF73C2743D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-844D-FF73C2743D27</Name>
+	<Description>for now samples values are mapped for the event log data</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-04-04T09:34:40.975</CreationDate>
+	<Notes/>
+	<Text>for now samples values are mapped for the event log data</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-844D-FF73C273BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

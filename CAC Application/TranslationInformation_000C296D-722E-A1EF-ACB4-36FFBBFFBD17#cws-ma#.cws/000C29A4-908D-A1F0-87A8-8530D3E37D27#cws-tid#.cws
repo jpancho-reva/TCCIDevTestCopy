@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-87A8-8530D3E3BD27">
+	<DocumentID>000C29A4-908D-A1F0-87A8-8530D3E37D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-87A8-8530D3E37D27</Name>
+	<Description>Documents Exist?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-21T11:23:41.709</CreationDate>
+	<Notes/>
+	<DefaultText>Documents Exist?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-87A8-8530D3E3FD27"
+		/>
+	</Translations>
+</TextIdentifier>

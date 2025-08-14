@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83AD-B02A6167FD27">
+	<DocumentID>000C29A4-908D-A1F0-83AD-B02A6167BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-83AD-B02A6167BD27</Name>
+	<Description>CreditChannelCode</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-04-01T05:14:20.998</CreationDate>
+	<Notes/>
+	<DefaultText>CreditChannelCode</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-83AD-B02A61683D27"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B781-21C24F017D21">
+	<DocumentID>000C29A4-908D-A1EF-B781-21C24F013D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B781-21C24F013D21</Name>
+	<Description>Check Investigation Flag and update CreditApplication state to Credit Review</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-29T05:54:32.374</CreationDate>
+	<Notes/>
+	<DefaultText>Check Investigation Flag and update CreditApplication state to Credit Review</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-B781-21C24F01BD21"
+		/>
+	</Translations>
+</TextIdentifier>

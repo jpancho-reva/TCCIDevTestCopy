@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BAA9-18AA12F3BD23">
+	<DocumentID>000C29A4-908D-A1EF-BAA9-18AA12F37D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BAA9-18AA12F37D23</Name>
+	<Description>&quot;Organization Name are required&quot;</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-14T07:36:13.261</CreationDate>
+	<Notes/>
+	<DefaultText>&quot;Organization Name are required&quot;</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA43D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BAA9-18AA12F3FD23"
+		/>
+	</Translations>
+</TextIdentifier>

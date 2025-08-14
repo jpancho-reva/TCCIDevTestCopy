@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BB78-5AE7EBC37D23">
+	<DocumentID>000C29A4-908D-A1EF-BB78-5AE7EBC33D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BB78-5AE7EBC33D23</Name>
+	<Description>GetApplicationConfigInterval</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-18T10:19:23.938</CreationDate>
+	<Notes/>
+	<Text>GetApplicationConfigInterval</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BB78-5AE7EBC2BD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-825E-7F9982D33D27">
+	<DocumentID>000C29A4-908D-A1F0-825E-7F9982D2FD27</DocumentID>
+	<Name>HideValidationMessage</Name>
+	<Description>HideValidationMessage</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-25T13:20:46.461</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C29A4-908D-A1EF-BCCC-5FEF35663D23"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

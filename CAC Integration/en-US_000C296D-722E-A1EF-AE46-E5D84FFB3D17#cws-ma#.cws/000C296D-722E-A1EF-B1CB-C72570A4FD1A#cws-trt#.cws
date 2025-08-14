@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1CB-C72570A53D1A">
+	<DocumentID>000C296D-722E-A1EF-B1CB-C72570A4FD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B1CB-C72570A4FD1A</Name>
+	<Description>Source cannot be duplicate, please choose different source value.</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2024-12-31T04:53:15.64</CreationDate>
+	<Notes/>
+	<Text>Source cannot be duplicate, please choose different source value.</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B1CB-C72570A47D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

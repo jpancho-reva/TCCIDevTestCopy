@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8123-E25F62A1FD27">
+	<DocumentID>000C29A4-908D-A1F0-8123-E25F62A1BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8123-E25F62A1BD27</Name>
+	<Description>ExecuteBusinessRules</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-19T07:02:20.553</CreationDate>
+	<Notes/>
+	<Text>ExecuteBusinessRules</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8123-E25F62A13D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

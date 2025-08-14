@@ -1,0 +1,26 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8D24-C2C2F312FD29">
+	<DocumentID>000C29A4-908D-A1F0-8D24-C2C2F312BD29</DocumentID>
+	<Name>CAC SF Host User</Name>
+	<Description>CAC SF Host User</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-19T09:26:51.472</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="000C29A4-908D-A1F0-8575-E1972D1A3D27"
+		/>
+		<uri
+			id="000C29A4-908D-A1F0-85A6-4EF606DE3D27"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

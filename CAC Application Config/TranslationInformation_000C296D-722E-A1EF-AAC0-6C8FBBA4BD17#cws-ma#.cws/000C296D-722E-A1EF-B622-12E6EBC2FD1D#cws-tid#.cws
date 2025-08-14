@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B622-12E6EBC33D1D">
+	<DocumentID>000C296D-722E-A1EF-B622-12E6EBC2FD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B622-12E6EBC2FD1D</Name>
+	<Description>CSBWTemplateLog</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T07:15:23.696</CreationDate>
+	<Notes/>
+	<DefaultText>CSBWTemplateLog</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA43D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B622-12E6EBC37D1D"
+		/>
+	</Translations>
+</TextIdentifier>

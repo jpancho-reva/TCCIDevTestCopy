@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-917C-7DBA81F57D29">
+	<DocumentID>000C29A4-908D-A1F0-917C-7DBA81F53D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-917C-7DBA81F53D29</Name>
+	<Description>&lt;p fr-original-style=&quot;&quot; style=&quot;box-sizing: border-box; margin: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(124, 112, 107); box-sizing: border-box;&quot; fr-original-style=&quot;color: rgb(124, 112, 107);&quot;&gt;F&lt;/span&gt;&lt;/p&gt;</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-10T12:11:56.716</CreationDate>
+	<Notes/>
+	<Text>&lt;p fr-original-style=&quot;&quot; style=&quot;box-sizing: border-box; margin: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(124, 112, 107); box-sizing: border-box;&quot; fr-original-style=&quot;color: rgb(124, 112, 107);&quot;&gt;F&lt;/span&gt;&lt;/p&gt;</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-917C-7DBA81F4BD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

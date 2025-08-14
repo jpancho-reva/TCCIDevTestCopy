@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ACBB-DAC4C5693D17">
+	<DocumentID>000C296D-722E-A1EF-ACBB-DAC4C568FD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ACBB-DAC4C568FD17</Name>
+	<Description>Insurance Organization</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-05T10:54:31.625</CreationDate>
+	<Notes/>
+	<Text>Insurance Organization</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ACBB-DAC4C5687D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

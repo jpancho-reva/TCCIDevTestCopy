@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83BD-0F3E28F3FD27">
+	<DocumentID>000C29A4-908D-A1F0-83BD-B5AF8157BD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-83BD-B5AF8157BD27</Name>
+	<Description>Document Validation Message</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-01T12:43:01.744</CreationDate>
+	<Notes/>
+	<DefaultText>Document Validation Message</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-83BD-0F3E28F43D27"
+		/>
+	</Translations>
+</TextIdentifier>

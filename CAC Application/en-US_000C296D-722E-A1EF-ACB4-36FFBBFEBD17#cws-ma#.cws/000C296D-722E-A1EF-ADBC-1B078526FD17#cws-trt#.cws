@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBC-1B0785273D17">
+	<DocumentID>000C296D-722E-A1EF-ADBC-1B078526FD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBC-1B078526FD17</Name>
+	<Description>Contract Review</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T12:20:04.344</CreationDate>
+	<Notes/>
+	<Text>Contract Review</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADBC-1B0785267D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE6E-D0B938CDFD25">
+	<DocumentID>000C29A4-908D-A1EF-BE6E-D0B938CDBD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE6E-D0B938CDBD25</Name>
+	<Description>Contract Completed</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-05T12:24:17.71</CreationDate>
+	<Notes/>
+	<Text>Contract Completed</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE6E-D0B938CD3D25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9596-F96E0ABB3D2A">
+	<DocumentID>000C29A4-908D-A1F0-9596-F96E0ABAFD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9596-F96E0ABAFD2A</Name>
+	<Description>FindRTFCreatedTasks</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-07-01T09:22:52.672</CreationDate>
+	<Notes/>
+	<Text>FindRTFCreatedTasks</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9596-F96E0ABA7D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83B5-B733A4D83D27">
+	<DocumentID>000C29A4-908D-A1F0-83B5-B733A4D7FD27</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-04-01T08:55:39.146</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-83B5-B733A4D6FD27">
+			<DocumentID>000C29A4-908D-A1F0-83B5-B733A4D6BD27</DocumentID>
+			<Name>CreateEventDimension</Name>
+			<Description>Create EventDimension</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2025-04-01T08:55:39.146</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-82629764BD27"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C29A4-908D-A1F0-83AD-82629764BD27"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-83B5-B733A4D77D27">
+			<DocumentID>000C29A4-908D-A1F0-83B5-B733A4D73D27</DocumentID>
+			<Name>ReadEventDimension</Name>
+			<Description>Read EventDimension</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2025-04-01T08:55:39.146</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-82629764BD27"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-83B5-B733A4D67D27">
+			<DocumentID>000C29A4-908D-A1F0-83B5-B733A4D63D27</DocumentID>
+			<Name>UpdateEventDimension</Name>
+			<Description>Update EventDimension</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2025-04-01T08:55:39.145</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-83AD-82629764BD27"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

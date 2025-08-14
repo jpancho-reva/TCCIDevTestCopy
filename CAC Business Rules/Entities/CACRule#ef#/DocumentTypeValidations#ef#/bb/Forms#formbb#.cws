@@ -1,0 +1,19 @@
+
+<FormBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.form.FormBuildingBlock"
+	typeVersion="B676A82B-2661-475F-B6D4-2DE9D084E191"
+	RuntimeDocumentID="000C296D-722E-A1EF-B07B-EDDCDD13FD1A">
+	<DocumentID>000C296D-722E-A1EF-B07B-EDDCDD13BD1A</DocumentID>
+	<Name>Forms</Name>
+	<Description>Forms</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-24T12:27:53.536</CreationDate>
+	<Notes/>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-B07B-EDDCDD15BD1A"
+		/>
+	</Entity>
+	<Forms/>
+</FormBuildingBlock>

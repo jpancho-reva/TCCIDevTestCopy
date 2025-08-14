@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-91D4-C0B7BA83FD29">
+	<DocumentID>000C29A4-908D-A1F0-91D4-C0B7BA83BD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-91D4-C0B7BA83BD29</Name>
+	<Description>CAC GM Home Page</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-12T06:27:18.142</CreationDate>
+	<Notes/>
+	<Text>CAC GM Home Page</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-91D4-C0B7BA833D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

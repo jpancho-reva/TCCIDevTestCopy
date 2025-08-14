@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="000C29A4-908D-A1F0-913F-59E0BB077D29">
+	<DocumentID>000C29A4-908D-A1F0-913F-59E0BB073D29</DocumentID>
+	<Name>CreditAppRead</Name>
+	<Description>Credit Application Read</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-09T07:10:50.455</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Internal</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

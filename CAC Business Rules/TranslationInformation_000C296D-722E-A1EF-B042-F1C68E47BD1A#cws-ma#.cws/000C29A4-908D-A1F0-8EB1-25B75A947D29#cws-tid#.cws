@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8EB1-25B75A94BD29">
+	<DocumentID>000C29A4-908D-A1F0-8EB1-25B75A947D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8EB1-25B75A947D29</Name>
+	<Description>BusinessValidationMessage</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-27T06:34:30.34</CreationDate>
+	<Notes/>
+	<DefaultText>BusinessValidationMessage</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E483D1A"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-8EB1-25B75A94FD29"
+		/>
+	</Translations>
+</TextIdentifier>

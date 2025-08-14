@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-997E-724987AFFD2C">
+	<DocumentID>000C29A4-908D-A1F0-997E-724987AFBD2C</DocumentID>
+	<Name>000C29A4-908D-A1F0-997E-724987AFBD2C</Name>
+	<Description>Insurance Coverage Collision Blank Flag</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-07-21T06:21:15.19</CreationDate>
+	<Notes/>
+	<Text>Insurance Coverage Collision Blank Flag</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-997E-724987AF3D2C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

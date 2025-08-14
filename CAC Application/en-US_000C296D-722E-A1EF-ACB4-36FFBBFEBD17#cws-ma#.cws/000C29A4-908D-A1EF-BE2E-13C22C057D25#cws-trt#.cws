@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE2E-13C22C05BD25">
+	<DocumentID>000C29A4-908D-A1EF-BE2E-13C22C057D25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE2E-13C22C057D25</Name>
+	<Description>Application Exists?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-04T05:25:27.378</CreationDate>
+	<Notes/>
+	<Text>Application Exists?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE2E-13C22C04FD25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

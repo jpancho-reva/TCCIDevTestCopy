@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C296D-722E-A1EF-B368-59E277143D1B">
+	<DocumentID>000C296D-722E-A1EF-B368-59E27713FD1B</DocumentID>
+	<Name>ValidationSuccess</Name>
+	<Description>ValidationSuccess</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-08T09:32:03.606</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-B09D-B3B646763D1A"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

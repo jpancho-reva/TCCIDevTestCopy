@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B751-8713D1DCBD21">
+	<DocumentID>000C29A4-908D-A1EF-B751-8713D1DC7D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B751-8713D1DC7D21</Name>
+	<Description>Check IsEmployee</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-28T07:34:32.227</CreationDate>
+	<Notes/>
+	<Text>Check IsEmployee</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B751-8713D1DBFD21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

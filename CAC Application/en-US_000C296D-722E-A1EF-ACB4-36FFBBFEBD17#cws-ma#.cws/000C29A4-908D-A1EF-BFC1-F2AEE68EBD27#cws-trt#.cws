@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BFC1-F2AEE68EFD27">
+	<DocumentID>000C29A4-908D-A1EF-BFC1-F2AEE68EBD27</DocumentID>
+	<Name>000C29A4-908D-A1EF-BFC1-F2AEE68EBD27</Name>
+	<Description>LDWCERTIFICATE</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-12T06:09:24.059</CreationDate>
+	<Notes/>
+	<Text>LDWCERTIFICATE</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BFC1-F2AEE68E3D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

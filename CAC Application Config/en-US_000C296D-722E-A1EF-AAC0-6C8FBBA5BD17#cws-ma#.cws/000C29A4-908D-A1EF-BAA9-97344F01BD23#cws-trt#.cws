@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BAA9-97344F01FD23">
+	<DocumentID>000C29A4-908D-A1EF-BAA9-97344F01BD23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BAA9-97344F01BD23</Name>
+	<Description>&quot;Brand is required for dealer&quot;</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-14T07:38:14.897</CreationDate>
+	<Notes/>
+	<Text>&quot;Brand is required for dealer&quot;</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BAA9-97344F013D23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-83AF-CC2BDEC13D27">
+	<DocumentID>000C29A4-908D-A1F0-83AF-CC2BDEC0FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-83AF-CC2BDEC0FD27</Name>
+	<Description>EventLog_2</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-04-01T06:28:14.503</CreationDate>
+	<Notes/>
+	<DefaultText>EventLog_2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-83AF-CC2BDEC17D27"
+		/>
+	</Translations>
+</TextIdentifier>

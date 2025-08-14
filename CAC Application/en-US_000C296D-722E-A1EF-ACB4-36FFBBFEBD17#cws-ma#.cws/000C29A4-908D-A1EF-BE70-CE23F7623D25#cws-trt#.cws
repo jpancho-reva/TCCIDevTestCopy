@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE70-CE23F7627D25">
+	<DocumentID>000C29A4-908D-A1EF-BE70-CE23F7623D25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE70-CE23F7623D25</Name>
+	<Description>Need Attenstion To Pending</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-05T13:12:54.965</CreationDate>
+	<Notes/>
+	<Text>Need Attenstion To Pending</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE70-CE23F761BD25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B4F4-2DF3938C3D1D">
+	<DocumentID>000C296D-722E-A1EF-B4F4-2DF3938BFD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B4F4-2DF3938BFD1D</Name>
+	<Description>CreditReceipt UpdateApplication</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-16T06:25:10.877</CreationDate>
+	<Notes/>
+	<Text>CreditReceipt UpdateApplication</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B4F4-2DF3938B7D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

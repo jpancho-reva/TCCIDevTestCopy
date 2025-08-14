@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B71F-1F7EB91CFD1E">
+	<DocumentID>000C296D-722E-A1EF-B71F-1F7EB91CBD1E</DocumentID>
+	<Name>000C296D-722E-A1EF-B71F-1F7EB91CBD1E</Name>
+	<Description>Catch Exception</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-27T07:03:58.1</CreationDate>
+	<Notes/>
+	<DefaultText>Catch Exception</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B71F-1F7EB91D3D1E"
+		/>
+	</Translations>
+</TextIdentifier>

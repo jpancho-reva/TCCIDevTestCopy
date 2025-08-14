@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD88-CC1F1596FD17">
+	<DocumentID>000C296D-722E-A1EF-AD88-CC1F1596BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD88-CC1F1596BD17</Name>
+	<Description>Credit Decision</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T11:50:42.184</CreationDate>
+	<Notes/>
+	<DefaultText>Credit Decision</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-AD88-CC1F15973D17"
+		/>
+	</Translations>
+</TextIdentifier>

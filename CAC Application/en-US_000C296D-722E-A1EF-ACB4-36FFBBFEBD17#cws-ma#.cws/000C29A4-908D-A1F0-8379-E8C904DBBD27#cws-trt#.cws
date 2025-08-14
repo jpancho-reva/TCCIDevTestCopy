@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8379-E8C904DBFD27">
+	<DocumentID>000C29A4-908D-A1F0-8379-E8C904DBBD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8379-E8C904DBBD27</Name>
+	<Description>Ignore if no condition exists</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-31T05:07:26.441</CreationDate>
+	<Notes/>
+	<Text>Ignore if no condition exists</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8379-E8C904DB3D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

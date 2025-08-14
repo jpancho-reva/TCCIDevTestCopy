@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-841D-B871F6757D27">
+	<DocumentID>000C29A4-908D-A1F0-841D-B871F6753D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-841D-B871F6753D27</Name>
+	<Description>Void Cheque</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-03T11:52:19.169</CreationDate>
+	<Notes/>
+	<Text>Void Cheque</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-841D-B871F674BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

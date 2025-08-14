@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADDD-56D48F917D17">
+	<DocumentID>000C296D-722E-A1EF-ADDD-56D48F913D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADDD-56D48F913D17</Name>
+	<Description>ContractApplicationLog</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-11T05:32:10.656</CreationDate>
+	<Notes/>
+	<Text>ContractApplicationLog</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADDD-56D48F90BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

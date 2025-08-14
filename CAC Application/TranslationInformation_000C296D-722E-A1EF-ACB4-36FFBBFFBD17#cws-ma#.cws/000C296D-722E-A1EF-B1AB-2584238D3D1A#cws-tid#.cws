@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1AB-2584238D7D1A">
+	<DocumentID>000C296D-722E-A1EF-B1AB-2584238D3D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B1AB-2584238D3D1A</Name>
+	<Description>UpdateCreditApplication</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-30T13:01:00.001</CreationDate>
+	<Notes/>
+	<DefaultText>UpdateCreditApplication</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B1AB-2584238DBD1A"
+		/>
+	</Translations>
+</TextIdentifier>

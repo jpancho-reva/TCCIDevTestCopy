@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AEED-1FADE3A37D1A">
+	<DocumentID>000C296D-722E-A1EF-AEED-1FADE3A33D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-AEED-1FADE3A33D1A</Name>
+	<Description>ReadOCRJob</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-16T13:49:44.362</CreationDate>
+	<Notes/>
+	<Text>ReadOCRJob</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AEED-1FADE3A2BD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

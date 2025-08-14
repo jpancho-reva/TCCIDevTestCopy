@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AE21-E996BB09BD17">
+	<DocumentID>000C296D-722E-A1EF-AE21-E996BB097D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AE21-E996BB097D17</Name>
+	<Description>Contract Validation Code</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-12T12:52:35.142</CreationDate>
+	<Notes/>
+	<Text>Contract Validation Code</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AE21-E996BB08FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

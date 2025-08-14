@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC7-A351F12FFD17">
+	<DocumentID>000C296D-722E-A1EF-AAC7-A351F12FBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC7-A351F12FBD17</Name>
+	<Description>Province</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T11:24:10.076</CreationDate>
+	<Notes/>
+	<Text>Province</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC7-A351F12F3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE8F-76E75452FD25">
+	<DocumentID>000C29A4-908D-A1EF-BE8F-76E75452BD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE8F-76E75452BD25</Name>
+	<Description>Ready To Fund Task Layout</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-06T05:45:23.43</CreationDate>
+	<Notes/>
+	<Text>Ready To Fund Task Layout</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE8F-76E754523D25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

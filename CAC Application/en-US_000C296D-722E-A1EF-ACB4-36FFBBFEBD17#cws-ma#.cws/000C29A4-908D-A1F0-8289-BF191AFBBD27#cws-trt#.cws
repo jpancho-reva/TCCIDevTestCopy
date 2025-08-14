@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8289-BF191AFBFD27">
+	<DocumentID>000C29A4-908D-A1F0-8289-BF191AFBBD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8289-BF191AFBBD27</Name>
+	<Description>UpdateEventLog</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2025-03-26T09:49:17.304</CreationDate>
+	<Notes/>
+	<Text>UpdateEventLog</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8289-BF191AFB3D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

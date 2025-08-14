@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8CC0-6912409C3D29">
+	<DocumentID>000C29A4-908D-A1F0-8CC0-6912409BFD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8CC0-6912409BFD29</Name>
+	<Description>Rules by Brand - New</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-17T09:34:22.55</CreationDate>
+	<Notes/>
+	<Text>Rules by Brand - New</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8CC0-6912409B7D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

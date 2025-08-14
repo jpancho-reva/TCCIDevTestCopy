@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B62B-86B21F763D1D">
+	<DocumentID>000C296D-722E-A1EF-B62B-86B21F75FD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B62B-86B21F75FD1D</Name>
+	<Description>Bank</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-22T10:52:25.406</CreationDate>
+	<Notes/>
+	<Text>Bank</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B62B-86B21F757D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

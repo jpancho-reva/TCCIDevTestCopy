@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B690-29CB54B2FD1D">
+	<DocumentID>000C296D-722E-A1EF-B690-29CB54B2BD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B690-29CB54B2BD1D</Name>
+	<Description>UpdateOTCSOutboundToken</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-24T12:26:48.696</CreationDate>
+	<Notes/>
+	<Text>UpdateOTCSOutboundToken</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B690-29CB54B23D1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

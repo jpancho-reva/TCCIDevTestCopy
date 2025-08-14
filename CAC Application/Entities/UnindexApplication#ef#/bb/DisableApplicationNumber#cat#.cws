@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8649-DB49E3E83D27">
+	<DocumentID>000C29A4-908D-A1F0-8649-DB49E3E7FD27</DocumentID>
+	<Name>DisableApplicationNumber</Name>
+	<Description>DisableApplicationNumber</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-14T12:00:19.903</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-B61E-70339E67FD1D"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

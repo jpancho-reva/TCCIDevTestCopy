@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B368-59E2771A7D1B">
+	<DocumentID>000C296D-722E-A1EF-B368-59E2771A3D1B</DocumentID>
+	<Name>000C296D-722E-A1EF-B368-59E2771A3D1B</Name>
+	<Description>&lt;span style=&quot;font-size:14px;&quot;&gt;❌ &lt;span style=&quot;color:#e74c3c;&quot;&gt;&lt;strong&gt;Invalid expression&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-08T09:32:03.607</CreationDate>
+	<Notes/>
+	<Text>&lt;span style=&quot;font-size:14px;&quot;&gt;❌ &lt;span style=&quot;color:#e74c3c;&quot;&gt;&lt;strong&gt;Invalid expression&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B368-59E27719BD1B"
+		/>
+	</TextIdentifier>
+</TranslatedText>

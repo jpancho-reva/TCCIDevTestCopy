@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD84-48F00C75FD17">
+	<DocumentID>000C296D-722E-A1EF-AD84-48F00C75BD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD84-48F00C75BD17</Name>
+	<Description>Lookup Cd</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T09:39:25.922</CreationDate>
+	<Notes/>
+	<Text>Lookup Cd</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD84-48F00C753D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBA-7C89CED57D17">
+	<DocumentID>000C296D-722E-A1EF-ADBA-7C89CED53D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBA-7C89CED53D17</Name>
+	<Description>Contract User Ready To Fund List</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T11:29:48.46</CreationDate>
+	<Notes/>
+	<Text>Contract User Ready To Fund List</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADBA-7C89CED4BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5F0-2A4266157D1D">
+	<DocumentID>000C296D-722E-A1EF-B5F0-2A4266153D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5F0-2A4266153D1D</Name>
+	<Description>EI services</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T06:40:46.014</CreationDate>
+	<Notes/>
+	<Text>EI services</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFBBD17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5F0-2A426614BD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

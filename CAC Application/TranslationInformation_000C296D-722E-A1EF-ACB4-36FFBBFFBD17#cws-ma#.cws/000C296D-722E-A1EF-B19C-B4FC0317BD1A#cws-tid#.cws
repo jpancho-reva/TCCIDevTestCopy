@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B19C-B4FC0317FD1A">
+	<DocumentID>000C296D-722E-A1EF-B19C-B4FC0317BD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B19C-B4FC0317BD1A</Name>
+	<Description>Verify Application Number On Transient Create</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-30T06:48:52.48</CreationDate>
+	<Notes/>
+	<DefaultText>Verify Application Number On Transient Create</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B19C-B4FC03183D1A"
+		/>
+	</Translations>
+</TextIdentifier>

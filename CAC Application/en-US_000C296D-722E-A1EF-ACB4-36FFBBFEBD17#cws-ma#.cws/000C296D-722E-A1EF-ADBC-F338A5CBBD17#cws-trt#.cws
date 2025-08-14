@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADBC-F338A5CBFD17">
+	<DocumentID>000C296D-722E-A1EF-ADBC-F338A5CBBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADBC-F338A5CBBD17</Name>
+	<Description>Receive To Archive</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T12:41:16.922</CreationDate>
+	<Notes/>
+	<Text>Receive To Archive</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADBC-F338A5CB3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

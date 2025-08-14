@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-975A-61274A867D2A">
+	<DocumentID>000C29A4-908D-A1F0-975A-61274A863D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-975A-61274A863D2A</Name>
+	<Description>Supervisor Toyota/Lexus Loan</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-10T08:40:54.487</CreationDate>
+	<Notes/>
+	<Text>Supervisor Toyota/Lexus Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-975A-61274A85BD2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

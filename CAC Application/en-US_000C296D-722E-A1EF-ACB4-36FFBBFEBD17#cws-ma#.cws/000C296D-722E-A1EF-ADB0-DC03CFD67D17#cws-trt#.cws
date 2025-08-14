@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB0-DC03CFD6BD17">
+	<DocumentID>000C296D-722E-A1EF-ADB0-DC03CFD67D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB0-DC03CFD67D17</Name>
+	<Description>Kofax Classification Datetime</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T06:54:28.917</CreationDate>
+	<Notes/>
+	<Text>Kofax Classification Datetime</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB0-DC03CFD5FD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

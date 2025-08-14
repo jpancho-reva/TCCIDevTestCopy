@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C40-804E4DF1FD2E">
+	<DocumentID>000C29A4-908D-A1F0-9C40-804E4DF1BD2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C40-804E4DF1BD2E</Name>
+	<Description>TOYOTA - Loan</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T07:14:16.184</CreationDate>
+	<Notes/>
+	<DefaultText>TOYOTA - Loan</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-9C40-804E4DF23D2E"
+		/>
+	</Translations>
+</TextIdentifier>

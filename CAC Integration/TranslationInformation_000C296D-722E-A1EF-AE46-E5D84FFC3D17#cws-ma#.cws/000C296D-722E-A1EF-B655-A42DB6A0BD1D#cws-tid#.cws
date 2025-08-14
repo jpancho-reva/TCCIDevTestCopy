@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B655-A42DB6A0FD1D">
+	<DocumentID>000C296D-722E-A1EF-B655-A42DB6A0BD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B655-A42DB6A0BD1D</Name>
+	<Description>OPA Services</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-23T06:59:07.547</CreationDate>
+	<Notes/>
+	<DefaultText>OPA Services</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-AE46-E5D84FFCBD17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B655-A42DB6A13D1D"
+		/>
+	</Translations>
+</TextIdentifier>

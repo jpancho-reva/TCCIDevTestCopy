@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ACE2-B2A6C6FDFD17">
+	<DocumentID>000C296D-722E-A1EF-ACE2-B2A6C6FDBD17</DocumentID>
+	<Name>000C296D-722E-A1EF-ACE2-B2A6C6FDBD17</Name>
+	<Description>Notes</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-06T04:41:29.827</CreationDate>
+	<Notes/>
+	<Text>Notes</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ACE2-B2A6C6FD3D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

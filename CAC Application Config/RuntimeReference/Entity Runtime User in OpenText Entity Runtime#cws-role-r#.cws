@@ -1,0 +1,37 @@
+
+<RoleRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="000C29A4-908D-A1F0-85A1-FF74EDCF7D27">
+	<DocumentID>000C29A4-908D-A1F0-85A1-FF74EDCF3D27</DocumentID>
+	<Name>Entity Runtime User in OpenText Entity Runtime</Name>
+	<Description>Entity Runtime User</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-11T05:34:04.236</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<CommonName>Entity Runtime User</CommonName>
+	<DistinguishedName>cn=Entity Runtime User,cn=OpenText Entity Runtime,cn=cordys,cn=revaInstance,o=vancouver.revasolutions.com</DistinguishedName>
+	<ISVPName></ISVPName>
+	<type>Internal</type>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="000C29A4-908D-A1F0-85A1-FF74EDCEFD27">
+			<DocumentID>000C29A4-908D-A1F0-85A1-FF74EDCEBD27</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-04-11T05:34:04.236</CreationDate>
+			<Notes/>
+			<ArtifactID>CCAA438D-0C52-48B1-9735-45E4A04BC278</ArtifactID>
+			<CAPID>8eded4c8-2607-4029-80ce-778ad9cd8c98</CAPID>
+			<CAPName>OpenText Entity Runtime</CAPName>
+			<CAPVersion>ver24.4build10.457935</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleRuntime>

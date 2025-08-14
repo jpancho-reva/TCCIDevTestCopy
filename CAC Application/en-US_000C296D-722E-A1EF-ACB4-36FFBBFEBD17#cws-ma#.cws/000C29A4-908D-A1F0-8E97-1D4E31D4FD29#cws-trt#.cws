@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8E97-1D4E31D53D29">
+	<DocumentID>000C29A4-908D-A1F0-8E97-1D4E31D4FD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-8E97-1D4E31D4FD29</Name>
+	<Description>ClearDealerMessage</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-26T18:14:53.097</CreationDate>
+	<Notes/>
+	<Text>ClearDealerMessage</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8E97-1D4E31D47D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

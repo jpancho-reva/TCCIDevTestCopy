@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-818C-81EB75F63D27">
+	<DocumentID>000C29A4-908D-A1F0-818C-81EB75F5FD27</DocumentID>
+	<Name>ShowDocumentValidationForm</Name>
+	<Description>ShowDocumentValidationForm</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-21T09:48:59.912</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ACB5-4273121BFD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

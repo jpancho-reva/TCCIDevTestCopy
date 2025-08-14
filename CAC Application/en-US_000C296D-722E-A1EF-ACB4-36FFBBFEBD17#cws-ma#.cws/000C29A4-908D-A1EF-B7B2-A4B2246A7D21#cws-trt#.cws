@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B7B2-A4B2246ABD21">
+	<DocumentID>000C29A4-908D-A1EF-B7B2-A4B2246A7D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B7B2-A4B2246A7D21</Name>
+	<Description>Error: Some of the following mandatory fields are missing - OCRJobId, IsEmployee, Department, DocumentTypeList, Investigation, KofaxClassificationDatetime, Unindexed, ApplicationNum, CorrelationID, Mode, TenantIdentifier.</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-30T06:41:04.46</CreationDate>
+	<Notes/>
+	<Text>Error: Some of the following mandatory fields are missing - OCRJobId, IsEmployee, Department, DocumentTypeList, Investigation, KofaxClassificationDatetime, Unindexed, ApplicationNum, CorrelationID, Mode, TenantIdentifier.</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B7B2-A4B22469FD21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

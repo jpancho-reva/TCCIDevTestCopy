@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9728-C01B7399BD2A">
+	<DocumentID>000C29A4-908D-A1F0-9728-C01B73997D2A</DocumentID>
+	<Name>HideComplete</Name>
+	<Description>HideComplete</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-09T09:19:50.784</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-AD86-8C3EF386BD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

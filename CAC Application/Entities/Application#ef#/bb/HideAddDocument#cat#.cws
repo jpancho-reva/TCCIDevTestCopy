@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-914C-299D413A7D29">
+	<DocumentID>000C29A4-908D-A1F0-914C-299D413A3D29</DocumentID>
+	<Name>HideAddDocument</Name>
+	<Description>HideAddDocument</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-09T13:00:29.349</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ACB5-4273121BFD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

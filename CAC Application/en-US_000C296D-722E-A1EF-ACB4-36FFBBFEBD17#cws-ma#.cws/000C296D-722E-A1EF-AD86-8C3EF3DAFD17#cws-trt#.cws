@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD86-8C3EF3DB3D17">
+	<DocumentID>000C296D-722E-A1EF-AD86-8C3EF3DAFD17</DocumentID>
+	<Name>000C296D-722E-A1EF-AD86-8C3EF3DAFD17</Name>
+	<Description>Paused</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T11:03:14.363</CreationDate>
+	<Notes/>
+	<Text>Paused</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AD86-8C3EF3DA7D17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

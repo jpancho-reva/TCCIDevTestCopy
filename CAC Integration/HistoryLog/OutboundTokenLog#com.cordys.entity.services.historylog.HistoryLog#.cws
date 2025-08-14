@@ -1,0 +1,34 @@
+
+<HistoryLog
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.historylog.HistoryLog"
+	RuntimeDocumentID="000C296D-722E-A1EF-B10D-260F08DB3D1A">
+	<DocumentID>000C296D-722E-A1EF-B10D-260F08DAFD1A</DocumentID>
+	<Name>OutboundTokenLog</Name>
+	<Description>OutboundTokenLog</Description>
+	<CreatedBy>kgohil@Appworks</CreatedBy>
+	<CreationDate>2024-12-27T09:34:19.034</CreationDate>
+	<Notes/>
+	<CompressType>0</CompressType>
+	<RetentionInterval>0</RetentionInterval>
+	<RetentionUnit></RetentionUnit>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="000C296D-722E-A1EF-B1A9-7E334DF6BD1A">
+			<DocumentID>000C296D-722E-A1EF-B1A9-7E334DF67D1A</DocumentID>
+			<Name>000C296D-722E-A1EF-B1A9-7E334DF67D1A</Name>
+			<Description>000C296D-722E-A1EF-B1A9-7E334DF67D1A</Description>
+			<CreatedBy>kgohil@Appworks</CreatedBy>
+			<CreationDate>2024-12-30T12:07:18.228</CreationDate>
+			<Notes/>
+			<DeveloperText>OutboundTokenLog</DeveloperText>
+			<Identifier>
+				<uri
+					id="000C296D-722E-A1EF-B1A9-7E334DF6FD1A"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+</HistoryLog>

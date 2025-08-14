@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B690-0D7912D93D1D">
+	<DocumentID>000C296D-722E-A1EF-B690-0D7912D8FD1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B690-0D7912D8FD1D</Name>
+	<Description>SynchronizeBWS</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-24T10:54:46.752</CreationDate>
+	<Notes/>
+	<DefaultText>SynchronizeBWS</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B690-0D7912D97D1D"
+		/>
+	</Translations>
+</TextIdentifier>

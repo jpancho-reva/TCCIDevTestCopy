@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8675-E77FDDBABD27">
+	<DocumentID>000C29A4-908D-A1F0-8675-E77FDDBA7D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8675-E77FDDBA7D27</Name>
+	<Description>SetTargetStateAndStatusForBookingRequest</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-04-15T09:12:32.234</CreationDate>
+	<Notes/>
+	<Text>SetTargetStateAndStatusForBookingRequest</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8675-E77FDDB9FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

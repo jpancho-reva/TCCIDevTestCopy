@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8A66-2107CEB47D27">
+	<DocumentID>000C29A4-908D-A1F0-8A66-2107CEB43D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8A66-2107CEB43D27</Name>
+	<Description>SetAccoundHoldParams</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-05T10:10:34.32</CreationDate>
+	<Notes/>
+	<Text>SetAccoundHoldParams</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8A66-2107CEB3BD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

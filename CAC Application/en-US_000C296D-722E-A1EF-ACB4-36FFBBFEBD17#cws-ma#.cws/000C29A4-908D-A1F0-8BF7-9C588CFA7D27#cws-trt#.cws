@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8BF7-9C588CFABD27">
+	<DocumentID>000C29A4-908D-A1F0-8BF7-9C588CFA7D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8BF7-9C588CFA7D27</Name>
+	<Description>NACount Threshold Exceeded?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-13T09:45:33.497</CreationDate>
+	<Notes/>
+	<Text>NACount Threshold Exceeded?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8BF7-9C588CF9FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AEE2-9CAE4AEDBD1A">
+	<DocumentID>000C296D-722E-A1EF-AEE2-9CAE4AED7D1A</DocumentID>
+	<Name>000C296D-722E-A1EF-AEE2-9CAE4AED7D1A</Name>
+	<Description>Credit Application Status</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-16T11:45:12.333</CreationDate>
+	<Notes/>
+	<Text>Credit Application Status</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AEE2-9CAE4AECFD1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

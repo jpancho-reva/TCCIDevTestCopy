@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9764-7FAA7E703D2A">
+	<DocumentID>000C29A4-908D-A1F0-9764-7FAA7E6FFD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9764-7FAA7E6FFD2A</Name>
+	<Description>ECM Systems</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-10T14:23:08.299</CreationDate>
+	<Notes/>
+	<Text>ECM Systems</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9764-7FAA7E6F7D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

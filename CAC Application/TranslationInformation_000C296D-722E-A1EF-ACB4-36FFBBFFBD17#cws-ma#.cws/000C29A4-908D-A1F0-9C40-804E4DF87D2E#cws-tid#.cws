@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C40-804E4DF8BD2E">
+	<DocumentID>000C29A4-908D-A1F0-9C40-804E4DF87D2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C40-804E4DF87D2E</Name>
+	<Description>TOYOTA - Lease</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T07:14:16.186</CreationDate>
+	<Notes/>
+	<DefaultText>TOYOTA - Lease</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-9C40-804E4DF8FD2E"
+		/>
+	</Translations>
+</TextIdentifier>

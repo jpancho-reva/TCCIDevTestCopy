@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B94E-1CD56BC7FD21">
+	<DocumentID>000C29A4-908D-A1EF-B94E-1CD56BC7BD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B94E-1CD56BC7BD21</Name>
+	<Description>Credit Application Doc Received</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-07T10:35:05.479</CreationDate>
+	<Notes/>
+	<Text>Credit Application Doc Received</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B94E-1CD56BC73D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

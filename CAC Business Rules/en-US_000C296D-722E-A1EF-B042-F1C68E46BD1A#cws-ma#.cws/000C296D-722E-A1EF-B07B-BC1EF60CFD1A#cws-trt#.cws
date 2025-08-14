@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B07B-BC1EF60D3D1A">
+	<DocumentID>000C296D-722E-A1EF-B07B-BC1EF60CFD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B07B-BC1EF60CFD1A</Name>
+	<Description>CAC Rules</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-24T12:03:07.712</CreationDate>
+	<Notes/>
+	<Text>CAC Rules</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B07B-BC1EF60C7D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

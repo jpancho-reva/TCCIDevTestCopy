@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B9B9-F24FF255FD21">
+	<DocumentID>000C29A4-908D-A1EF-B9B9-F24FF255BD21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B9B9-F24FF255BD21</Name>
+	<Description>UpdateCreditApplicationTargetStateCompleted</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-09T13:44:26.727</CreationDate>
+	<Notes/>
+	<Text>UpdateCreditApplicationTargetStateCompleted</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B9B9-F24FF2553D21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C296D-722E-A1EF-AD84-48F00C64FD17">
+	<DocumentID>000C296D-722E-A1EF-AD84-48F00C64BD17</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-09T09:42:34.279</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-AD84-48F00C643D17">
+			<DocumentID>000C296D-722E-A1EF-AD84-48F00C63FD17</DocumentID>
+			<Name>CreateCreditApplication</Name>
+			<Description>Create CreditApplication</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2024-12-09T09:42:34.279</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AD7F-F4DD65C5BD17"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="000C29A4-908D-A1F0-89C2-556DBDC57D27">
+			<DocumentID>000C29A4-908D-A1F0-89C2-556DBDC53D27</DocumentID>
+			<Name>DeleteCreditApplication</Name>
+			<Description>Delete CreditApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-05-02T03:56:28.715</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AD7F-F4DD65C5BD17"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="000C296D-722E-A1EF-AD7F-F4DD65C5BD17"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B720-EF0A9B7BFD1E">
+			<DocumentID>000C296D-722E-A1EF-B720-EF0A9B7BBD1E</DocumentID>
+			<Name>ReadCreditApplication</Name>
+			<Description>Read CreditApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2025-01-27T07:53:37.599</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AD7F-F4DD65C5BD17"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C296D-722E-A1EF-B1AB-25842391FD1A">
+			<DocumentID>000C296D-722E-A1EF-B1AB-25842391BD1A</DocumentID>
+			<Name>UpdateCreditApplication</Name>
+			<Description>Update CreditApplication</Description>
+			<CreatedBy>bchaudhary@Appworks</CreatedBy>
+			<CreationDate>2024-12-30T12:54:23.738</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C296D-722E-A1EF-AD7F-F4DD65C5BD17"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

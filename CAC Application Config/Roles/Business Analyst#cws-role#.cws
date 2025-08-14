@@ -1,0 +1,26 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="000C29A4-908D-A1F0-895D-7D4CB5ED3D27">
+	<DocumentID>000C29A4-908D-A1F0-895D-7D4CB5ECFD27</DocumentID>
+	<Name>Business Analyst</Name>
+	<Description>Business Analyst</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-30T04:51:18.421</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="000C29A4-908D-A1F0-8575-E1972D1A3D27"
+		/>
+		<uri
+			id="000C29A4-908D-A1F0-85B0-24A339B5FD27"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

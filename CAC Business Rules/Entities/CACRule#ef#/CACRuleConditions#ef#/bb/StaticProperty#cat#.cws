@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C296D-722E-A1EF-B1DC-E63C49C9BD1A">
+	<DocumentID>000C296D-722E-A1EF-B1DC-E63C49C97D1A</DocumentID>
+	<Name>StaticProperty</Name>
+	<Description>StaticProperty</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2024-12-31T12:38:57.435</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-B09D-B3B646763D1A"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

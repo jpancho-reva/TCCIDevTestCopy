@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-89C6-C9A1EC8B3D27">
+	<DocumentID>000C29A4-908D-A1F0-89C6-C9A1EC8AFD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-89C6-C9A1EC8AFD27</Name>
+	<Description>CreateCreditRequeueTaskEvent</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-05-02T06:03:31.697</CreationDate>
+	<Notes/>
+	<DefaultText>CreateCreditRequeueTaskEvent</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-89C6-C9A1EC8B7D27"
+		/>
+	</Translations>
+</TextIdentifier>

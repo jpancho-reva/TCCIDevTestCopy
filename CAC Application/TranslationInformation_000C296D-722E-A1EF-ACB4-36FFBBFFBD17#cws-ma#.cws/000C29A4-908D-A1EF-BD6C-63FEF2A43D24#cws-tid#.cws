@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BD6C-63FEF2A47D24">
+	<DocumentID>000C29A4-908D-A1EF-BD6C-63FEF2A43D24</DocumentID>
+	<Name>000C29A4-908D-A1EF-BD6C-63FEF2A43D24</Name>
+	<Description>Is Decision Code Empty?</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-28T09:03:54.009</CreationDate>
+	<Notes/>
+	<DefaultText>Is Decision Code Empty?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1EF-BD6C-63FEF2A4BD24"
+		/>
+	</Translations>
+</TextIdentifier>

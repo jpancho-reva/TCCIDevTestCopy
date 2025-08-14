@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8189-3BB1790D7D27">
+	<DocumentID>000C29A4-908D-A1F0-8189-3BB1790D3D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-8189-3BB1790D3D27</Name>
+	<Description>UpdateOCR_DocumentsCheck LEASEWORKSHEET</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-21T07:22:56.858</CreationDate>
+	<Notes/>
+	<Text>UpdateOCR_DocumentsCheck LEASEWORKSHEET</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-8189-3BB1790CBD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

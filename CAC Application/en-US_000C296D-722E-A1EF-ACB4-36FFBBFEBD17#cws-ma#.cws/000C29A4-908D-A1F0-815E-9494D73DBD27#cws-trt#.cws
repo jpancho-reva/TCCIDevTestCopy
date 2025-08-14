@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-815E-9494D73DFD27">
+	<DocumentID>000C29A4-908D-A1F0-815E-9494D73DBD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-815E-9494D73DBD27</Name>
+	<Description>Create Dealer Message?</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-20T11:02:31.079</CreationDate>
+	<Notes/>
+	<Text>Create Dealer Message?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-815E-9FE2B53CFD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B5ED-378CA3F67D1D">
+	<DocumentID>000C296D-722E-A1EF-B5ED-378CA3F63D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B5ED-378CA3F63D1D</Name>
+	<Description>OCR_Coversheet</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-21T05:40:23.932</CreationDate>
+	<Notes/>
+	<Text>OCR_Coversheet</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B5ED-378CA3F5BD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

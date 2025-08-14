@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-91D3-37537D7BBD29">
+	<DocumentID>000C29A4-908D-A1F0-91D3-37537D7B7D29</DocumentID>
+	<Name>000C29A4-908D-A1F0-91D3-37537D7B7D29</Name>
+	<Description>SetCreditChannel</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-12T05:28:50.596</CreationDate>
+	<Notes/>
+	<Text>SetCreditChannel</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-91D3-37537D7AFD29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

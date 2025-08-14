@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-AAC5-7F533CF57D17">
+	<DocumentID>000C296D-722E-A1EF-AAC5-7F533CF53D17</DocumentID>
+	<Name>000C296D-722E-A1EF-AAC5-7F533CF53D17</Name>
+	<Description>Department based on Fax#</Description>
+	<CreatedBy>bchaudhary</CreatedBy>
+	<CreationDate>2024-11-25T10:19:14.239</CreationDate>
+	<Notes/>
+	<Text>Department based on Fax#</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-AAC0-6C8FBBA53D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-AAC5-7F533CF4BD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

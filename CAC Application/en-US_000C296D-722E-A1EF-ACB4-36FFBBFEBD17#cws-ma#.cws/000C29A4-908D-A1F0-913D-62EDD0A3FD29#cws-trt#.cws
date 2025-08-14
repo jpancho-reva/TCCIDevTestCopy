@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-913D-62EDD0A43D29">
+	<DocumentID>000C29A4-908D-A1F0-913D-62EDD0A3FD29</DocumentID>
+	<Name>000C29A4-908D-A1F0-913D-62EDD0A3FD29</Name>
+	<Description>Validate Collision Deductible For Lease</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-09T05:59:47.361</CreationDate>
+	<Notes/>
+	<Text>Validate Collision Deductible For Lease</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-913D-62EDD0A37D29"
+		/>
+	</TextIdentifier>
+</TranslatedText>

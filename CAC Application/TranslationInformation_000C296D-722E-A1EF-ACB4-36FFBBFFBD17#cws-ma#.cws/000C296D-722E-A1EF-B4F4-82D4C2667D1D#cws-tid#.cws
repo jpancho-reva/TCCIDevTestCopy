@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C296D-722E-A1EF-B4F4-82D4C266BD1D">
+	<DocumentID>000C296D-722E-A1EF-B4F4-82D4C2667D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B4F4-82D4C2667D1D</Name>
+	<Description>CreditDecision UpdateApplication</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-16T06:25:10.878</CreationDate>
+	<Notes/>
+	<DefaultText>CreditDecision UpdateApplication</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C296D-722E-A1EF-B4F4-82D4C266FD1D"
+		/>
+	</Translations>
+</TextIdentifier>

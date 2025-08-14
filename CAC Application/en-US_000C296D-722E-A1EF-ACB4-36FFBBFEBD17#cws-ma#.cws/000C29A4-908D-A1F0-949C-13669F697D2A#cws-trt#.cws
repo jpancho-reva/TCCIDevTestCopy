@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-949C-13669F69BD2A">
+	<DocumentID>000C29A4-908D-A1F0-949C-13669F697D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-949C-13669F697D2A</Name>
+	<Description>FindContrTskBySubjCrDt</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-06-26T09:41:02.507</CreationDate>
+	<Notes/>
+	<Text>FindContrTskBySubjCrDt</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-949C-13669F68FD2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

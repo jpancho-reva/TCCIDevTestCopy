@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8900-13C5BE507D27">
+	<DocumentID>000C29A4-908D-A1F0-8900-13C5BE503D27</DocumentID>
+	<Name>DisableOnLock</Name>
+	<Description>DisableOnLock</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-04-28T08:52:30.528</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ADB1-9F15A2E9BD17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

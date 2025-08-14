@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29A4-908D-A1F0-8B2C-8197CC39FD27">
+	<DocumentID>000C29A4-908D-A1F0-8B2C-8197CC39BD27</DocumentID>
+	<Name>DisableApplicationNumCategory</Name>
+	<Description>DisableApplicationNumCategory</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-05-09T08:53:20.664</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C296D-722E-A1EF-ADAB-1655D2577D17"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

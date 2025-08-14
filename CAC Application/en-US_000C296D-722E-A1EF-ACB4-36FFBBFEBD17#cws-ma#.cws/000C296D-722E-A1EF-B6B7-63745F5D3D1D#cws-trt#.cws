@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B6B7-63745F5D7D1D">
+	<DocumentID>000C296D-722E-A1EF-B6B7-63745F5D3D1D</DocumentID>
+	<Name>000C296D-722E-A1EF-B6B7-63745F5D3D1D</Name>
+	<Description>UpdateOCR_Coversheet</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-01-25T05:34:38.569</CreationDate>
+	<Notes/>
+	<Text>UpdateOCR_Coversheet</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B6B7-63745F5CBD1D"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9C44-CD33532D3D2E">
+	<DocumentID>000C29A4-908D-A1F0-9C44-CD33532CFD2E</DocumentID>
+	<Name>000C29A4-908D-A1F0-9C44-CD33532CFD2E</Name>
+	<Description>MAZDA - Lease</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-04T09:13:51.721</CreationDate>
+	<Notes/>
+	<Text>MAZDA - Lease</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9C44-CD33532C7D2E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

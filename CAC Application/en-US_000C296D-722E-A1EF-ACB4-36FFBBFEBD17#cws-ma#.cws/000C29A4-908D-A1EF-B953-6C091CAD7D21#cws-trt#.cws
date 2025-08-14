@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-B953-6C091CADBD21">
+	<DocumentID>000C29A4-908D-A1EF-B953-6C091CAD7D21</DocumentID>
+	<Name>000C29A4-908D-A1EF-B953-6C091CAD7D21</Name>
+	<Description>SetTargetStateToPending</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-07T12:28:33.125</CreationDate>
+	<Notes/>
+	<Text>SetTargetStateToPending</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-B953-6C091CACFD21"
+		/>
+	</TextIdentifier>
+</TranslatedText>

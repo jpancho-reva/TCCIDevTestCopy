@@ -1,0 +1,25 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BD34-C2303BDE7D23">
+	<DocumentID>000C29A4-908D-A1EF-BD34-C2303BDE3D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BD34-C2303BDE3D23</Name>
+	<Description>Is 
+ContractApplication Exist?</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-02-27T06:22:13.995</CreationDate>
+	<Notes/>
+	<Text>Is 
+ContractApplication Exist?</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BD34-C2303BDDBD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

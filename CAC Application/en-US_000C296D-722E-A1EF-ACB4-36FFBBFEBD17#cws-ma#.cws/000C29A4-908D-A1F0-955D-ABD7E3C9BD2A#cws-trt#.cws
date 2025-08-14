@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-955D-ABD7E3C9FD2A">
+	<DocumentID>000C29A4-908D-A1F0-955D-ABD7E3C9BD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-955D-ABD7E3C9BD2A</Name>
+	<Description>Subaru Loan</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-30T05:56:23.094</CreationDate>
+	<Notes/>
+	<Text>Subaru Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-955D-ABD7E3C93D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

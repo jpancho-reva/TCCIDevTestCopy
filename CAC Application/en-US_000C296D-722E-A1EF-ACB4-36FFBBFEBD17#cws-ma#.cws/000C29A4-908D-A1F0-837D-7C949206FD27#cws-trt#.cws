@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-837D-7C9492073D27">
+	<DocumentID>000C29A4-908D-A1F0-837D-7C949206FD27</DocumentID>
+	<Name>000C29A4-908D-A1F0-837D-7C949206FD27</Name>
+	<Description>RenameNode</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-31T06:08:09.441</CreationDate>
+	<Notes/>
+	<Text>RenameNode</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-837D-7C9492067D27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

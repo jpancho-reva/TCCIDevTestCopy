@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-95C0-A1BFA6A83D2A">
+	<DocumentID>000C29A4-908D-A1F0-95C0-A1BFA6A7FD2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-95C0-A1BFA6A7FD2A</Name>
+	<Description>Supervisor Contract New Ready To Fund Layout</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-07-02T07:03:48.737</CreationDate>
+	<Notes/>
+	<Text>Supervisor Contract New Ready To Fund Layout</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-95C0-A1BFA6A77D2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

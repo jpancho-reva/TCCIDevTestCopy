@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-82F0-F5DFE4B8BD27">
+	<DocumentID>000C29A4-908D-A1F0-82F0-F5DFE4B87D27</DocumentID>
+	<Name>000C29A4-908D-A1F0-82F0-F5DFE4B87D27</Name>
+	<Description>LockContractTask</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-03-28T11:02:01.359</CreationDate>
+	<Notes/>
+	<Text>LockContractTask</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-82F0-F5DFE4B7FD27"
+		/>
+	</TextIdentifier>
+</TranslatedText>

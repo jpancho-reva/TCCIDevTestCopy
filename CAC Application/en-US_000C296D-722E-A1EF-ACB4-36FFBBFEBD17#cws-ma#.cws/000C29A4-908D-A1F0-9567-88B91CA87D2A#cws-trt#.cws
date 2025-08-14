@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9567-88B91CA8BD2A">
+	<DocumentID>000C29A4-908D-A1F0-9567-88B91CA87D2A</DocumentID>
+	<Name>000C29A4-908D-A1F0-9567-88B91CA87D2A</Name>
+	<Description>Supervisor Loan</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-06-30T10:40:17.801</CreationDate>
+	<Notes/>
+	<Text>Supervisor Loan</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1F0-9567-88B91CA7FD2A"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-ADB6-0A07D89F7D17">
+	<DocumentID>000C296D-722E-A1EF-ADB6-0A07D89F3D17</DocumentID>
+	<Name>000C296D-722E-A1EF-ADB6-0A07D89F3D17</Name>
+	<Description>VIN Validated</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2024-12-10T09:22:29.704</CreationDate>
+	<Notes/>
+	<Text>VIN Validated</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-ADB6-0A07D89EBD17"
+		/>
+	</TextIdentifier>
+</TranslatedText>

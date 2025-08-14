@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BA74-8E581DAD7D23">
+	<DocumentID>000C29A4-908D-A1EF-BA74-8E581DAD3D23</DocumentID>
+	<Name>000C29A4-908D-A1EF-BA74-8E581DAD3D23</Name>
+	<Description>BWS Exists</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-02-13T07:21:18.245</CreationDate>
+	<Notes/>
+	<Text>BWS Exists</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BA74-8E581DACBD23"
+		/>
+	</TextIdentifier>
+</TranslatedText>

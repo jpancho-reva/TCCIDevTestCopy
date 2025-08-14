@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29A4-908D-A1EF-BE2B-739C86B3FD25">
+	<DocumentID>000C29A4-908D-A1EF-BE2B-739C86B3BD25</DocumentID>
+	<Name>000C29A4-908D-A1EF-BE2B-739C86B3BD25</Name>
+	<Description>One or more required fields are missing: OCRJobId, IsEmployee, Department, DocumentTypeList, Investigation, KofaxCreationDatetime, Unindexed, CorrelationID, Mode, or TenantIdentifier. Please provide all required fields</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-03-04T04:46:08.349</CreationDate>
+	<Notes/>
+	<Text>One or more required fields are missing: OCRJobId, IsEmployee, Department, DocumentTypeList, Investigation, KofaxCreationDatetime, Unindexed, CorrelationID, Mode, or TenantIdentifier. Please provide all required fields</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29A4-908D-A1EF-BE2B-739C86B33D25"
+		/>
+	</TextIdentifier>
+</TranslatedText>

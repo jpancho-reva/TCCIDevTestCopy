@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C296D-722E-A1EF-B32F-06C540C6FD1A">
+	<DocumentID>000C296D-722E-A1EF-B32F-06C540C6BD1A</DocumentID>
+	<Name>000C296D-722E-A1EF-B32F-06C540C6BD1A</Name>
+	<Description>Overwrite Condition Name</Description>
+	<CreatedBy>apawar@Appworks</CreatedBy>
+	<CreationDate>2025-01-07T06:07:18.874</CreationDate>
+	<Notes/>
+	<Text>Overwrite Condition Name</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-B042-F1C68E473D1A"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C296D-722E-A1EF-B32F-06C540C63D1A"
+		/>
+	</TextIdentifier>
+</TranslatedText>
