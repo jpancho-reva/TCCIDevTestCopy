@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29A4-908D-A1F0-9EFB-5DFB6604BD2F">
+	<DocumentID>000C29A4-908D-A1F0-9EFB-5DFB66047D2F</DocumentID>
+	<Name>000C29A4-908D-A1F0-9EFB-5DFB66047D2F</Name>
+	<Description>LinkMigrationDocument</Description>
+	<CreatedBy>bchaudhary@Appworks</CreatedBy>
+	<CreationDate>2025-08-18T04:45:09.181</CreationDate>
+	<Notes/>
+	<DefaultText>LinkMigrationDocument</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29A4-908D-A1F0-9EFB-5DFB6604FD2F"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -26,7 +26,7 @@
 			xmlns="">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
-				width="1318.5"
+				width="1471.5"
 				height="553.5">
 				<defs>
 					<marker
@@ -205,7 +205,7 @@
 					fill="none"
 					stroke="#7E857A"
 					stroke-width="1px"
-					points="1224,495 1252.8,495"
+					points="1377,495 1405.8,495"
 					style="marker-end:url(#blockarrow#7E857A)"
 					stroke-dasharray="none"
 				/>
@@ -249,7 +249,7 @@
 							width="81"
 							height="36"
 							x="634"
-							y="204.5"
+							y="204.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -290,7 +290,7 @@
 							width="81"
 							height="36"
 							x="733"
-							y="136.5"
+							y="136.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -314,6 +314,14 @@
 					fill="none"
 					stroke="#7E857A"
 					stroke-width="1px"
+					points="1215,495 1243.8,495"
+					style="marker-end:url(#blockarrow#7E857A)"
+					stroke-dasharray="none"
+				/>
+				<polyline
+					fill="none"
+					stroke="#7E857A"
+					stroke-width="1px"
 					points="900,495 928.8,495"
 					style="marker-end:url(#blockarrow#7E857A)"
 					stroke-dasharray="none"
@@ -322,7 +330,7 @@
 					fill="none"
 					stroke="#7E857A"
 					stroke-width="1px"
-					points="1062,495 1090.8,495"
+					points="1062,495 1081.8,495"
 					style="marker-end:url(#blockarrow#7E857A)"
 					stroke-dasharray="none"
 				/>
@@ -380,7 +388,7 @@
 							width="113"
 							height="72"
 							x="121"
-							y="62.5"
+							y="62.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -433,7 +441,7 @@
 							width="113"
 							height="72"
 							x="283"
-							y="53.5"
+							y="53.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -486,7 +494,7 @@
 							width="113"
 							height="72"
 							x="454"
-							y="46.5"
+							y="46.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -539,7 +547,7 @@
 							width="113"
 							height="72"
 							x="121"
-							y="235.5"
+							y="235.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -592,7 +600,7 @@
 							width="113"
 							height="72"
 							x="616"
-							y="46.5"
+							y="46.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -645,7 +653,7 @@
 							width="113"
 							height="72"
 							x="787"
-							y="478.5"
+							y="478.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -698,7 +706,7 @@
 							width="113"
 							height="72"
 							x="121"
-							y="145.5"
+							y="145.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -751,7 +759,7 @@
 							width="113"
 							height="72"
 							x="634"
-							y="271.5"
+							y="271.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -804,7 +812,7 @@
 							width="113"
 							height="72"
 							x="634"
-							y="379.5"
+							y="379.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -840,7 +848,7 @@
 					/>
 				</linearGradient>
 				<circle
-					cx="1278"
+					cx="1431"
 					cy="495"
 					r="18"
 					style="stroke:#8A0000;stroke-width:2;fill:url(#o_70);;stroke-dasharray:none;"
@@ -861,7 +869,7 @@
 					/>
 				</linearGradient>
 				<rect
-					x="1098"
+					x="1251"
 					y="459"
 					rx="5"
 					ry="5"
@@ -877,8 +885,8 @@
 						<rect
 							width="113"
 							height="72"
-							x="1111"
-							y="478.5"
+							x="1264"
+							y="478.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -893,7 +901,7 @@
 				<image
 					xmlns:xlink="http://www.w3.org/1999/xlink"
 					xlink:href="http://vancouver.revasolutions.com:8080/cordys/wcp/theme/default/icon/processobject/automaticactivity_sb.gif"
-					x="1105"
+					x="1258.009"
 					y="466.009"
 					height="14"
 					width="14"
@@ -931,7 +939,7 @@
 							width="113"
 							height="72"
 							x="634"
-							y="478.5"
+							y="478.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -988,7 +996,7 @@
 							width="126"
 							height="72"
 							x="612"
-							y="136.5"
+							y="136.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -1033,7 +1041,7 @@
 							width="113"
 							height="72"
 							x="823"
-							y="136.5"
+							y="136.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -1069,7 +1077,7 @@
 					/>
 				</linearGradient>
 				<rect
-					x="936"
+					x="1089"
 					y="459"
 					rx="5"
 					ry="5"
@@ -1085,8 +1093,8 @@
 						<rect
 							width="113"
 							height="72"
-							x="949"
-							y="485.5"
+							x="1102"
+							y="485.75"
 						/>
 					</flowRegion>
 					<flowDiv>
@@ -1101,8 +1109,61 @@
 				<image
 					xmlns:xlink="http://www.w3.org/1999/xlink"
 					xlink:href="http://vancouver.revasolutions.com:8080/cordys/wcp/theme/default/icon/processobject/automaticactivity_sb.gif"
-					x="943"
-					y="466"
+					x="1096.009"
+					y="466.009"
+					height="14"
+					width="14"
+				/>
+				<linearGradient
+					id="o_149"
+					x1="0%"
+					y1="0%"
+					x2="100%"
+					y2="100%">
+					<stop
+						offset="0%"
+						style="stop-color:RGB(227,258,290)"
+					/>
+					<stop
+						offset="80%"
+						style="stop-color:RGB(189,215,242)"
+					/>
+				</linearGradient>
+				<rect
+					x="936"
+					y="459"
+					rx="5"
+					ry="5"
+					width="126"
+					height="72"
+					style="stroke-width:1;fill:url(#o_149);stroke:#698BC4;stroke-dasharray:none;"
+				/>
+				<flowText
+					xmlns="http://xml.apache.org/batik/ext"
+					font-size="10"
+					fill="rgb(0, 99, 155)">
+					<flowRegion>
+						<rect
+							width="113"
+							height="72"
+							x="949"
+							y="478.75"
+						/>
+					</flowRegion>
+					<flowDiv>
+						<flowPara
+							justification="middle"
+							top-margin="4.5"
+							left-margin="4.5"
+							right-margin="4.5"
+							bottom-margin="4.5">ResetUserAndDealerFlag</flowPara>
+					</flowDiv>
+				</flowText>
+				<image
+					xmlns:xlink="http://www.w3.org/1999/xlink"
+					xlink:href="http://vancouver.revasolutions.com:8080/cordys/wcp/theme/default/icon/processobject/automaticactivity_sb.gif"
+					x="943.009"
+					y="466.009"
 					height="14"
 					width="14"
 				/>
@@ -1147,6 +1208,8 @@
 					xmlns="">o_9</activityid>
 				<activityid
 					xmlns="">o_78</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1165,6 +1228,8 @@
 					xmlns="">o_89</activityid>
 				<activityid
 					xmlns="">o_142</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1183,6 +1248,8 @@
 					xmlns="">o_89</activityid>
 				<activityid
 					xmlns="">o_142</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1211,6 +1278,8 @@
 					xmlns="">o_120</activityid>
 				<activityid
 					xmlns="">o_142</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1241,6 +1310,8 @@
 					xmlns="">o_120</activityid>
 				<activityid
 					xmlns="">o_142</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1269,6 +1340,8 @@
 					xmlns="">o_120</activityid>
 				<activityid
 					xmlns="">o_142</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1279,6 +1352,8 @@
 					xmlns="">o_9</activityid>
 				<activityid
 					xmlns="">o_78</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1307,6 +1382,8 @@
 					xmlns="">o_120</activityid>
 				<activityid
 					xmlns="">o_142</activityid>
+				<activityid
+					xmlns="">o_149</activityid>
 			</namespace>
 			<namespace
 				xmlns=""
@@ -1568,7 +1645,7 @@
 	<Version>bpmn2.0</Version>
 	<WsdlTargetNamespace></WsdlTargetNamespace>
 	<WsdlUrl></WsdlUrl>
-	<freeObjectId>149</freeObjectId>
+	<freeObjectId>157</freeObjectId>
 	<isChanged></isChanged>
 	<links/>
 	<modelFormatVersion>BOP4_FP1</modelFormatVersion>
@@ -4652,40 +4729,6 @@
 		<SequenceFlow
 			type="com.cordys.bpm.connectors.SequenceFlow"
 			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
-			RuntimeDocumentID="000C29A4-908D-A1F0-9866-979D96C9FD2B">
-			<DocumentID>000C29A4-908D-A1F0-9866-979D96C9BD2B</DocumentID>
-			<Name>Connector (21)</Name>
-			<Description/>
-			<CreatedBy>apawar@Appworks</CreatedBy>
-			<CreationDate>2025-07-15T16:45:49.368</CreationDate>
-			<Notes/>
-			<ClassicCondition>false</ClassicCondition>
-			<ConditionExpression></ConditionExpression>
-			<ConditionType></ConditionType>
-			<DocumentationText></DocumentationText>
-			<FontSize>12</FontSize>
-			<Sequence></Sequence>
-			<links/>
-			<ContainerProcess>
-				<uri
-					id="000C29A4-908D-A1F0-8E8A-F0DC8BA8FD29"
-				/>
-			</ContainerProcess>
-			<SourceReference>
-				<uri
-					id="000C29A4-908D-A1F0-8E8B-EDFE19F17D29"
-				/>
-			</SourceReference>
-			<TargetReference>
-				<uri
-					id="000C29A4-908D-A1F0-9866-979D96C07D2B"
-				/>
-			</TargetReference>
-			<TranslatableName/>
-		</SequenceFlow>
-		<SequenceFlow
-			type="com.cordys.bpm.connectors.SequenceFlow"
-			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
 			RuntimeDocumentID="000C29A4-908D-A1F0-9866-979D96C57D2B">
 			<DocumentID>000C29A4-908D-A1F0-9866-979D96C53D2B</DocumentID>
 			<Name>Connector (22)</Name>
@@ -4843,7 +4886,11 @@
 					<CreatedBy>apawar@Appworks</CreatedBy>
 					<CreationDate>2025-07-15T16:45:49.367</CreationDate>
 					<Notes/>
-					<afterAssignment/>
+					<afterAssignment>
+						<activity
+							xmlns=""
+						/>
+					</afterAssignment>
 					<beforeAssignment>
 						<activity
 							xmlns="">
@@ -4898,6 +4945,269 @@
 			<WebserviceBindingOperation>
 				<uri
 					id="000C296D-722E-A1EF-B1A8-F8F32D7A7D1A"
+				/>
+			</WebserviceBindingOperation>
+		</ServiceTask>
+		<SequenceFlow
+			type="com.cordys.bpm.connectors.SequenceFlow"
+			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
+			RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-0BB5CEC6BD2F">
+			<DocumentID>000C29A4-908D-A1F0-9F5F-0BB5CEC67D2F</DocumentID>
+			<Name>Connector (21)</Name>
+			<Description/>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-08-20T04:42:46.114</CreationDate>
+			<Notes/>
+			<ClassicCondition>false</ClassicCondition>
+			<ConditionExpression></ConditionExpression>
+			<ConditionType></ConditionType>
+			<DocumentationText></DocumentationText>
+			<FontSize>12</FontSize>
+			<Sequence></Sequence>
+			<links/>
+			<ContainerProcess>
+				<uri
+					id="000C29A4-908D-A1F0-8E8A-F0DC8BA8FD29"
+				/>
+			</ContainerProcess>
+			<SourceReference>
+				<uri
+					id="000C29A4-908D-A1F0-8E8B-EDFE19F17D29"
+				/>
+			</SourceReference>
+			<TargetReference>
+				<uri
+					id="000C29A4-908D-A1F0-9F5F-EFC5762B3D2F"
+				/>
+			</TargetReference>
+			<TranslatableName/>
+		</SequenceFlow>
+		<SequenceFlow
+			type="com.cordys.bpm.connectors.SequenceFlow"
+			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
+			RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-EFC5762EBD2F">
+			<DocumentID>000C29A4-908D-A1F0-9F5F-EFC5762E7D2F</DocumentID>
+			<Name>Connector (23)</Name>
+			<Description/>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-08-20T04:42:46.115</CreationDate>
+			<Notes/>
+			<ClassicCondition>false</ClassicCondition>
+			<ConditionExpression></ConditionExpression>
+			<ConditionType></ConditionType>
+			<DocumentationText></DocumentationText>
+			<FontSize>12</FontSize>
+			<Sequence></Sequence>
+			<links/>
+			<ContainerProcess>
+				<uri
+					id="000C29A4-908D-A1F0-8E8A-F0DC8BA8FD29"
+				/>
+			</ContainerProcess>
+			<SourceReference>
+				<uri
+					id="000C29A4-908D-A1F0-9F5F-EFC5762B3D2F"
+				/>
+			</SourceReference>
+			<TargetReference>
+				<uri
+					id="000C29A4-908D-A1F0-9866-979D96C07D2B"
+				/>
+			</TargetReference>
+			<TranslatableName/>
+		</SequenceFlow>
+		<ServiceTask
+			type="com.cordys.bpm.activity.ServiceTask"
+			typeVersion="001CC435-D795-11E0-FF11-B1382512DF93 ru3229e8-6598-4208-9804-a6e623c0qyte"
+			RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-EFC5762B7D2F">
+			<DocumentID>000C29A4-908D-A1F0-9F5F-EFC5762B3D2F</DocumentID>
+			<Name>UpdateContractApplication (2)</Name>
+			<Description>ResetUserAndDealerFlag</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-08-20T04:42:46.113</CreationDate>
+			<Notes/>
+			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
+			<ClassicDebugCondition>false</ClassicDebugCondition>
+			<ClassicExecuteCondition>false</ClassicExecuteCondition>
+			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
+			<CrashRecoveryEnabled>true</CrashRecoveryEnabled>
+			<Customized>false</Customized>
+			<DebugBefore>beforeActivity</DebugBefore>
+			<DebugCondition></DebugCondition>
+			<DebugStep>no</DebugStep>
+			<DocumentationText></DocumentationText>
+			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<DynamicRetryCount>none</DynamicRetryCount>
+			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
+			<ExecuteCondition></ExecuteCondition>
+			<ExecutionOrganization></ExecutionOrganization>
+			<ExecutionUserType>currentOwner</ExecutionUserType>
+			<FontSize>12</FontSize>
+			<InProcessExecution></InProcessExecution>
+			<LogData/>
+			<MapSOAPFaultCode>true</MapSOAPFaultCode>
+			<Method></Method>
+			<MethodDN></MethodDN>
+			<Methodset></Methodset>
+			<Methodtype>application</Methodtype>
+			<MonitorLevel>23</MonitorLevel>
+			<MonitoringEnabled>true</MonitoringEnabled>
+			<Namespace></Namespace>
+			<OtherThread>false</OtherThread>
+			<ReliableMessaging>false</ReliableMessaging>
+			<RetryCondition></RetryCondition>
+			<RetryCount></RetryCount>
+			<RetryHours></RetryHours>
+			<RetryIntervalFromMessage></RetryIntervalFromMessage>
+			<RetryMinutes></RetryMinutes>
+			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
+			<SoapProcessor></SoapProcessor>
+			<SoapRequestTimeOut></SoapRequestTimeOut>
+			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
+			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
+			<UseRetryCondition>none</UseRetryCondition>
+			<WaitForReply>true</WaitForReply>
+			<links/>
+			<ActivityMessages>
+				<Message
+					type="com.cordys.bpm.Message"
+					RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-EFC57629FD2F">
+					<DocumentID>000C29A4-908D-A1F0-9F5F-EFC57629BD2F</DocumentID>
+					<Name>UpdateContractApplicationInput</Name>
+					<Description>ResetUserAndDealerFlag/UpdateContractApplicationInput</Description>
+					<CreatedBy>apawar@Appworks</CreatedBy>
+					<CreationDate>2025-08-20T04:42:46.116</CreationDate>
+					<Notes/>
+					<Namespace>http://schemas/TCCICACApplication/ContractApplication/operations</Namespace>
+					<OwnerMessageType></OwnerMessageType>
+					<UseDefaultValues>false</UseDefaultValues>
+					<CustomMessageParts/>
+					<MessageParts/>
+					<RootOwner>
+						<uri
+							id="000C29A4-908D-A1F0-9F5F-EFC5762B3D2F"
+						/>
+					</RootOwner>
+				</Message>
+				<Message
+					type="com.cordys.bpm.Message"
+					RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-EFC576297D2F">
+					<DocumentID>000C29A4-908D-A1F0-9F5F-EFC576293D2F</DocumentID>
+					<Name>UpdateContractApplicationOutput</Name>
+					<Description>ResetUserAndDealerFlag/UpdateContractApplicationOutput</Description>
+					<CreatedBy>apawar@Appworks</CreatedBy>
+					<CreationDate>2025-08-20T04:42:46.114</CreationDate>
+					<Notes/>
+					<Namespace>http://schemas/TCCICACApplication/ContractApplication/operations</Namespace>
+					<OwnerMessageType></OwnerMessageType>
+					<UseDefaultValues>false</UseDefaultValues>
+					<CustomMessageParts/>
+					<MessageParts/>
+					<RootOwner>
+						<uri
+							id="000C29A4-908D-A1F0-9F5F-EFC5762B3D2F"
+						/>
+					</RootOwner>
+				</Message>
+			</ActivityMessages>
+			<ContainerProcess>
+				<uri
+					id="000C29A4-908D-A1F0-8E8A-F0DC8BA8FD29"
+				/>
+			</ContainerProcess>
+			<InputMessageObject/>
+			<MessageMap>
+				<MessageMap
+					type="com.cordys.bpm.messagemap.MessageMap"
+					RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-EFC57624BD2F">
+					<DocumentID>000C29A4-908D-A1F0-9F5F-EFC576247D2F</DocumentID>
+					<Name>UpdateContractApplication (2)</Name>
+					<Description>UpdateContractApplication (2)</Description>
+					<CreatedBy>apawar@Appworks</CreatedBy>
+					<CreationDate>2025-08-20T04:42:46.116</CreationDate>
+					<Notes/>
+					<afterAssignment/>
+					<beforeAssignment>
+						<activity
+							xmlns="">
+							<mapping
+								sourceId=""
+								targetId="o_149_UpdateContractApplicationInput_UpdateContractApplication_ContractApplication-id_ItemId"
+								isProcessVariable="false"
+								isCaseVariable="false"
+								targetAssign="ns2:UpdateContractApplicationInput/ns2:UpdateContractApplication/ns3:ContractApplication-id/ns3:ItemId"
+								operation="Replace Content With"
+								operation2="Select"
+								isNillable="false">
+								<sourceAssign>ns11:ReadApplicationOutput/ns11:ReadApplicationResponse/ns5:Application/ns5:ToOneContractApplication/ns3:ContractApplication-id/ns3:ItemId/text()</sourceAssign>
+							</mapping>
+							<mapping
+								sourceId=""
+								targetId="o_149_UpdateContractApplicationInput_UpdateContractApplication_ContractApplication-update_DealerMessage"
+								isProcessVariable="false"
+								isCaseVariable="false"
+								targetAssign="ns2:UpdateContractApplicationInput/ns2:UpdateContractApplication/ns3:ContractApplication-update/ns3:DealerMessage"
+								operation="Replace Content With"
+								operation2="Fixed Value"
+								isNillable="false">
+								<sourceAssign>0</sourceAssign>
+							</mapping>
+							<mapping
+								sourceId=""
+								targetId="o_149_UpdateContractApplicationInput_UpdateContractApplication_ContractApplication-update_UserMessage"
+								isProcessVariable="false"
+								isCaseVariable="false"
+								targetAssign="ns2:UpdateContractApplicationInput/ns2:UpdateContractApplication/ns3:ContractApplication-update/ns3:UserMessage"
+								operation="Replace Content With"
+								operation2="Fixed Value"
+								isNillable="false">
+								<sourceAssign>0</sourceAssign>
+							</mapping>
+						</activity>
+					</beforeAssignment>
+				</MessageMap>
+			</MessageMap>
+			<MonitorableEvents/>
+			<MonitorableKpis/>
+			<OutputMessageObject/>
+			<TranslatableName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-EFC576277D2F">
+					<DocumentID>000C29A4-908D-A1F0-9F5F-EFC576273D2F</DocumentID>
+					<Name>000C29A4-908D-A1F0-9F5F-EFC576273D2F</Name>
+					<Description>000C29A4-908D-A1F0-9F5F-EFC576273D2F</Description>
+					<CreatedBy>apawar@Appworks</CreatedBy>
+					<CreationDate>2025-08-20T04:42:46.114</CreationDate>
+					<Notes/>
+					<DeveloperText>ResetUserAndDealerFlag</DeveloperText>
+					<Identifier>
+						<uri
+							id="000C29A4-908D-A1F0-9F5F-EFC57627BD2F"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</TranslatableName>
+			<WebserviceBindingOperation>
+				<uri
+					id="000C29A4-908D-A1EF-BD0F-A677BE5ABD23"
 				/>
 			</WebserviceBindingOperation>
 		</ServiceTask>
@@ -5498,7 +5808,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>78</htmlChildPosition>
+			<htmlChildPosition>180</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -5654,7 +5964,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>79</htmlChildPosition>
+			<htmlChildPosition>181</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -5742,7 +6052,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>80</htmlChildPosition>
+			<htmlChildPosition>182</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -5898,7 +6208,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>81</htmlChildPosition>
+			<htmlChildPosition>183</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -5962,7 +6272,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>82</htmlChildPosition>
+			<htmlChildPosition>184</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6118,7 +6428,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>83</htmlChildPosition>
+			<htmlChildPosition>185</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6171,7 +6481,7 @@
 					id="o_70"
 					__shapeReferenceID="000C29A4-908D-A1F0-8E98-0D19ED7CBD29"
 					objectType="end"
-					left="1400%"
+					left="1570.01%"
 					top="530.01%"
 					display=""
 					user="apawar">
@@ -6224,7 +6534,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>84</htmlChildPosition>
+			<htmlChildPosition>186</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6277,7 +6587,7 @@
 					id="o_78"
 					__shapeReferenceID="000C29A4-908D-A1F0-8EAC-7AAF8D9EBD29"
 					objectType="activity"
-					left="1220%"
+					left="1390.01%"
 					top="510.01%"
 					width="140%"
 					height="80%"
@@ -6380,7 +6690,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>85</htmlChildPosition>
+			<htmlChildPosition>187</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6433,9 +6743,9 @@
 							connectorId="o_98"
 							source="o_78"
 							destination="o_70"
-							fromX="1360"
+							fromX="1530"
 							fromY="550"
-							toX="1400"
+							toX="1570"
 							toY="550"
 							display=""
 							user="apawar"
@@ -6444,7 +6754,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>86</htmlChildPosition>
+			<htmlChildPosition>188</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6508,7 +6818,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>87</htmlChildPosition>
+			<htmlChildPosition>189</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6616,7 +6926,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>88</htmlChildPosition>
+			<htmlChildPosition>190</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6700,7 +7010,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>89</htmlChildPosition>
+			<htmlChildPosition>191</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6830,7 +7140,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>90</htmlChildPosition>
+			<htmlChildPosition>192</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6918,7 +7228,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>91</htmlChildPosition>
+			<htmlChildPosition>193</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -6971,8 +7281,8 @@
 					id="o_142"
 					__shapeReferenceID="000C29A4-908D-A1F0-9866-979D96CCBD2B"
 					objectType="activity"
-					left="1040%"
-					top="510%"
+					left="1210.01%"
+					top="510.01%"
 					width="140%"
 					height="80%"
 					horizontalTextAlignment="center"
@@ -7000,70 +7310,6 @@
 		<GMFShapeReference
 			type="com.cordys.gmf.diagram.GMFShapeReference"
 			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
-			RuntimeDocumentID="000C29A4-908D-A1F0-9866-979D96CA7D2B">
-			<DocumentID>000C29A4-908D-A1F0-9866-979D96CA3D2B</DocumentID>
-			<Name>o_143</Name>
-			<Description>o_143</Description>
-			<CreatedBy>apawar@Appworks</CreatedBy>
-			<CreationDate>2025-07-15T16:45:49.367</CreationDate>
-			<Notes/>
-			<dataObject>
-				<linkedObjects
-					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0">
-					<line>
-						<object
-							id="o_144"
-							objectType="line"
-							connectorId="o_143"
-							source="o_45"
-							destination="o_142"
-							fromX="1000"
-							fromY="550"
-							toX="1040"
-							toY="550"
-							display=""
-							user="apawar"
-						/>
-					</line>
-				</linkedObjects>
-			</dataObject>
-			<height></height>
-			<htmlChildPosition>92</htmlChildPosition>
-			<left></left>
-			<objectXML>
-				<object
-					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
-					id="o_143"
-					__shapeReferenceID="000C29A4-908D-A1F0-9866-979D96CA3D2B"
-					objectType="connector"
-					connectorType="connector"
-					source="o_45"
-					destination="o_142"
-					direction="one way"
-					isDefault="false"
-					sourceIntersection="center"
-					destinationIntersection="center">
-					<dataObject
-						name="connector">
-						<c:uri
-							xmlns:c="http://schemas.cordys.com/cws/1.0"
-							id="000C29A4-908D-A1F0-9866-979D96C9BD2B"
-						/>
-					</dataObject>
-				</object>
-			</objectXML>
-			<shapeType>connector</shapeType>
-			<top></top>
-			<width></width>
-			<ReferenceObject>
-				<uri
-					id="000C29A4-908D-A1F0-9866-979D96C9BD2B"
-				/>
-			</ReferenceObject>
-		</GMFShapeReference>
-		<GMFShapeReference
-			type="com.cordys.gmf.diagram.GMFShapeReference"
-			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
 			RuntimeDocumentID="000C29A4-908D-A1F0-9866-979D96C5FD2B">
 			<DocumentID>000C29A4-908D-A1F0-9866-979D96C5BD2B</DocumentID>
 			<Name>o_147</Name>
@@ -7081,9 +7327,9 @@
 							connectorId="o_147"
 							source="o_142"
 							destination="o_78"
-							fromX="1180"
+							fromX="1350"
 							fromY="550"
-							toX="1220"
+							toX="1390"
 							toY="550"
 							display=""
 							user="apawar"
@@ -7092,7 +7338,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>93</htmlChildPosition>
+			<htmlChildPosition>194</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -7122,6 +7368,180 @@
 			<ReferenceObject>
 				<uri
 					id="000C29A4-908D-A1F0-9866-979D96C53D2B"
+				/>
+			</ReferenceObject>
+		</GMFShapeReference>
+		<GMFShapeReference
+			type="com.cordys.gmf.diagram.GMFShapeReference"
+			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
+			RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-0BB5CECABD2F">
+			<DocumentID>000C29A4-908D-A1F0-9F5F-0BB5CECA7D2F</DocumentID>
+			<Name>o_149</Name>
+			<Description>o_149</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-08-20T04:42:46.116</CreationDate>
+			<Notes/>
+			<dataObject/>
+			<height></height>
+			<htmlChildPosition>55</htmlChildPosition>
+			<left></left>
+			<objectXML>
+				<object
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
+					id="o_149"
+					__shapeReferenceID="000C29A4-908D-A1F0-9F5F-0BB5CECA7D2F"
+					objectType="activity"
+					left="1040.01%"
+					top="510.01%"
+					width="140%"
+					height="80%"
+					horizontalTextAlignment="center"
+					verticalTextAlignment="middle"
+					display=""
+					user="apawar">
+					<dataObject
+						name="activity">
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="000C29A4-908D-A1F0-9F5F-EFC5762B3D2F"
+						/>
+					</dataObject>
+				</object>
+			</objectXML>
+			<shapeType>activity</shapeType>
+			<top></top>
+			<width></width>
+			<ReferenceObject>
+				<uri
+					id="000C29A4-908D-A1F0-9F5F-EFC5762B3D2F"
+				/>
+			</ReferenceObject>
+		</GMFShapeReference>
+		<GMFShapeReference
+			type="com.cordys.gmf.diagram.GMFShapeReference"
+			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
+			RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-0BB5CEC73D2F">
+			<DocumentID>000C29A4-908D-A1F0-9F5F-0BB5CEC6FD2F</DocumentID>
+			<Name>o_151</Name>
+			<Description>o_151</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-08-20T04:42:46.115</CreationDate>
+			<Notes/>
+			<dataObject>
+				<linkedObjects
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0">
+					<line>
+						<object
+							id="o_152"
+							objectType="line"
+							connectorId="o_151"
+							source="o_45"
+							destination="o_149"
+							fromX="1000"
+							fromY="550"
+							toX="1040"
+							toY="550"
+							display=""
+							user="apawar"
+						/>
+					</line>
+				</linkedObjects>
+			</dataObject>
+			<height></height>
+			<htmlChildPosition>195</htmlChildPosition>
+			<left></left>
+			<objectXML>
+				<object
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
+					id="o_151"
+					__shapeReferenceID="000C29A4-908D-A1F0-9F5F-0BB5CEC6FD2F"
+					objectType="connector"
+					connectorType="connector"
+					source="o_45"
+					destination="o_149"
+					direction="one way"
+					isDefault="false"
+					sourceIntersection="center"
+					destinationIntersection="center">
+					<dataObject
+						name="connector">
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="000C29A4-908D-A1F0-9F5F-0BB5CEC67D2F"
+						/>
+					</dataObject>
+				</object>
+			</objectXML>
+			<shapeType>connector</shapeType>
+			<top></top>
+			<width></width>
+			<ReferenceObject>
+				<uri
+					id="000C29A4-908D-A1F0-9F5F-0BB5CEC67D2F"
+				/>
+			</ReferenceObject>
+		</GMFShapeReference>
+		<GMFShapeReference
+			type="com.cordys.gmf.diagram.GMFShapeReference"
+			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
+			RuntimeDocumentID="000C29A4-908D-A1F0-9F5F-0BB5CEC5BD2F">
+			<DocumentID>000C29A4-908D-A1F0-9F5F-EFC5762EFD2F</DocumentID>
+			<Name>o_155</Name>
+			<Description>o_155</Description>
+			<CreatedBy>apawar@Appworks</CreatedBy>
+			<CreationDate>2025-08-20T04:42:46.115</CreationDate>
+			<Notes/>
+			<dataObject>
+				<linkedObjects
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0">
+					<line>
+						<object
+							id="o_156"
+							objectType="line"
+							connectorId="o_155"
+							source="o_149"
+							destination="o_142"
+							fromX="1180"
+							fromY="550"
+							toX="1210"
+							toY="550"
+							display=""
+							user="apawar"
+						/>
+					</line>
+				</linkedObjects>
+			</dataObject>
+			<height></height>
+			<htmlChildPosition>196</htmlChildPosition>
+			<left></left>
+			<objectXML>
+				<object
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
+					id="o_155"
+					__shapeReferenceID="000C29A4-908D-A1F0-9F5F-EFC5762EFD2F"
+					objectType="connector"
+					connectorType="connector"
+					source="o_149"
+					destination="o_142"
+					direction="one way"
+					isDefault="false"
+					sourceIntersection="center"
+					destinationIntersection="center">
+					<dataObject
+						name="connector">
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="000C29A4-908D-A1F0-9F5F-EFC5762E7D2F"
+						/>
+					</dataObject>
+				</object>
+			</objectXML>
+			<shapeType>connector</shapeType>
+			<top></top>
+			<width></width>
+			<ReferenceObject>
+				<uri
+					id="000C29A4-908D-A1F0-9F5F-EFC5762E7D2F"
 				/>
 			</ReferenceObject>
 		</GMFShapeReference>

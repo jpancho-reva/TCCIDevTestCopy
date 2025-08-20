@@ -2148,6 +2148,44 @@
 												</TranslatableText>
 											</ValueDisplayName>
 										</StaticTextEnum>
+										<StaticTextEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticTextEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1DB27"
+											RuntimeDocumentID="000C29A4-908D-A1F0-9F37-23761D2C7D2F">
+											<DocumentID>000C29A4-908D-A1F0-9F37-23761D2C3D2F</DocumentID>
+											<Name>Untitled Static Text Enum (8)</Name>
+											<Description>Untitled Static Text Enum (8)</Description>
+											<CreatedBy>apawar@Appworks</CreatedBy>
+											<CreationDate>2025-08-19T10:31:53.582</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>Send Dealer Message</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="000C296D-722E-A1EF-B391-1FDD2523FD1B"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="000C29A4-908D-A1F0-9F37-23761D2BBD2F">
+													<DocumentID>000C29A4-908D-A1F0-9F37-23761D2B7D2F</DocumentID>
+													<Name>000C29A4-908D-A1F0-9F37-23761D2B7D2F</Name>
+													<Description>000C29A4-908D-A1F0-9F37-23761D2B7D2F</Description>
+													<CreatedBy>apawar@Appworks</CreatedBy>
+													<CreationDate>2025-08-19T10:31:53.582</CreationDate>
+													<Notes/>
+													<DeveloperText>Send Dealer Message</DeveloperText>
+													<Identifier>
+														<uri	id="000C29A4-908D-A1F0-815E-2736B510BD27"
+														/>
+													</Identifier>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticTextEnum>
 									</Enums>
 									<PropertyDefinition>
 										<uri

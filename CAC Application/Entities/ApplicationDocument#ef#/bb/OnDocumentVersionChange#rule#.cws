@@ -23,7 +23,7 @@
 	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
-	<Expression>item.qpid(000C296D722EA1EFADAB1655D24BFD17.000C296D722EA1EFADACE63181C5FD17) is not null</Expression>
+	<Expression>item.qpid(000C296D722EA1EFADAB1655D24BFD17.000C296D722EA1EFADACE63181C5FD17) is not null &amp;&amp; item.qpid(000C296D722EA1EFADACF4B8F9957D17.000C296D722EA1EFACB5513098AAFD17.000C296D722EA1EFACB7FCE65E59FD17)!=&quot;MIC&quot;</Expression>
 	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
@@ -71,13 +71,13 @@
 			<CreatedBy>kgohil@Appworks</CreatedBy>
 			<CreationDate>2025-04-04T11:19:15.946</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(000C296D722EA1EFADAB1655D24BFD17.000C296D722EA1EFADACE63181C5FD17) is not null</EncodedExpression>
+			<EncodedExpression>item.qpid(000C296D722EA1EFADAB1655D24BFD17.000C296D722EA1EFADACE63181C5FD17) is not null &amp;&amp; item.qpid(000C296D722EA1EFADACF4B8F9957D17.000C296D722EA1EFACB5513098AAFD17.000C296D722EA1EFACB7FCE65E59FD17)!=&quot;MIC&quot;</EncodedExpression>
 			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Properties.Version is not null</HumanExpression>
+			<HumanExpression>item.Properties.Version is not null &amp;&amp; item.Application.Properties.Source!=&quot;MIC&quot;</HumanExpression>
 			<IsAdvancedOnly>0</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;211B0F125E124EA0A3AB5BA749126F6D&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;000C296D722EA1EFADACE63181C5FD17&quot;,&quot;itemMemberId&quot;:&quot;000C296D722EA1EFADAB1655D24BFD17&quot;,&quot;propertyId&quot;:&quot;000C296D722EA1EFADACE63181C5FD17&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;IsNotNull&quot;},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;000C296D722EA1EFADAB1655D24BFD17&quot;,&quot;propertyId&quot;:&quot;000C296D722EA1EFADACE63181C5FD17&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.Version&quot;}]}</QueryCriteria>
+			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;AC6D0D191886463F9DA1B71F373A1F74&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;000C296D722EA1EFADACE63181C5FD17&quot;,&quot;itemMemberId&quot;:&quot;000C296D722EA1EFADAB1655D24BFD17&quot;,&quot;propertyId&quot;:&quot;000C296D722EA1EFADACE63181C5FD17&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;IsNotNull&quot;},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;000C296D722EA1EFADAB1655D24BFD17&quot;,&quot;propertyId&quot;:&quot;000C296D722EA1EFADACE63181C5FD17&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.Version&quot;},{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;000C296D722EA1EFACB7FCE65E59FD17&quot;,&quot;itemMemberId&quot;:&quot;000C296D722EA1EFACB5513098AAFD17&quot;,&quot;propertyId&quot;:&quot;000C296D722EA1EFACB7FCE65E59FD17&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;ne&quot;,&quot;value&quot;:&quot;MIC&quot;,&quot;isValueExpression&quot;:false},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[&quot;000C296D722EA1EFADACF4B8F9957D17&quot;],&quot;itemMemberId&quot;:&quot;000C296D722EA1EFACB5513098AAFD17&quot;,&quot;propertyId&quot;:&quot;000C296D722EA1EFACB7FCE65E59FD17&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Application.Properties.Source&quot;}]}</QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -93,12 +93,65 @@
 			<UsedProperties>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="000C29A4-908D-A1F0-8450-B0EF11DD7D27">
-					<DocumentID>000C29A4-908D-A1F0-8450-B0EF11DD3D27</DocumentID>
-					<Name>000C29A4-908D-A1F0-8450-B0EF11DD3D27</Name>
-					<Description>item.Properties.Version</Description>
-					<CreatedBy>kgohil@Appworks</CreatedBy>
-					<CreationDate>2025-04-04T11:19:15.947</CreationDate>
+					RuntimeDocumentID="000C29A4-908D-A1F0-9E70-DE7D5870BD2F">
+					<DocumentID>000C29A4-908D-A1F0-9E70-DE7D58707D2F</DocumentID>
+					<Name>000C29A4-908D-A1F0-9E70-DE7D58707D2F</Name>
+					<Description>item.Application.Properties.Source</Description>
+					<CreatedBy>apawar@Appworks</CreatedBy>
+					<CreationDate>2025-08-15T10:52:35.11</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>1</NumberOfIntermediateRelationships>
+					<IntermediateRelationships>
+						<RelationshipReference
+							type="com.cordys.entity.core.objectpath.RelationshipReference"
+							RuntimeDocumentID="000C29A4-908D-A1F0-9E70-DE7D58703D2F">
+							<DocumentID>000C29A4-908D-A1F0-9E70-DE7D586FFD2F</DocumentID>
+							<Name>000C29A4-908D-A1F0-9E70-DE7D586FFD2F</Name>
+							<Description>000C29A4-908D-A1F0-9E70-DE7D586FFD2F</Description>
+							<CreatedBy>apawar@Appworks</CreatedBy>
+							<CreationDate>2025-08-15T10:52:35.11</CreationDate>
+							<Notes/>
+							<Relationship>
+								<uri
+									id="000C296D-722E-A1EF-ADAC-F4B8F9953D17"
+								/>
+							</Relationship>
+						</RelationshipReference>
+					</IntermediateRelationships>
+					<Object>
+						<uri
+							id="000C29A4-908D-A1F0-8450-B0EF11DEBD27"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="000C29A4-908D-A1F0-8450-B0EF11DF3D27"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="000C296D-722E-A1EF-ADAB-1655D25CFD17"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="000C296D-722E-A1EF-ACB7-FCE65E59BD17"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="000C296D-722E-A1EF-ADAB-1655D25CFD17"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="000C29A4-908D-A1F0-9E70-DE7D586F7D2F">
+					<DocumentID>000C29A4-908D-A1F0-9E70-DE7D586F3D2F</DocumentID>
+					<Name>000C29A4-908D-A1F0-9E70-DE7D586F3D2F</Name>
+					<Description>000C29A4-908D-A1F0-9E70-DE7D586F3D2F</Description>
+					<CreatedBy>apawar@Appworks</CreatedBy>
+					<CreationDate>2025-08-15T10:52:35.11</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
