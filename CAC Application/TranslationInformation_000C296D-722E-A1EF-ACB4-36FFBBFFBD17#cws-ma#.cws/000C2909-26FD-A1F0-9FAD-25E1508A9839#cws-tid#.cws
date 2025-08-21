@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C2909-26FD-A1F0-9FAD-25E1508AD839">
+	<DocumentID>000C2909-26FD-A1F0-9FAD-25E1508A9839</DocumentID>
+	<Name>000C2909-26FD-A1F0-9FAD-25E1508A9839</Name>
+	<Description>DoAbsolutelyNothing</Description>
+	<CreatedBy>jeff-aw@AppworksInternal</CreatedBy>
+	<CreationDate>2025-08-21T17:31:14.913</CreationDate>
+	<Notes/>
+	<DefaultText>DoAbsolutelyNothing</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBC003D17"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C2909-26FD-A1F0-9FAD-25E1508B1839"
+		/>
+	</Translations>
+</TextIdentifier>

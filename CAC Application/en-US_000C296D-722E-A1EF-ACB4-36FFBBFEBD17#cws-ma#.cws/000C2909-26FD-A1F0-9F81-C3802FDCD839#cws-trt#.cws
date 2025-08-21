@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C2909-26FD-A1F0-9F81-C3802FDD1839">
+	<DocumentID>000C2909-26FD-A1F0-9F81-C3802FDCD839</DocumentID>
+	<Name>000C2909-26FD-A1F0-9F81-C3802FDCD839</Name>
+	<Description>PlaceholderTest</Description>
+	<CreatedBy>jeff-aw@AppworksInternal</CreatedBy>
+	<CreationDate>2025-08-20T21:07:02.272</CreationDate>
+	<Notes/>
+	<Text>PlaceholderTest</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C2909-26FD-A1F0-9F81-C3802FDC5839"
+		/>
+	</TextIdentifier>
+</TranslatedText>

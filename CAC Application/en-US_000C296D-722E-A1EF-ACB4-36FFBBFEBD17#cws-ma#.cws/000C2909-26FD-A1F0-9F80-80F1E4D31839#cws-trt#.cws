@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C2909-26FD-A1F0-9F80-80F1E4D35839">
+	<DocumentID>000C2909-26FD-A1F0-9F80-80F1E4D31839</DocumentID>
+	<Name>000C2909-26FD-A1F0-9F80-80F1E4D31839</Name>
+	<Description>ReadNAMessages</Description>
+	<CreatedBy>jeff-aw@AppworksInternal</CreatedBy>
+	<CreationDate>2025-08-20T20:38:20.339</CreationDate>
+	<Notes/>
+	<Text>ReadNAMessages</Text>
+	<Language>
+		<uri
+			id="000C296D-722E-A1EF-ACB4-36FFBBFF3D17"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C2909-26FD-A1F0-9F80-80F1E4D29839"
+		/>
+	</TextIdentifier>
+</TranslatedText>

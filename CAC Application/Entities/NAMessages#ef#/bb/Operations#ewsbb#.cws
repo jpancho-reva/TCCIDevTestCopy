@@ -51,7 +51,23 @@
 	</Entity>
 	<FindOperations/>
 	<Original/>
-	<ReadOperation/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C2909-26FD-A1F0-9F80-80F1E4E09839">
+			<DocumentID>000C2909-26FD-A1F0-9F80-80F1E4E05839</DocumentID>
+			<Name>ReadNAMessages</Name>
+			<Description>Read NAMessages</Description>
+			<CreatedBy>jeff-aw@AppworksInternal</CreatedBy>
+			<CreationDate>2025-08-20T20:26:59.53</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29A4-908D-A1F0-8DED-6BBBA525FD29"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
 	<RelationshipOperations/>
 	<UpdateOperation>
 		<EntityWebServiceUpdateOperation
